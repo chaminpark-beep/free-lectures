@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>무료특강 모아보기</title>
+<link href="https://fonts.googleapis.com/css2?family=Pretendard:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0b0f1a;
+    --bg2: #111827;
+    --bg3: #1a2234;
+    --border: rgba(255,255,255,0.07);
+    --border2: rgba(255,255,255,0.13);
+    --text: #e8edf5;
+    --text2: #8a97b0;
+    --text3: #5a6480;
+    --accent: #4f8ef7;
+    --accent2: #7c5af7;
+    --green: #22d3a0;
+    --tag-bg: rgba(79,142,247,0.12);
+    --tag-text: #7fb4ff;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Pretendard', -apple-system, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+  }
+
+  /* 헤더 */
+  .header {
+    padding: 48px 32px 32px;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+
+  .header-left h1 {
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    background: linear-gradient(135deg, #e8edf5 0%, #7fb4ff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 8px;
+  }
+
+  .header-left p {
+    font-size: 14px;
+    color: var(--text3);
+  }
+
+  .updated-badge {
+    font-size: 12px;
+    color: var(--text3);
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 6px 14px;
+    white-space: nowrap;
+  }
+
+  .updated-badge span {
+    color: var(--green);
+    margin-right: 4px;
+  }
+
+  /* 검색/필터 바 */
+  .filter-bar {
+    max-width: 1200px;
+    margin: 0 auto 32px;
+    padding: 0 32px;
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .search-wrap {
+    position: relative;
+    flex: 1;
+    min-width: 200px;
+  }
+
+  .search-wrap svg {
+    position: absolute;
+    left: 14px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--text3);
+  }
+
+  .search-input {
+    width: 100%;
+    background: var(--bg2);
+    border: 1px solid var(--border2);
+    border-radius: 10px;
+    padding: 10px 14px 10px 40px;
+    font-size: 14px;
+    color: var(--text);
+    outline: none;
+    font-family: inherit;
+    transition: border-color 0.2s;
+  }
+
+  .search-input::placeholder { color: var(--text3); }
+  .search-input:focus { border-color: var(--accent); }
+
+  .filter-btn {
+    background: var(--bg2);
+    border: 1px solid var(--border2);
+    border-radius: 10px;
+    padding: 10px 16px;
+    font-size: 13px;
+    color: var(--text2);
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.2s;
+    white-space: nowrap;
+  }
+
+  .filter-btn:hover { border-color: var(--accent); color: var(--accent); }
+  .filter-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+  /* 통계 */
+  .stats {
+    max-width: 1200px;
+    margin: 0 auto 28px;
+    padding: 0 32px;
+    display: flex;
+    gap: 20px;
+    font-size: 13px;
+    color: var(--text3);
+  }
+
+  .stat-item strong { color: var(--text2); }
+
+  /* 섹션 */
+  .sections {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 32px 64px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .section {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    overflow: hidden;
+    transition: border-color 0.2s;
+  }
+
+  .section:hover { border-color: var(--border2); }
+
+  .section-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 22px;
+    cursor: pointer;
+    user-select: none;
+    gap: 12px;
+  }
+
+  .section-header:hover { background: rgba(255,255,255,0.02); }
+
+  .section-left {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex: 1;
+    min-width: 0;
+  }
+
+  .site-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--accent);
+    flex-shrink: 0;
+  }
+
+  .site-dot.error { background: #ef4444; }
+  .site-dot.empty { background: var(--text3); }
+
+  .section-name {
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--text);
+  }
+
+  .section-url {
+    font-size: 12px;
+    color: var(--text3);
+    margin-top: 2px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .section-right {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
+  }
+
+  .count-badge {
+    font-size: 12px;
+    background: var(--tag-bg);
+    color: var(--tag-text);
+    border-radius: 20px;
+    padding: 3px 10px;
+    font-weight: 500;
+  }
+
+  .count-badge.zero { background: rgba(255,255,255,0.05); color: var(--text3); }
+  .count-badge.error-badge { background: rgba(239,68,68,0.1); color: #f87171; }
+
+  .toggle-arrow {
+    color: var(--text3);
+    font-size: 11px;
+    transition: transform 0.25s;
+  }
+
+  .section.collapsed .toggle-arrow { transform: rotate(180deg); }
+
+  /* 카드 그리드 */
+  .cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 12px;
+    padding: 4px 20px 20px;
+  }
+
+  .section.collapsed .cards-grid { display: none; }
+
+  .course-card {
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px;
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    transition: all 0.2s;
+  }
+
+  .course-card:hover {
+    border-color: var(--accent);
+    transform: translateY(-2px);
+    background: rgba(79,142,247,0.05);
+  }
+
+  .card-thumb {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 7px;
+    margin-bottom: 10px;
+    background: var(--bg2);
+  }
+
+  .card-title {
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--text);
+    line-height: 1.5;
+    margin-bottom: 8px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .card-date {
+    font-size: 12px;
+    color: var(--green);
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .card-date::before {
+    content: '';
+    display: inline-block;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: var(--green);
+  }
+
+  /* 에러 상태 */
+  .error-box {
+    padding: 16px 20px 20px;
+    font-size: 13px;
+    color: #f87171;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .section.collapsed .error-box { display: none; }
+
+  /* 빈 상태 */
+  .empty-box {
+    padding: 20px;
+    font-size: 13px;
+    color: var(--text3);
+    text-align: center;
+  }
+
+  .section.collapsed .empty-box { display: none; }
+
+  /* 로딩 */
+  .loading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    padding: 80px 0;
+    color: var(--text3);
+    font-size: 14px;
+  }
+
+  .spinner {
+    width: 32px;
+    height: 32px;
+    border: 2px solid var(--border2);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+  }
+
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* 검색 없음 */
+  .no-results {
+    text-align: center;
+    padding: 80px 0;
+    color: var(--text3);
+    font-size: 15px;
+  }
+
+  /* 반응형 */
+  @media (max-width: 640px) {
+    .header { padding: 32px 20px 24px; }
+    .filter-bar { padding: 0 20px; }
+    .stats { padding: 0 20px; }
+    .sections { padding: 0 20px 48px; }
+    .header-left h1 { font-size: 24px; }
+    .cards-grid { grid-template-columns: 1fr 1fr; gap: 10px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-left">
+    <h1>📚 무료특강 모아보기</h1>
+    <p>22개 플랫폼의 무료강의를 한 곳에서</p>
+  </div>
+  <div class="updated-badge" id="updatedBadge">
+    <span>●</span> 로딩 중...
+  </div>
+</div>
+
+<div class="filter-bar">
+  <div class="search-wrap">
+    <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+      <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+    </svg>
+    <input class="search-input" type="text" id="searchInput" placeholder="강의명 또는 플랫폼 검색...">
+  </div>
+  <button class="filter-btn active" id="btnAll" onclick="filterSites('all')">전체</button>
+  <button class="filter-btn" id="btnActive" onclick="filterSites('active')">강의 있음</button>
+  <button class="filter-btn" id="btnError" onclick="filterSites('error')">오류</button>
+</div>
+
+<div class="stats" id="statsBar"></div>
+
+<div class="sections" id="sectionsWrap">
+  <div class="loading">
+    <div class="spinner"></div>
+    <span>데이터 불러오는 중...</span>
+  </div>
+</div>
+
+<script>
+let allData = null;
+let currentFilter = 'all';
+
+async function loadData() {
+  try {
+    const res = await fetch('data.json?t=' + Date.now());
+    if (!res.ok) throw new Error('data.json을 찾을 수 없어요');
+    allData = await res.json();
+    render();
+  } catch (e) {
+    document.getElementById('sectionsWrap').innerHTML = `
+      <div class="no-results">
+        ⚠️ data.json을 불러오지 못했어요<br>
+        <small style="font-size:12px;color:var(--text3);margin-top:8px;display:block">GitHub Actions를 먼저 실행해 data.json을 생성해주세요</small>
+      </div>`;
+  }
+}
+
+function filterSites(type) {
+  currentFilter = type;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById('btn' + type.charAt(0).toUpperCase() + type.slice(1)).classList.add('active');
+  render();
+}
+
+function render() {
+  if (!allData) return;
+
+  const query = document.getElementById('searchInput').value.trim().toLowerCase();
+  const sites = allData.sites;
+
+  // 통계
+  const totalCourses = sites.reduce((s, site) => s + site.courses.length, 0);
+  const activeSites = sites.filter(s => s.courses.length > 0).length;
+  const errorSites = sites.filter(s => s.error).length;
+
+  document.getElementById('updatedBadge').innerHTML = `<span>●</span> ${allData.updated_at} 업데이트`;
+  document.getElementById('statsBar').innerHTML = `
+    <span>플랫폼 <strong>${sites.length}개</strong></span>
+    <span>강의 <strong>${totalCourses}개</strong></span>
+    <span>수집 성공 <strong>${activeSites}개</strong></span>
+    ${errorSites > 0 ? `<span>오류 <strong>${errorSites}개</strong></span>` : ''}
+  `;
+
+  // 필터
+  let filtered = sites.filter(site => {
+    if (currentFilter === 'active') return site.courses.length > 0;
+    if (currentFilter === 'error') return !!site.error;
+    return true;
+  });
+
+  // 검색 (플랫폼명 또는 강의명)
+  if (query) {
+    filtered = filtered.filter(site => {
+      if (site.name.toLowerCase().includes(query)) return true;
+      return site.courses.some(c => c.title.toLowerCase().includes(query));
+    });
+  }
+
+  if (filtered.length === 0) {
+    document.getElementById('sectionsWrap').innerHTML = `<div class="no-results">검색 결과가 없어요 🔍</div>`;
+    return;
+  }
+
+  const wrap = document.getElementById('sectionsWrap');
+  wrap.innerHTML = filtered.map(site => {
+    const hasError = !!site.error;
+    const hasCourses = site.courses.length > 0;
+
+    const dotClass = hasError ? 'error' : hasCourses ? '' : 'empty';
+    const badgeClass = hasError ? 'error-badge' : hasCourses ? '' : 'zero';
+    const badgeText = hasError ? '오류' : hasCourses ? `${site.courses.length}개` : '0개';
+
+    // 검색어 필터링된 강의만 표시
+    const courses = query
+      ? site.courses.filter(c => c.title.toLowerCase().includes(query) || site.name.toLowerCase().includes(query))
+      : site.courses;
+
+    let bodyHtml = '';
+    if (hasError) {
+      bodyHtml = `<div class="error-box">⚠️ ${site.error}</div>`;
+    } else if (courses.length === 0) {
+      bodyHtml = `<div class="empty-box">수집된 강의가 없어요</div>`;
+    } else {
+      bodyHtml = `<div class="cards-grid">
+        ${courses.map(c => `
+          <a class="course-card" href="${c.link || site.url}" target="_blank" rel="noopener">
+            ${c.thumbnail ? `<img class="card-thumb" src="${c.thumbnail}" alt="" loading="lazy" onerror="this.style.display='none'">` : ''}
+            <div class="card-title">${escHtml(c.title)}</div>
+            ${c.date ? `<div class="card-date">${escHtml(c.date)}</div>` : ''}
+          </a>
+        `).join('')}
+      </div>`;
+    }
+
+    return `
+      <div class="section" id="sec-${site.name}">
+        <div class="section-header" onclick="toggleSection('sec-${site.name}')">
+          <div class="section-left">
+            <div class="site-dot ${dotClass}"></div>
+            <div>
+              <div class="section-name">${escHtml(site.name)}</div>
+              <div class="section-url">${escHtml(site.url)}</div>
+            </div>
+          </div>
+          <div class="section-right">
+            <span class="count-badge ${badgeClass}">${badgeText}</span>
+            <span class="toggle-arrow">▲</span>
+          </div>
+        </div>
+        ${bodyHtml}
+      </div>
+    `;
+  }).join('');
+}
+
+function toggleSection(id) {
+  document.getElementById(id).classList.toggle('collapsed');
+}
+
+function escHtml(str) {
+  return String(str || '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+document.getElementById('searchInput').addEventListener('input', render);
+
+loadData();
+</script>
+</body>
+</html>

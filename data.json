@@ -1,0 +1,18 @@
+{
+  "updated_at": "2025-01-01 00:00",
+  "sites": [
+    {
+      "name": "예시 플랫폼",
+      "url": "https://example.com",
+      "courses": [
+        {
+          "title": "GitHub Actions 실행 후 실제 데이터로 채워집니다",
+          "date": "",
+          "link": "https://example.com",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
+    }
+  ]
+}
