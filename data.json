@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17 02:01",
+  "updated_at": "2026-04-17 15:28",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1776358673-39gatPZaqMUac1M1Q7cLnLQwOTGoRaGh",
+          "title": "sfo1::1776407093-qKl1cKKLtOmft6MC8aQphgbWIv4zwmUb",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1776358679-7lXMarrQCYBP7SN1J9F7koGN8QCOFdkE",
+          "title": "sfo1::1776407099-yKRRsGIh8pZnI4Td6ZorPdQVw05rAA0w",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1776358685-s0DSd68Qu0bDV9MWczmtrItv6fM7Qkpp",
+          "title": "sfo1::1776407106-CI5Fkv7k7AOI1GoMSjqk0zzyreBHR3sX",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -609,6 +609,12 @@
           "date": "",
           "link": "https://www.tpschool.co.kr/classes/267746",
           "thumbnail": "https://cdn.liveklass.com/course/1774943505743.png.medium"
+        },
+        {
+          "title": "Channel Talk pop-up",
+          "date": "",
+          "link": "https://www.tpschool.co.kr/p/webinar",
+          "thumbnail": ""
         }
       ],
       "error": null
@@ -760,7 +766,7 @@
       "url": "https://www.peterpanschool.co.kr/courses/free",
       "courses": [
         {
-          "title": "무료로 배울 수 있는 고퀄리티 강의들을 만나보세요(총 4개)",
+          "title": "무료로 배울 수 있는 고퀄리티 강의들을 만나보세요(총 3개)",
           "date": "",
           "link": "https://www.peterpanschool.co.kr/courses/free",
           "thumbnail": ""
@@ -779,12 +785,6 @@
         },
         {
           "title": "초간단 콘텐츠 블루오션 수익화 비밀!",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "AI로 영상 만들어 연 매출 6억 낸 틱톡쇼핑!",
           "date": "",
           "link": "https://www.peterpanschool.co.kr/courses/free",
           "thumbnail": ""
