@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21 01:25",
+  "updated_at": "2026-04-21 15:28",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1776702057-euwCbfyza5FRaggNDpc0DwoKjR7kKIUL",
+          "title": "iad1::1776752685-RTtfOgfi2grVIhufpLZcWzmDHHuIJgXW",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1776702062-Anf0eYxX2ncsHVdjhU7WZDLOdU4Dk5rf",
+          "title": "iad1::1776752691-n2jRvy2V2IN4Y0ty31JdArrDEbdwsqFF",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1776702068-JhpD0CCkiJjb4qLmVhk8yf2wSehyJkl6",
+          "title": "iad1::1776752697-rLoiPpxXLPGNcgZIf2TjEXP9dcX4ZhJs",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -189,8 +189,39 @@
     {
       "name": "시행착오",
       "url": "https://shco.co.kr/66",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://shco.co.kr/66\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "We're sorry. but you have sent too many requests to us recently. Please try again later.",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": ""
+        },
+        {
+          "title": "죄송합니다. 너무 많은 접속을 시도 혹은 비정상적인 요청을 하셨습니다. 나중에 다시 시도해주세요.",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": ""
+        },
+        {
+          "title": "(차단 코드: manual-block-ip)",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": ""
+        },
+        {
+          "title": "For urgent matters, please contact E-mail (help@imops.kr)",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": ""
+        },
+        {
+          "title": "긴급대응이 필요한 문제는 안내된 이메일로 접수 부탁드립니다.",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "엔잡연구소",
@@ -198,12 +229,6 @@
       "courses": [
         {
           "title": "3초 카톡플친하면 매일 무료 강의 소식이 옵니다.",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[김해준] 하루 20분! 부업으로 월 2천 번 AI 콘텐츠 대행 노하우",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -252,6 +277,12 @@
         },
         {
           "title": "상호 : N잡연구소(엔잡연구소)",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "대표이사 : 정준호 l 개인정보책임관리자 : 정준호",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -507,111 +538,33 @@
       "url": "https://www.goldpepper.kr/103/",
       "courses": [
         {
-          "title": "Alarm",
+          "title": "We're sorry. but you have sent too many requests to us recently. Please try again later.",
           "date": "",
           "link": "https://www.goldpepper.kr/103/",
-          "thumbnail": "https://www.goldpepper.kr/103//common/img/default_profile.png"
-        },
-        {
-          "title": "마이페이지 로그아웃",
-          "date": "",
-          "link": "https://www.goldpepper.kr/login?back_url=L3Nob3BfbXlwYWdl&type=mypage",
           "thumbnail": ""
         },
         {
-          "title": "황금후추 회사소개 황금후추 소개 상담안내",
+          "title": "죄송합니다. 너무 많은 접속을 시도 혹은 비정상적인 요청을 하셨습니다. 나중에 다시 시도해주세요.",
           "date": "",
-          "link": "https://www.goldpepper.kr/120",
+          "link": "https://www.goldpepper.kr/103/",
           "thumbnail": ""
         },
         {
-          "title": "회사소개",
+          "title": "(차단 코드: manual-block-ip)",
           "date": "",
-          "link": "https://www.goldpepper.kr/conpany",
+          "link": "https://www.goldpepper.kr/103/",
           "thumbnail": ""
         },
         {
-          "title": "황금후추 소개",
+          "title": "For urgent matters, please contact E-mail (help@imops.kr)",
           "date": "",
-          "link": "https://www.goldpepper.kr/about",
+          "link": "https://www.goldpepper.kr/103/",
           "thumbnail": ""
         },
         {
-          "title": "상담안내",
+          "title": "긴급대응이 필요한 문제는 안내된 이메일로 접수 부탁드립니다.",
           "date": "",
-          "link": "https://www.goldpepper.kr/124",
-          "thumbnail": ""
-        },
-        {
-          "title": "클래스 무료강의 부동산 사주 타로 전자책",
-          "date": "",
-          "link": "https://www.goldpepper.kr/125",
-          "thumbnail": ""
-        },
-        {
-          "title": "무료강의",
-          "date": "",
-          "link": "https://www.goldpepper.kr/103",
-          "thumbnail": ""
-        },
-        {
-          "title": "부동산",
-          "date": "",
-          "link": "https://www.goldpepper.kr/class4",
-          "thumbnail": ""
-        },
-        {
-          "title": "전자책",
-          "date": "",
-          "link": "https://www.goldpepper.kr/class5",
-          "thumbnail": ""
-        },
-        {
-          "title": "커뮤니티 1:1 문의",
-          "date": "",
-          "link": "https://www.goldpepper.kr/130",
-          "thumbnail": ""
-        },
-        {
-          "title": "1:1 문의",
-          "date": "",
-          "link": "http://pf.kakao.com/_hDACG",
-          "thumbnail": ""
-        },
-        {
-          "title": "수강 후기",
-          "date": "",
-          "link": "https://www.goldpepper.kr/review",
-          "thumbnail": ""
-        },
-        {
-          "title": "강의실",
-          "date": "",
-          "link": "https://www.goldpepper.kr/136",
-          "thumbnail": ""
-        },
-        {
-          "title": "황금후추",
-          "date": "",
-          "link": "https://www.goldpepper.kr/120",
-          "thumbnail": ""
-        },
-        {
-          "title": "클래스",
-          "date": "",
-          "link": "https://www.goldpepper.kr/125",
-          "thumbnail": ""
-        },
-        {
-          "title": "커뮤니티",
-          "date": "",
-          "link": "https://www.goldpepper.kr/130",
-          "thumbnail": ""
-        },
-        {
-          "title": "수강 후기",
-          "date": "",
-          "link": "https://www.goldpepper.kr/review",
+          "link": "https://www.goldpepper.kr/103/",
           "thumbnail": ""
         }
       ],
@@ -632,6 +585,12 @@
           "date": "",
           "link": "https://www.tpschool.co.kr/classes/267746",
           "thumbnail": "https://cdn.liveklass.com/course/1774943505743.png.medium"
+        },
+        {
+          "title": "Channel Talk pop-up",
+          "date": "",
+          "link": "https://www.tpschool.co.kr/p/webinar",
+          "thumbnail": ""
         }
       ],
       "error": null
@@ -783,7 +742,7 @@
       "url": "https://www.peterpanschool.co.kr/courses/free",
       "courses": [
         {
-          "title": "무료로 배울 수 있는 고퀄리티 강의들을 만나보세요(총 3개)",
+          "title": "무료로 배울 수 있는 고퀄리티 강의들을 만나보세요(총 2개)",
           "date": "",
           "link": "https://www.peterpanschool.co.kr/courses/free",
           "thumbnail": ""
@@ -796,12 +755,6 @@
         },
         {
           "title": "촬영 편집 필요없는 스마트폰 하나로 가장 빠른 수익화",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "초간단 콘텐츠 블루오션 수익화 비밀!",
           "date": "",
           "link": "https://www.peterpanschool.co.kr/courses/free",
           "thumbnail": ""
