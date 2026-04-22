@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22 01:24",
+  "updated_at": "2026-04-22 15:28",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1776788411-bTRWbyJwv47iAvp8zRPsQKsxLTC4oqbF",
+          "title": "iad1::1776839075-eqwoLI2YwtUkOh9wJOqtOR1e47TiqXQ8",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1776788417-28FT1qpMlLnI2He5HbWukirS7MaZFatJ",
+          "title": "iad1::1776839081-sVamhVg3eE0NnOefvfA0yrUHpORExZYt",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1776788424-oE42Wpo2RSuW3GJun6KexEHH3lV1Imhj",
+          "title": "iad1::1776839087-NxEknYBCyMvqKsSATfbAFHFPAdG9Teh5",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -178,10 +178,10 @@
           "thumbnail": ""
         },
         {
-          "title": "Previous Next 1 2 3 4 5",
+          "title": "Previous Next 1 2 3 4 5 6 7 8",
           "date": "",
-          "link": "https://millmus.com/lecture/detail/742",
-          "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2Fec7c1391-e14d-455a-8946-b6161fbf2667.png&w=3840&q=75"
+          "link": "https://millmus.com/lecture/detail/747",
+          "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2Fbed81933-4859-42ee-be86-88b86348099e.png&w=3840&q=75"
         }
       ],
       "error": null
@@ -585,6 +585,12 @@
           "date": "",
           "link": "https://www.tpschool.co.kr/classes/267746",
           "thumbnail": "https://cdn.liveklass.com/course/1774943505743.png.medium"
+        },
+        {
+          "title": "Channel Talk pop-up",
+          "date": "",
+          "link": "https://www.tpschool.co.kr/p/webinar",
+          "thumbnail": ""
         }
       ],
       "error": null
@@ -592,8 +598,69 @@
     {
       "name": "아마겟돈클래스",
       "url": "https://amag-class.kr/Free-Class",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://amag-class.kr/Free-Class\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "[무료강의] 만날 사람 무한증식하는 보험 DB 마케팅 A ~ Z",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "ㄱ 김규민 WHOLELIFE",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "[2기] 연매출 100억 환사장의 자사몰 성공 노하우",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "[무료] 억대 매출을 만드는 릴스 바이럴 A to Z _ 3기",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "[무료] 월급에 0 하나 더 붙게되는 TOT 영업비밀",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "ㄱ 김나영 WHOLELIFE🕊️",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "[무료] 연매출 100억 환사장의 자사몰 성공 노하우",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "[무료] 맛집 홍보 부업으로, 월 300 벌기 노하우",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "[무료] 에어비앤비 & 단기임대 자동 수익화 노하우",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "[무료] 부업으로 월 300가능한 '병원 마케팅 대행사' 노하우 _ 2기",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "돈버는클래스",
