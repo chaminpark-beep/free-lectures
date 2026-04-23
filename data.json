@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23 15:32",
+  "updated_at": "2026-04-24 02:08",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1776925748-nNk6XyCGlL3ArFzTD04mJuBzCbeoz1b8",
+          "title": "sfo1::1776963922-Q7c9mep66Y0o5FYTUJlguri5rY7mqDHB",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1776925754-YFyufAufuqs1JXAM0gdi2TZwyA42B9iH",
+          "title": "sfo1::1776963927-SoXL83za6ZRYtjoIWjvwTZKikddM6Xx8",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1776925761-gPmPB1NcvBqE5meZS5k1SWItXMvCELE7",
+          "title": "sfo1::1776963933-SimrmCATr52avntyeQLZnZBaReK92WFP",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -80,12 +80,6 @@
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
       "courses": [
-        {
-          "title": "상위 1% 파티플래너가 공개하는 무자본으로 월 1000만원 번 수익화 비법",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
         {
           "title": "극내향인도 완전 가능!! 1인 틈새 부업 (전화X 영업X 주부O )",
           "date": "",
@@ -117,12 +111,6 @@
           "thumbnail": ""
         },
         {
-          "title": "AI 유튜브 시초가 알려주는 AI롱폼 성공공식",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
           "title": "건강식품판매! AI로 월 매출 1억 번 황금 공식",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
@@ -136,6 +124,18 @@
         },
         {
           "title": "하루 10분, 클릭 1번으로 100만원 번 비밀공식",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "하루 2시간 쇼핑으로 월2천만원 벌었던 방법",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "크록스 매출 50억 브랜드 셀링으로 월 1천만 원 번 비법 공개",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -725,22 +725,16 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "AI가 뽑아준 로고 따라 그려서 월 300 버는 AI 로고 제작 수익화",
+          "title": "AI가 뽑아준 로고 따라 그려서 월 3000 만든 AI 로고 수익화",
           "date": "",
           "link": "https://www.tpschool.co.kr/classes/267746",
-          "thumbnail": "https://cdn.liveklass.com/course/1774943505743.png.medium"
+          "thumbnail": "https://cdn.liveklass.com/course/1776934598406.png.medium"
         },
         {
-          "title": "AI가 뽑아준 로고 따라 그려서 월 300 버는 AI 로고 제작 수익화",
+          "title": "AI가 뽑아준 로고 따라 그려서 월 3000 만든 AI 로고 수익화",
           "date": "",
           "link": "https://www.tpschool.co.kr/classes/267746",
-          "thumbnail": "https://cdn.liveklass.com/course/1774943505743.png.medium"
-        },
-        {
-          "title": "Channel Talk pop-up",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/p/webinar",
-          "thumbnail": ""
+          "thumbnail": "https://cdn.liveklass.com/course/1776934598406.png.medium"
         }
       ],
       "error": null
@@ -817,13 +811,13 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "LIVE",
+          "title": "LIVE • VOD",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
         },
         {
-          "title": "LIVE",
+          "title": "LIVE • VOD",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
