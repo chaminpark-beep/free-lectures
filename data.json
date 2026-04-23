@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23 01:22",
+  "updated_at": "2026-04-23 15:32",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1776874709-J8WyXaJctIR1A724VAVvPev8qF0lBN8A",
+          "title": "cle1::1776925748-nNk6XyCGlL3ArFzTD04mJuBzCbeoz1b8",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1776874715-jdUylDpbk4x2SkL5eVgV6YdQh2FSLH6y",
+          "title": "cle1::1776925754-YFyufAufuqs1JXAM0gdi2TZwyA42B9iH",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1776874721-Ne2ARwNcfTeuEHplfY0dmTpKst9YwtTP",
+          "title": "cle1::1776925761-gPmPB1NcvBqE5meZS5k1SWItXMvCELE7",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -735,6 +735,12 @@
           "date": "",
           "link": "https://www.tpschool.co.kr/classes/267746",
           "thumbnail": "https://cdn.liveklass.com/course/1774943505743.png.medium"
+        },
+        {
+          "title": "Channel Talk pop-up",
+          "date": "",
+          "link": "https://www.tpschool.co.kr/p/webinar",
+          "thumbnail": ""
         }
       ],
       "error": null
@@ -990,6 +996,12 @@
       "url": "https://insightmoneylab.com/course-category/free-class/",
       "courses": [
         {
+          "title": "[0원 강의] 소액 숙박업으로 월 1000 현금흐름 5가지 방법 공개",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        },
+        {
           "title": "[0원 강의] 단기간 돈이 꽂히는 아파트 경매 끝판왕 패키지",
           "date": "",
           "link": "https://insightmoneylab.com/course-category/free-class/",
@@ -1100,7 +1112,31 @@
       "url": "https://buchinclass.com/class?mainCategory=5",
       "courses": [
         {
-          "title": "마감 [0원 강의] 공간 기획부터 수익화까지 A to Z 숙박업 끝판왕 아늑공 정우석 0.0 (0개) 무료 마감 [0원 강의] 6개월 만에 1억",
+          "title": "[0원 강의] 소액 경매 1건으로 3달만에 2천 단타 수익내기 전사이트 0.0 (0개) 무료 마감 [0원 강의] 공간 기획부터 수익화까지 A t",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[0원 강의] 소액 경매 1건으로 3달만에 2천 단타 수익내기 전사이트 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[0원 강의] 소액 경매 1건으로 3달만에 2천 단타 수익내기 전사이트 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[0원 강의] 소액 경매 1건으로 3달만에 2천 단타 수익내기",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "전사이트 0.0 (0개)",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
@@ -1149,30 +1185,6 @@
         },
         {
           "title": "원성환 0.0 (0개)",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "마감 [0원 강의] 하루 1시간 월 500, 자동으로 돈이 들어오는 스카 인수창업 올인원 송수미 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[0원 강의] 하루 1시간 월 500, 자동으로 돈이 들어오는 스카 인수창업 올인원 송수미 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[0원 강의] 하루 1시간 월 500, 자동으로 돈이 들어오는 스카 인수창업 올인원",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "송수미 0.0 (0개)",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
