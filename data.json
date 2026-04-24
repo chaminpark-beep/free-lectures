@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24 15:34",
+  "updated_at": "2026-04-25 00:58",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1777012232-e98Z0y4hQXoKgubfuNDrmqJ7Y8Jg2Oxi",
+          "title": "sfo1::1777046067-O72NQgmtjGXSvk7DMScXTE6fQgJDa6wB",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1777012238-Kw2rpqWcdCynI1aydsQ6tjPUywRaPbG9",
+          "title": "sfo1::1777046074-X8ELBKtI33zIu6FBUi16VklLbgoExvvl",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1777012244-0MXKGNWWUB00EFz7YERixZn0kj5T28WT",
+          "title": "sfo1::1777046080-ZcECaeYnA7G5Mvjer645jkIDFEMe63zT",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -324,6 +324,12 @@
           "thumbnail": ""
         },
         {
+          "title": "[청담언니 루시 2기] 하루에 딱 20분! 고퀄리티 AI 롱폼으로 월2천 번 노하우",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
           "title": "무료특강 일정 알림을",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
@@ -343,12 +349,6 @@
         },
         {
           "title": "상호 : N잡연구소(엔잡연구소)",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "대표이사 : 정준호 l 개인정보책임관리자 : 정준호",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -671,10 +671,16 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "403 Forbidden",
+          "title": "AI가 뽑아준 로고 따라 그려서 월 3000 만든 AI 로고 수익화",
           "date": "",
-          "link": "https://www.tpschool.co.kr/p/webinar",
-          "thumbnail": ""
+          "link": "https://www.tpschool.co.kr/classes/267746",
+          "thumbnail": "https://cdn.liveklass.com/course/1776934598406.png.medium"
+        },
+        {
+          "title": "AI가 뽑아준 로고 따라 그려서 월 3000 만든 AI 로고 수익화",
+          "date": "",
+          "link": "https://www.tpschool.co.kr/classes/267746",
+          "thumbnail": "https://cdn.liveklass.com/course/1776934598406.png.medium"
         }
       ],
       "error": null
@@ -683,6 +689,12 @@
       "name": "아마겟돈클래스",
       "url": "https://amag-class.kr/Free-Class",
       "courses": [
+        {
+          "title": "규민 DB 마케팅 클래스",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
         {
           "title": "[무료강의] 만날 사람 무한증식하는 보험 DB 마케팅 A ~ Z",
           "date": "",
@@ -736,12 +748,6 @@
           "date": "",
           "link": "https://amag-class.kr/Free-Class",
           "thumbnail": ""
-        },
-        {
-          "title": "[무료] 부업으로 월 300가능한 '병원 마케팅 대행사' 노하우 _ 2기",
-          "date": "",
-          "link": "https://amag-class.kr/Free-Class",
-          "thumbnail": ""
         }
       ],
       "error": null
@@ -751,7 +757,25 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "403 Forbidden",
+          "title": "LIVE • VOD",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "LIVE • VOD",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "LIVE",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "LIVE",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
