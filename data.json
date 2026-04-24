@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24 02:08",
+  "updated_at": "2026-04-24 15:34",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1776963922-Q7c9mep66Y0o5FYTUJlguri5rY7mqDHB",
+          "title": "iad1::1777012232-e98Z0y4hQXoKgubfuNDrmqJ7Y8Jg2Oxi",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1776963927-SoXL83za6ZRYtjoIWjvwTZKikddM6Xx8",
+          "title": "iad1::1777012238-Kw2rpqWcdCynI1aydsQ6tjPUywRaPbG9",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1776963933-SimrmCATr52avntyeQLZnZBaReK92WFP",
+          "title": "iad1::1777012244-0MXKGNWWUB00EFz7YERixZn0kj5T28WT",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -284,12 +284,6 @@
           "title": "무료특강",
           "date": "",
           "link": "https://shco.co.kr/66",
-          "thumbnail": ""
-        },
-        {
-          "title": "프리미엄 강의",
-          "date": "",
-          "link": "https://shco.co.kr/21",
           "thumbnail": ""
         }
       ],
@@ -537,60 +531,6 @@
           "thumbnail": ""
         },
         {
-          "title": "퇴근 후 방구석에서 월 1500만원! 유튜브로 10억 벌었던 외국인 콘텐츠 노하우",
-          "date": "",
-          "link": "https://cyclehackers.com/product/744891/",
-          "thumbnail": "https://cyclehackers.com/wp-content/uploads/2026/03/유동원님-정규과정-썸네일-360x203.jpg"
-        },
-        {
-          "title": "기획+촬영+디자인 마스터! 상세페이지 디렉터 정규과정",
-          "date": "",
-          "link": "https://cyclehackers.com/product/734545/",
-          "thumbnail": "https://cyclehackers.com/wp-content/uploads/2026/01/2Thumb-360x203.jpg"
-        },
-        {
-          "title": "최소 상품으로 억대 매출 낸 나물위탁& 브랜딩 4주 과정 정규반",
-          "date": "",
-          "link": "https://cyclehackers.com/product/729870/",
-          "thumbnail": "https://cyclehackers.com/wp-content/uploads/2025/10/thumbnail_1_복사본-024-360x203.jpg"
-        },
-        {
-          "title": "퇴근 후 방구석에서 월 1500만원! 유튜브로 10억 벌었던 외국인 콘텐츠 노하우",
-          "date": "",
-          "link": "https://cyclehackers.com/product/744891/",
-          "thumbnail": "https://cyclehackers.com/wp-content/uploads/2026/03/유동원님-정규과정-썸네일-360x203.jpg"
-        },
-        {
-          "title": "기획+촬영+디자인 마스터! 상세페이지 디렉터 정규과정",
-          "date": "",
-          "link": "https://cyclehackers.com/product/734545/",
-          "thumbnail": "https://cyclehackers.com/wp-content/uploads/2026/01/2Thumb-360x203.jpg"
-        },
-        {
-          "title": "최소 상품으로 억대 매출 낸 나물위탁& 브랜딩 4주 과정 정규반",
-          "date": "",
-          "link": "https://cyclehackers.com/product/729870/",
-          "thumbnail": "https://cyclehackers.com/wp-content/uploads/2025/10/thumbnail_1_복사본-024-360x203.jpg"
-        },
-        {
-          "title": "퇴근 후 방구석에서 월 1500만원! 유튜브로 10억 벌었던 외국인 콘텐츠 노하우",
-          "date": "",
-          "link": "https://cyclehackers.com/product/744891/",
-          "thumbnail": "https://cyclehackers.com/wp-content/uploads/2026/03/유동원님-정규과정-썸네일-360x203.jpg"
-        },
-        {
-          "title": "기획+촬영+디자인 마스터! 상세페이지 디렉터 정규과정",
-          "date": "",
-          "link": "https://cyclehackers.com/product/734545/",
-          "thumbnail": "https://cyclehackers.com/wp-content/uploads/2026/01/2Thumb-360x203.jpg"
-        },
-        {
-          "title": "최소 상품으로 억대 매출 낸 나물위탁& 브랜딩 4주 과정 정규반",
-          "date": "",
-          "link": "https://cyclehackers.com/product/729870/",
-          "thumbnail": "https://cyclehackers.com/wp-content/uploads/2025/10/thumbnail_1_복사본-024-360x203.jpg"
-        },
-        {
           "title": "서비스이용약관",
           "date": "",
           "link": "https://cyclehackers.com/terms-of-service/",
@@ -600,6 +540,12 @@
           "title": "개인정보처리방침",
           "date": "",
           "link": "https://cyclehackers.com/privacy/",
+          "thumbnail": ""
+        },
+        {
+          "title": "환불규정",
+          "date": "",
+          "link": "https://cyclehackers.com/refund-policy/",
           "thumbnail": ""
         }
       ],
@@ -725,16 +671,10 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "AI가 뽑아준 로고 따라 그려서 월 3000 만든 AI 로고 수익화",
+          "title": "403 Forbidden",
           "date": "",
-          "link": "https://www.tpschool.co.kr/classes/267746",
-          "thumbnail": "https://cdn.liveklass.com/course/1776934598406.png.medium"
-        },
-        {
-          "title": "AI가 뽑아준 로고 따라 그려서 월 3000 만든 AI 로고 수익화",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/classes/267746",
-          "thumbnail": "https://cdn.liveklass.com/course/1776934598406.png.medium"
+          "link": "https://www.tpschool.co.kr/p/webinar",
+          "thumbnail": ""
         }
       ],
       "error": null
@@ -811,25 +751,7 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "LIVE • VOD",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "LIVE • VOD",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "LIVE",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "LIVE",
+          "title": "403 Forbidden",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
