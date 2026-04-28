@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28 17:01",
+  "updated_at": "2026-04-29 03:03",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1777363062-wc4YgPh68mWkOlQcsHgbpkzUWkrWzUfO",
+          "title": "sfo1::1777399155-AOlC80Hi4skiLDG90mFdos5okgtO6oEO",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1777363068-leQM6JfjnKgkO3tTUbGcUHhIbBXVfUNa",
+          "title": "sfo1::1777399161-GKzi9XTGXQDa33gffJemnGIUCaffLaKF",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1777363074-fdUloBXDcjj6wJKyvIeAkEz7GwXGS96O",
+          "title": "sfo1::1777399167-qiPMPWBTScnQtn4bX9HYKyYQftbJrhR6",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -99,7 +99,7 @@
           "thumbnail": ""
         },
         {
-          "title": "공미남의 차이나는 AI자동화 쇼핑대행",
+          "title": "초보자도 리스크 없이 월 2000! AI쇼핑대행 원데이특강",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -671,22 +671,16 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "AI가 뽑아준 로고 따라 그려서 월 3000 만든 AI 로고 수익화",
+          "title": "[로고파파] 순수익 300 될 때까지! AI 로고 수익화 마스터 클래스 (12개월 무이자 지원)",
+          "date": "",
+          "link": "https://www.tpschool.co.kr/classes/300140",
+          "thumbnail": "https://cdn.liveklass.com/course/1777375594436.png.medium"
+        },
+        {
+          "title": "[로고파파] AI가 뽑아준 로고 따라 그려서 월 3000 만든 AI 로고 수익화 무료특강",
           "date": "",
           "link": "https://www.tpschool.co.kr/classes/267746",
           "thumbnail": "https://cdn.liveklass.com/course/1777341685003.png.medium"
-        },
-        {
-          "title": "AI가 뽑아준 로고 따라 그려서 월 3000 만든 AI 로고 수익화",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/classes/267746",
-          "thumbnail": "https://cdn.liveklass.com/course/1777341685003.png.medium"
-        },
-        {
-          "title": "Channel Talk pop-up",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/p/webinar",
-          "thumbnail": ""
         }
       ],
       "error": null
