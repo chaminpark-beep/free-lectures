@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01 16:57",
+  "updated_at": "2026-05-02 00:40",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1777622036-CEe7mbSfoOXZrLVZrDzPBXK10ckIXkPW",
+          "title": "sfo1::1777649814-eMTw1xNL57puEhAVZo9iD8JB8t0IXNDX",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1777622042-HLZOSX09RCSVRFGVUfnLtZqFJobBb2bO",
+          "title": "sfo1::1777649820-1wECOLX1EMKcsLIj08x5vahvzzYffAp3",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1777622048-rfj3l5RclwOwcjCcC6sPVX0l9HHAGCm3",
+          "title": "sfo1::1777649826-JM1ojHtLGhbV1vP60Enfuoh1gciiCbZe",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -762,18 +762,6 @@
       "name": "돈버는클래스",
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
-        {
-          "title": "LIVE • VOD",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "LIVE • VOD",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
         {
           "title": "LIVE",
           "date": "",
