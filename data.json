@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03 16:34",
+  "updated_at": "2026-05-04 00:10",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1777793436-0QZiib0gxbkSwKPFVtSsfvzPAEKDwAmf",
+          "title": "sfo1::1777820800-CeXp5NEkwrxaysgbPq1ZCz1GjgpJ0SPe",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1777793442-Xly9bbiipWLtP2xS15nWfF97KrJt4nZg",
+          "title": "sfo1::1777820806-KNWVADzaBlrvS2relXxhozumzVtdvP1F",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1777793448-KH7qJqjoFLbdtjlHtoXS1oPAMoDoppyW",
+          "title": "sfo1::1777820812-I8tQh8tDKvZ0UsWZy1yw9qW3bZA9OXsF",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -79,69 +79,8 @@
     {
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
-      "courses": [
-        {
-          "title": "건강식품판매! AI로 월 매출 1억 번 황금 공식",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "초보자도 리스크 없이 월 2000! AI쇼핑대행 원데이특강",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "하루 10분, 클릭 1번으로 100만원 번 비밀공식",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "AI한테 쇼핑시켜서 월2천만원 벌었던 방법",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "매년 이맘때쯤 불티나게 팔리는 크록스 리셀 하루 만에 끝내기",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "외국인들도 쓸어담아가는 K-뷰티, '내 화장품 브랜드'로 방구석에서 돈 버는 법",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "50대 주부가 하루에 500만원 어치 장보고 돈 벌었던 비밀",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "찐초보를 위한 하루2시간! 가장 현실적인 네이버 부업",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "S그룹 시스템 복사 붙여넣기! 망하지 않는 위탁구조로 온라인 월급만들기",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "한국보다 훨씬 쉽고 1.5배 더버는 일본유튜브! 40대 유부녀들이 공개!",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.invader.co.kr/courses\", waiting until \"networkidle\"\n"
     },
     {
       "name": "밀레니얼머니스쿨",
@@ -434,12 +373,6 @@
           "thumbnail": ""
         },
         {
-          "title": "[무료강의] 월 300 효자상품 키워드",
-          "date": "",
-          "link": "https://www.moneyupclass.com/free-courses",
-          "thumbnail": ""
-        },
-        {
           "title": "[무료강의] AI 유튜브 쇼핑 숏폼",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
@@ -447,6 +380,12 @@
         },
         {
           "title": "[무료강의] AI 유튜브 비밀공식",
+          "date": "",
+          "link": "https://www.moneyupclass.com/free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "[무료강의] 마진 50% 독점 소싱 특강",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
           "thumbnail": ""
