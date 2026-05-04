@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-04 18:10",
+  "updated_at": "2026-05-05 02:22",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1777885612-eIvnWb5IddnVLwG9JyMgtak4tKEIO5oL",
+          "title": "iad1::1777915108-EDyk8OLqMtPXWah6YpL0OahTR0qjQhhJ",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1777885618-a7aGNARdTeyIUyVG3eMdRLbkl8AuL9mY",
+          "title": "iad1::1777915115-hXbctGIqfAHNFCWxTK6UG45jMWgfz0Mj",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1777885625-3oZ0wzuEWmJLDdoa0ibvWoJGlgra6xa7",
+          "title": "iad1::1777915121-LK8Z0WwwfE0MFBalQ4aNmxV8pTlkSQ14",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -696,12 +696,6 @@
       "url": "https://amag-class.kr/Free-Class",
       "courses": [
         {
-          "title": "규민 DB 마케팅 클래스",
-          "date": "",
-          "link": "https://amag-class.kr/Free-Class",
-          "thumbnail": ""
-        },
-        {
           "title": "[무료강의] 만날 사람 무한증식하는 보험 DB 마케팅 A ~ Z",
           "date": "",
           "link": "https://amag-class.kr/Free-Class",
@@ -751,6 +745,12 @@
         },
         {
           "title": "[무료] 에어비앤비 & 단기임대 자동 수익화 노하우",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "[무료] 부업으로 월 300가능한 '병원 마케팅 대행사' 노하우 _ 2기",
           "date": "",
           "link": "https://amag-class.kr/Free-Class",
           "thumbnail": ""
