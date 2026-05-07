@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07 18:49",
+  "updated_at": "2026-05-08 03:14",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1778147123-ErQnlNUmHKmZvBRhYPyfVdo4Jb2cNH1R",
+          "title": "iad1::1778177483-7zguusTKVwRDOwc6Or6McKPBYxjdqNXC",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1778147129-azTways6JEPKOx7jMhMCaSSBtfNZ91tk",
+          "title": "iad1::1778177489-FMBUlCXRa38pM4qGyu35NWeodSU79Hy8",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1778147135-uC9BcWgfm9usr26sHcOUXdz7JDILrF8n",
+          "title": "iad1::1778177495-vMbLsYuslzIv0XOMCSo5rlkIPLp7weNM",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -80,6 +80,12 @@
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
       "courses": [
+        {
+          "title": "월 100 도전!! AI 음악 플레이리스트로 수익화하기!",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
         {
           "title": "하루 10분, 클릭 1번으로 100만원 번 비밀공식",
           "date": "",
@@ -133,12 +139,6 @@
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
-        },
-        {
-          "title": "하루1분! 클릭1번! 월 1억 번 AI 과일 위탁판매",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
         }
       ],
       "error": null
@@ -189,8 +189,111 @@
     {
       "name": "시행착오",
       "url": "https://shco.co.kr/66",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://shco.co.kr/66\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "Alarm",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": "https://shco.co.kr/66/common/img/default_profile.png"
+        },
+        {
+          "title": "마이페이지 로그아웃",
+          "date": "",
+          "link": "https://shco.co.kr/login?back_url=L3Nob3BfbXlwYWdl&type=mypage",
+          "thumbnail": ""
+        },
+        {
+          "title": "시행착오란",
+          "date": "",
+          "link": "https://shco.co.kr/85",
+          "thumbnail": ""
+        },
+        {
+          "title": "무료특강 무료특강 Live",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": ""
+        },
+        {
+          "title": "무료특강 Live",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": ""
+        },
+        {
+          "title": "프리미엄 강의 정규과정 VOD 기초강의",
+          "date": "",
+          "link": "https://shco.co.kr/21",
+          "thumbnail": ""
+        },
+        {
+          "title": "정규과정",
+          "date": "",
+          "link": "https://shco.co.kr/21",
+          "thumbnail": ""
+        },
+        {
+          "title": "VOD 기초강의",
+          "date": "",
+          "link": "https://shco.co.kr/89",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 라인업 강사 목록 강사 지원하기",
+          "date": "",
+          "link": "https://shco.co.kr/83",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 목록",
+          "date": "",
+          "link": "https://shco.co.kr/83",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 지원하기",
+          "date": "",
+          "link": "https://shco.co.kr/80",
+          "thumbnail": ""
+        },
+        {
+          "title": "성장 라운지 수강생 후기 수강생 성과",
+          "date": "",
+          "link": "https://shco.co.kr/76",
+          "thumbnail": ""
+        },
+        {
+          "title": "수강생 후기",
+          "date": "",
+          "link": "https://shco.co.kr/76",
+          "thumbnail": ""
+        },
+        {
+          "title": "수강생 성과",
+          "date": "",
+          "link": "https://shco.co.kr/91",
+          "thumbnail": ""
+        },
+        {
+          "title": "시행착오란",
+          "date": "",
+          "link": "https://shco.co.kr/85",
+          "thumbnail": ""
+        },
+        {
+          "title": "무료특강",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": ""
+        },
+        {
+          "title": "정규과정",
+          "date": "",
+          "link": "https://shco.co.kr/21",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "엔잡연구소",
@@ -591,69 +694,8 @@
     {
       "name": "아마겟돈클래스",
       "url": "https://amag-class.kr/Free-Class",
-      "courses": [
-        {
-          "title": "[무료강의] 만날 사람 무한증식하는 보험 DB 마케팅 A ~ Z",
-          "date": "",
-          "link": "https://amag-class.kr/Free-Class",
-          "thumbnail": ""
-        },
-        {
-          "title": "ㄱ 김규민 WHOLELIFE",
-          "date": "",
-          "link": "https://amag-class.kr/Free-Class",
-          "thumbnail": ""
-        },
-        {
-          "title": "[2기] 연매출 100억 환사장의 자사몰 성공 노하우",
-          "date": "",
-          "link": "https://amag-class.kr/Free-Class",
-          "thumbnail": ""
-        },
-        {
-          "title": "[무료] 억대 매출을 만드는 릴스 바이럴 A to Z _ 3기",
-          "date": "",
-          "link": "https://amag-class.kr/Free-Class",
-          "thumbnail": ""
-        },
-        {
-          "title": "[무료] 월급에 0 하나 더 붙게되는 TOT 영업비밀",
-          "date": "",
-          "link": "https://amag-class.kr/Free-Class",
-          "thumbnail": ""
-        },
-        {
-          "title": "ㄱ 김나영 WHOLELIFE🕊️",
-          "date": "",
-          "link": "https://amag-class.kr/Free-Class",
-          "thumbnail": ""
-        },
-        {
-          "title": "[무료] 연매출 100억 환사장의 자사몰 성공 노하우",
-          "date": "",
-          "link": "https://amag-class.kr/Free-Class",
-          "thumbnail": ""
-        },
-        {
-          "title": "[무료] 맛집 홍보 부업으로, 월 300 벌기 노하우",
-          "date": "",
-          "link": "https://amag-class.kr/Free-Class",
-          "thumbnail": ""
-        },
-        {
-          "title": "[무료] 에어비앤비 & 단기임대 자동 수익화 노하우",
-          "date": "",
-          "link": "https://amag-class.kr/Free-Class",
-          "thumbnail": ""
-        },
-        {
-          "title": "[무료] 부업으로 월 300가능한 '병원 마케팅 대행사' 노하우 _ 2기",
-          "date": "",
-          "link": "https://amag-class.kr/Free-Class",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://amag-class.kr/Free-Class\nCall log:\n  - navigating to \"https://amag-class.kr/Free-Class\", waiting until \"networkidle\"\n"
     },
     {
       "name": "돈버는클래스",
@@ -698,22 +740,10 @@
       "url": "https://moneyroot.co.kr/lectures/free",
       "courses": [
         {
-          "title": "네이버 연결 부업 무료강의",
+          "title": "503 Service Temporarily Unavailable",
           "date": "",
-          "link": "https://moneyroot.co.kr/shop/product/view?product_id=61",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_05_4.png"
-        },
-        {
-          "title": "네이버 연결 부업 무료강의",
-          "date": "",
-          "link": "https://moneyroot.co.kr/shop/product/view?product_id=61",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_05_4.png"
-        },
-        {
-          "title": "네이버 연결 부업 무료강의",
-          "date": "",
-          "link": "https://moneyroot.co.kr/shop/product/view?product_id=61",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_05_4.png"
+          "link": "https://moneyroot.co.kr/lectures/free",
+          "thumbnail": ""
         }
       ],
       "error": null
@@ -943,7 +973,31 @@
       "url": "https://buchinclass.com/class?mainCategory=5",
       "courses": [
         {
-          "title": "[0원 강의]3천으로 20억 만든 소액 노후빌라 재개발 투자 끝판왕 손가네 0.0 (0개) 무료 [0원 강의] 소액 경매 1건으로 3달만에 2천",
+          "title": "[0원강의]퇴근 후 1시간으로 대기업 월급 번 해외구매대행 구원 0.0 (0개) 무료 [0원 강의]3천으로 20억 만든 소액 노후빌라 재개발 투",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[0원강의]퇴근 후 1시간으로 대기업 월급 번 해외구매대행 구원 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[0원강의]퇴근 후 1시간으로 대기업 월급 번 해외구매대행 구원 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[0원강의]퇴근 후 1시간으로 대기업 월급 번 해외구매대행",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "구원 0.0 (0개)",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
@@ -992,36 +1046,6 @@
         },
         {
           "title": "전사이트 0.0 (0개)",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[1기] 조회수 뒤에 숨겨진 진짜 돈의 법칙, SNS 수익화 공사장 0.0 (0개) 42% 월 240,800원",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[1기] 조회수 뒤에 숨겨진 진짜 돈의 법칙, SNS 수익화 공사장 0.0 (0개) 42% 월 240,800원",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[1기] 조회수 뒤에 숨겨진 진짜 돈의 법칙, SNS 수익화",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "공사장 0.0 (0개)",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "42% 월 240,800원",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
