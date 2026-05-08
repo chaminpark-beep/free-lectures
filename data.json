@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08 03:14",
+  "updated_at": "2026-05-08 15:24",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1778177483-7zguusTKVwRDOwc6Or6McKPBYxjdqNXC",
+          "title": "cle1::1778221274-T9swo3BYi4BtdRsBvuyZ1MV3gWIYX88O",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1778177489-FMBUlCXRa38pM4qGyu35NWeodSU79Hy8",
+          "title": "cle1::1778221280-CfVH9uKfe6DRDLJ3vLOeeqsqJewoRUdp",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1778177495-vMbLsYuslzIv0XOMCSo5rlkIPLp7weNM",
+          "title": "cle1::1778221286-Xu7h3U26h0253Zy6fEb48trT9VYKlZuK",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -81,13 +81,13 @@
       "url": "https://www.invader.co.kr/courses",
       "courses": [
         {
-          "title": "월 100 도전!! AI 음악 플레이리스트로 수익화하기!",
+          "title": "왕초보도 가능! 상품부터 CS까지 다해주는 국내유일! 과일위탁판매",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
         },
         {
-          "title": "하루 10분, 클릭 1번으로 100만원 번 비밀공식",
+          "title": "월 100 도전!! AI 음악 플레이리스트로 수익화하기!",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -324,6 +324,12 @@
           "thumbnail": ""
         },
         {
+          "title": "[인피디]사진 한 장으로 월 천 번 인스타 캐러셀 수익화 노하우",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
           "title": "무료특강 일정 알림을",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
@@ -349,12 +355,6 @@
         },
         {
           "title": "대표이사 : 정준호 l 개인정보책임관리자 : 정준호",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "사업자번호 : 339-87-03570 l 통신판매신고번호 : 제 2025-서울강남-01438호",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -694,8 +694,69 @@
     {
       "name": "아마겟돈클래스",
       "url": "https://amag-class.kr/Free-Class",
-      "courses": [],
-      "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://amag-class.kr/Free-Class\nCall log:\n  - navigating to \"https://amag-class.kr/Free-Class\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "[무료강의] 만날 사람 무한증식하는 보험 DB 마케팅 A ~ Z",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "ㄱ 김규민 WHOLELIFE",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "[2기] 연매출 100억 환사장의 자사몰 성공 노하우",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "[무료] 억대 매출을 만드는 릴스 바이럴 A to Z _ 3기",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "[무료] 월급에 0 하나 더 붙게되는 TOT 영업비밀",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "ㄱ 김나영 WHOLELIFE🕊️",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "[무료] 연매출 100억 환사장의 자사몰 성공 노하우",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "[무료] 맛집 홍보 부업으로, 월 300 벌기 노하우",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "[무료] 에어비앤비 & 단기임대 자동 수익화 노하우",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "[무료] 부업으로 월 300가능한 '병원 마케팅 대행사' 노하우 _ 2기",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "돈버는클래스",
@@ -740,10 +801,22 @@
       "url": "https://moneyroot.co.kr/lectures/free",
       "courses": [
         {
-          "title": "503 Service Temporarily Unavailable",
+          "title": "네이버 연결 부업 무료강의",
           "date": "",
-          "link": "https://moneyroot.co.kr/lectures/free",
-          "thumbnail": ""
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=61",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_05_4.png"
+        },
+        {
+          "title": "네이버 연결 부업 무료강의",
+          "date": "",
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=61",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_05_4.png"
+        },
+        {
+          "title": "네이버 연결 부업 무료강의",
+          "date": "",
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=61",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_05_4.png"
         }
       ],
       "error": null
