@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08 15:24",
+  "updated_at": "2026-05-09 01:58",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1778221274-T9swo3BYi4BtdRsBvuyZ1MV3gWIYX88O",
+          "title": "iad1::1778259264-h8BGWgnjQmxy73SX07J0f4FccjiMneae",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1778221280-CfVH9uKfe6DRDLJ3vLOeeqsqJewoRUdp",
+          "title": "iad1::1778259270-NLenuM9OxjbhHNYxYsUHd1zCaQ0XirDT",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1778221286-Xu7h3U26h0253Zy6fEb48trT9VYKlZuK",
+          "title": "iad1::1778259276-ryCmj4G3aJz87MChVGQw3mQZDGc1rx0Q",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -80,12 +80,6 @@
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
       "courses": [
-        {
-          "title": "왕초보도 가능! 상품부터 CS까지 다해주는 국내유일! 과일위탁판매",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
         {
           "title": "월 100 도전!! AI 음악 플레이리스트로 수익화하기!",
           "date": "",
@@ -135,7 +129,13 @@
           "thumbnail": ""
         },
         {
-          "title": "한달에 3억씩 팔아요! 동대문 한번 안가고도, AI로 끝내는 \"의류중개\"",
+          "title": "[버티컬커머스] 남들은 모르는 수익화 전략",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "하루1분! 클릭1번! 월 1억 번 AI 과일 위탁판매",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -330,6 +330,12 @@
           "thumbnail": ""
         },
         {
+          "title": "[설아] 하루 20분이면 가능! 초간단 AI 플레이리스트 월 100만원 프로젝트",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
           "title": "무료특강 일정 알림을",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
@@ -349,12 +355,6 @@
         },
         {
           "title": "상호 : N잡연구소(엔잡연구소)",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "대표이사 : 정준호 l 개인정보책임관리자 : 정준호",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
