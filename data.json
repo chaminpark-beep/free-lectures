@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17 00:42",
+  "updated_at": "2026-05-17 12:03",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1778945934-Rx58DGO5GtHbnTvPvAuxQRWpUJys6w1R",
+          "title": "sfo1::1778986743-4kAY4VdcCgE3AxUMv1QCePQvaYPjgB56",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1778945940-8anfMPn335RhLRDYzGfRVaU0ZL2j0frz",
+          "title": "sfo1::1778986749-upu3HqtrSNa3M4kbO1I9EBz2CEmSdVOm",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1778945946-KcTlgIarxc1ZTg8BR8oT1rijJkcE4D1n",
+          "title": "sfo1::1778986755-DsT2HmufxLRl5FMI7cuQvEbf3sDeFfmY",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -79,69 +79,8 @@
     {
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
-      "courses": [
-        {
-          "title": "외국인들도 쓸어담아가는 K-뷰티, '내 화장품 브랜드'로 방구석에서 돈 버는 법",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[돈버는 장보기 프로젝트] 생필품 판매로 월 순익 2,000만원! ⭐월순익 100 프로젝트⭐",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "찐초보를 위한 하루2시간! 가장 현실적인 네이버 부업",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "120억 자산가 박과장이 직접 알려주는 무자본+제로리스크로 돈 번 방법!",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "한국보다 훨씬 쉽고 1.5배 더버는 일본유튜브! 40대 유부녀들이 공개!",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[버티컬커머스] 남들은 모르는 수익화 전략",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "하루1분! 클릭1번! 월 1억 번 AI 과일 위탁판매",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "자본금 7만 원으로 '내 건강식품' 완판하기",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "하루 1시간 '일본 AI 쇼핑'으로 월급 4배 버는 법",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "자본금 0원으로 월 1,000만 원 꽂히는 가장 쉬운 SNS 수익화 로드맵",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.invader.co.kr/courses\", waiting until \"networkidle\"\n"
     },
     {
       "name": "밀레니얼머니스쿨",
