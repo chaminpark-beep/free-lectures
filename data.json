@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19 12:34",
+  "updated_at": "2026-05-20 00:46",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1779161427-PBtzvAH50FqnMXm2QlY5wPZ37PRXPHvi",
+          "title": "sfo1::1779205357-CC6ffbyWIYhnVciTEF2iNumswyBP3KWE",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1779161433-02mIN4LLSp9w3weg2PVpvruqv87fcJD3",
+          "title": "sfo1::1779205363-ED7NQTOaUP4uDBjZJIhHOoun72k1dd1k",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1779161439-S5WJL8gN2zRKlEAzhoSulQ7lMzRa2agM",
+          "title": "sfo1::1779205369-Ddgd2tFiE7EnSWtLcsUiIuSeHjgIMM8g",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -87,13 +87,13 @@
           "thumbnail": ""
         },
         {
-          "title": "[선착순 혜택 단 30명] 120억 자산가 박과장이 직접 알려주는 무자본+제로리스크로 돈 번 방법!",
+          "title": "[선착순 혜택 단 30명] 한국보다 훨씬 쉽고 1.5배 더버는 일본유튜브! 40대 유부녀들이 공개!",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
         },
         {
-          "title": "한국보다 훨씬 쉽고 1.5배 더버는 일본유튜브! 40대 유부녀들이 공개!",
+          "title": "[선착순 혜택 단 30명] 120억 자산가 박과장이 직접 알려주는 무자본+제로리스크로 돈 번 방법!",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -234,12 +234,6 @@
           "thumbnail": ""
         },
         {
-          "title": "[배우는윤쇼]쿠팡으로 건강식품 팔아서 월 2억 달성한 노하우",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
           "title": "[릴리] 광고비 0원! 숏폼으로 월 300 더 벌기 프로젝트",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
@@ -259,6 +253,12 @@
         },
         {
           "title": "[설아] 하루 20분이면 가능! 초간단 AI 플레이리스트 월 100만원 프로젝트",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "[묘묘] 촬영, 편집 없이 가능! 영상 전달만하고 월 200 숏폼 중개 실전 클래스",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -537,12 +537,6 @@
           "date": "",
           "link": "https://www.tpschool.co.kr/classes/259955",
           "thumbnail": "https://cdn.liveklass.com/course/1778834853812.png.medium"
-        },
-        {
-          "title": "Channel Talk pop-up",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/p/webinar",
-          "thumbnail": ""
         }
       ],
       "error": null
