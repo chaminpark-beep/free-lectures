@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20 12:35",
+  "updated_at": "2026-05-21 00:51",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1779247884-cilIuxBZ552Na5EWPmwRIw390Dd7ZSyc",
+          "title": "iad1::1779292068-lWGsjex7J2hg3xbmC9bXsxtO15WF949c",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1779247890-rpXusx73umVcFBgT2IrqzJV9k8igQ9HA",
+          "title": "iad1::1779292073-R8J1mTvux1N2FMbOowgikme5ntvznNFd",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1779247896-p9Ac17YRvX0Hx3GzR7dvpcxawMOVwifm",
+          "title": "iad1::1779292079-b8KaSwu0YGZaXWRLv5q6wOY6Ci0NvMbi",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -99,7 +99,7 @@
           "thumbnail": ""
         },
         {
-          "title": "[버티컬커머스] 상품 1개로 6,000만원 수익 꽂히는 마진 70% 수익화 전략",
+          "title": "[선착순 당일결제혜택 30명] 후드집업 1개로 6,000만원 수익 꽂히는 마진 70% 수익화 전략",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -324,7 +324,19 @@
           "thumbnail": ""
         },
         {
+          "title": "[션 5기]누구나 할 수 있는 유튜브 해외 쇼츠",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
           "title": "[묘묘] 촬영, 편집 없이 가능! 영상 전달만하고 월 200 숏폼 중개 실전 클래스",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "[나혜선] 10만 원으로 월 300까지! 내 방에서 시작하는 나만의 꽃 브랜드 리부케 수익화 클래스",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -343,18 +355,6 @@
         },
         {
           "title": "주식회사 티티에이컴퍼니",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "상호 : N잡연구소(엔잡연구소)",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "대표이사 : 정준호 l 개인정보책임관리자 : 정준호",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -687,12 +687,6 @@
           "date": "",
           "link": "https://www.tpschool.co.kr/classes/259955",
           "thumbnail": "https://cdn.liveklass.com/course/1778834853812.png.medium"
-        },
-        {
-          "title": "Channel Talk pop-up",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/p/webinar",
-          "thumbnail": ""
         }
       ],
       "error": null
@@ -843,22 +837,22 @@
       "url": "https://moneyroot.co.kr/lectures/free",
       "courses": [
         {
-          "title": "AI 캐릭터 수익화 무료강의",
+          "title": "네이버 연결 부업 무료강의",
           "date": "",
-          "link": "https://moneyroot.co.kr/shop/product/view?product_id=60",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_01_4.png"
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=61",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_05_4.png"
         },
         {
-          "title": "AI 캐릭터 수익화 무료강의",
+          "title": "네이버 연결 부업 무료강의",
           "date": "",
-          "link": "https://moneyroot.co.kr/shop/product/view?product_id=60",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_01_4.png"
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=61",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_05_4.png"
         },
         {
-          "title": "AI 캐릭터 수익화 무료강의",
+          "title": "네이버 연결 부업 무료강의",
           "date": "",
-          "link": "https://moneyroot.co.kr/shop/product/view?product_id=60",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_01_4.png"
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=61",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_05_4.png"
         }
       ],
       "error": null
