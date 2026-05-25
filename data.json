@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25 12:46",
+  "updated_at": "2026-05-26 00:28",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1779680596-3IUZCLgUZbjZvM9hqgPlhospuH3CQRK9",
+          "title": "iad1::1779722659-FTQ7ZNYqylq3UsKx776ihi2WMF1hK8mH",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1779680602-Cv63RAxkGT93lZIxKQBGCAd4Z2io3Vqv",
+          "title": "iad1::1779722665-Ebgv6BV4myv0ce3NLtq8cICJYHFDi1p1",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1779680608-oYL2Qq36aIQrdcKuStyNQWx94x11XHkl",
+          "title": "iad1::1779722671-M6747zS84VuTlSugSi185PofddXB8nWY",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -80,12 +80,6 @@
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
       "courses": [
-        {
-          "title": "하루1분! 클릭1번! 월 1억 번 AI 과일 위탁판매",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
         {
           "title": "자본금 7만 원으로 '내 건강식품' 완판하기",
           "date": "",
@@ -136,6 +130,12 @@
         },
         {
           "title": "상위 1% 파티플래너가 공개하는 무자본으로 월 1000만원 번 수익화 비법",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "하루 10분, 클릭 1번으로 100만원 번 비밀공식",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -428,12 +428,6 @@
           "thumbnail": ""
         },
         {
-          "title": "[무료강의] AI 유튜브 비밀공식",
-          "date": "",
-          "link": "https://www.moneyupclass.com/free-courses",
-          "thumbnail": ""
-        },
-        {
           "title": "[무료강의] 마진 50% 독점 소싱 특강",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
@@ -477,6 +471,12 @@
         },
         {
           "title": "개인정보관리책임자 : 김상원 | 대표번호 : 070-8057-9339 (전화상담 미운영/채널톡 문의)",
+          "date": "",
+          "link": "https://www.moneyupclass.com/free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "핏크닉은 통신판매중개자로서 중개하는 거래에 대하여 책임을 부담하지 않습니다.",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
           "thumbnail": ""
@@ -687,12 +687,6 @@
           "date": "",
           "link": "https://www.tpschool.co.kr/classes/259955",
           "thumbnail": "https://cdn.liveklass.com/course/1778834853812.png.medium"
-        },
-        {
-          "title": "Channel Talk pop-up",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/p/webinar",
-          "thumbnail": ""
         }
       ],
       "error": null
