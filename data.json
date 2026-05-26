@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26 00:28",
+  "updated_at": "2026-05-26 12:33",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1779722659-FTQ7ZNYqylq3UsKx776ihi2WMF1hK8mH",
+          "title": "iad1::1779766162-bT7522AkOpvLut3k7WHpPX5mMDAGKJEe",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1779722665-Ebgv6BV4myv0ce3NLtq8cICJYHFDi1p1",
+          "title": "iad1::1779766168-m74hSdMWtL30PWNwxQ6bVyarO7vOzdoo",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1779722671-M6747zS84VuTlSugSi185PofddXB8nWY",
+          "title": "iad1::1779766174-vX2dE4tJmvzWa0p1B1anKkjMIbil92uX",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -117,12 +117,6 @@
           "thumbnail": ""
         },
         {
-          "title": "\"일본 예능 쇼츠\" 수익화 전략! 편집까지 자동으로!? (실제 실무 전과정 공개)",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
           "title": "영양제 팔아서 하루 순수익 200만원 번 판매 특강",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
@@ -136,6 +130,12 @@
         },
         {
           "title": "하루 10분, 클릭 1번으로 100만원 번 비밀공식",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "\"일본 예능 쇼츠\" 수익화 전략! 편집까지 자동으로!? (실제 실무 전과정 공개)",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -687,6 +687,12 @@
           "date": "",
           "link": "https://www.tpschool.co.kr/classes/259955",
           "thumbnail": "https://cdn.liveklass.com/course/1778834853812.png.medium"
+        },
+        {
+          "title": "Channel Talk pop-up",
+          "date": "",
+          "link": "https://www.tpschool.co.kr/p/webinar",
+          "thumbnail": ""
         }
       ],
       "error": null
