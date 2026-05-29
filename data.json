@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29 12:36",
+  "updated_at": "2026-05-30 01:05",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1780025541-yurIZNjVgEqXcvJDalZ8OrdirZBDu6HU",
+          "title": "cle1::1780070528-gGL3TBHRHDrnlKxh2FrCsN1zsKYklx7S",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1780025547-ZmIp4k4fpQ2klJfvcrjusKfhVRCaaLqc",
+          "title": "cle1::1780070534-jPWn7KlF611HMW4VfFTO7JG4eyp0fnjU",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1780025553-a9xKVfFnipL6EiBOzgzaQn2GcNt1HZm2",
+          "title": "cle1::1780070540-oxNW2yCW4fY4wzkZqpDKFWBOSpepbQu2",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -191,33 +191,105 @@
       "url": "https://shco.co.kr/66",
       "courses": [
         {
-          "title": "We're sorry. but you have sent too many requests to us recently. Please try again later.",
+          "title": "Alarm",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": "https://shco.co.kr/66/common/img/default_profile.png"
+        },
+        {
+          "title": "마이페이지 로그아웃",
+          "date": "",
+          "link": "https://shco.co.kr/login?back_url=L3Nob3BfbXlwYWdl&type=mypage",
+          "thumbnail": ""
+        },
+        {
+          "title": "시행착오란",
+          "date": "",
+          "link": "https://shco.co.kr/85",
+          "thumbnail": ""
+        },
+        {
+          "title": "무료특강 무료특강 Live",
           "date": "",
           "link": "https://shco.co.kr/66",
           "thumbnail": ""
         },
         {
-          "title": "죄송합니다. 너무 많은 접속을 시도 혹은 비정상적인 요청을 하셨습니다. 나중에 다시 시도해주세요.",
+          "title": "무료특강 Live",
           "date": "",
           "link": "https://shco.co.kr/66",
           "thumbnail": ""
         },
         {
-          "title": "(차단 코드: manual-block-ip)",
+          "title": "프리미엄 강의 정규과정 VOD 기초강의",
+          "date": "",
+          "link": "https://shco.co.kr/21",
+          "thumbnail": ""
+        },
+        {
+          "title": "정규과정",
+          "date": "",
+          "link": "https://shco.co.kr/21",
+          "thumbnail": ""
+        },
+        {
+          "title": "VOD 기초강의",
+          "date": "",
+          "link": "https://shco.co.kr/89",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 라인업 강사 목록 강사 지원하기",
+          "date": "",
+          "link": "https://shco.co.kr/83",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 목록",
+          "date": "",
+          "link": "https://shco.co.kr/83",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 지원하기",
+          "date": "",
+          "link": "https://shco.co.kr/80",
+          "thumbnail": ""
+        },
+        {
+          "title": "성장 라운지 수강생 후기 수강생 성과",
+          "date": "",
+          "link": "https://shco.co.kr/76",
+          "thumbnail": ""
+        },
+        {
+          "title": "수강생 후기",
+          "date": "",
+          "link": "https://shco.co.kr/76",
+          "thumbnail": ""
+        },
+        {
+          "title": "수강생 성과",
+          "date": "",
+          "link": "https://shco.co.kr/91",
+          "thumbnail": ""
+        },
+        {
+          "title": "시행착오란",
+          "date": "",
+          "link": "https://shco.co.kr/85",
+          "thumbnail": ""
+        },
+        {
+          "title": "무료특강",
           "date": "",
           "link": "https://shco.co.kr/66",
           "thumbnail": ""
         },
         {
-          "title": "For urgent matters, please contact E-mail (help@imops.kr)",
+          "title": "정규과정",
           "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": ""
-        },
-        {
-          "title": "긴급대응이 필요한 문제는 안내된 이메일로 접수 부탁드립니다.",
-          "date": "",
-          "link": "https://shco.co.kr/66",
+          "link": "https://shco.co.kr/21",
           "thumbnail": ""
         }
       ],
@@ -229,12 +301,6 @@
       "courses": [
         {
           "title": "3초 카톡플친하면 매일 무료 강의 소식이 옵니다.",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[설아] 하루 20분이면 가능! 초간단 AI 플레이리스트 월 100만원 프로젝트",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -253,6 +319,12 @@
         },
         {
           "title": "[나혜선] 10만 원으로 월 300까지! 내 방에서 시작하는 나만의 꽃 브랜드 리부케 수익화 클래스",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "[디노] 광고비 0원! 숏폼 활용해 월 500 AI 해외구매대행 실전 클래스",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -490,33 +562,111 @@
       "url": "https://www.goldpepper.kr/103/",
       "courses": [
         {
-          "title": "We're sorry. but you have sent too many requests to us recently. Please try again later.",
+          "title": "Alarm",
           "date": "",
           "link": "https://www.goldpepper.kr/103/",
+          "thumbnail": "https://www.goldpepper.kr/103//common/img/default_profile.png"
+        },
+        {
+          "title": "마이페이지 로그아웃",
+          "date": "",
+          "link": "https://www.goldpepper.kr/login?back_url=L3Nob3BfbXlwYWdl&type=mypage",
           "thumbnail": ""
         },
         {
-          "title": "죄송합니다. 너무 많은 접속을 시도 혹은 비정상적인 요청을 하셨습니다. 나중에 다시 시도해주세요.",
+          "title": "황금후추 회사소개 황금후추 소개 상담안내",
           "date": "",
-          "link": "https://www.goldpepper.kr/103/",
+          "link": "https://www.goldpepper.kr/120",
           "thumbnail": ""
         },
         {
-          "title": "(차단 코드: manual-block-ip)",
+          "title": "회사소개",
           "date": "",
-          "link": "https://www.goldpepper.kr/103/",
+          "link": "https://www.goldpepper.kr/conpany",
           "thumbnail": ""
         },
         {
-          "title": "For urgent matters, please contact E-mail (help@imops.kr)",
+          "title": "황금후추 소개",
           "date": "",
-          "link": "https://www.goldpepper.kr/103/",
+          "link": "https://www.goldpepper.kr/about",
           "thumbnail": ""
         },
         {
-          "title": "긴급대응이 필요한 문제는 안내된 이메일로 접수 부탁드립니다.",
+          "title": "상담안내",
           "date": "",
-          "link": "https://www.goldpepper.kr/103/",
+          "link": "https://www.goldpepper.kr/124",
+          "thumbnail": ""
+        },
+        {
+          "title": "클래스 무료강의 부동산 사주 타로 전자책",
+          "date": "",
+          "link": "https://www.goldpepper.kr/125",
+          "thumbnail": ""
+        },
+        {
+          "title": "무료강의",
+          "date": "",
+          "link": "https://www.goldpepper.kr/103",
+          "thumbnail": ""
+        },
+        {
+          "title": "부동산",
+          "date": "",
+          "link": "https://www.goldpepper.kr/class4",
+          "thumbnail": ""
+        },
+        {
+          "title": "전자책",
+          "date": "",
+          "link": "https://www.goldpepper.kr/class5",
+          "thumbnail": ""
+        },
+        {
+          "title": "커뮤니티 1:1 문의",
+          "date": "",
+          "link": "https://www.goldpepper.kr/130",
+          "thumbnail": ""
+        },
+        {
+          "title": "1:1 문의",
+          "date": "",
+          "link": "http://pf.kakao.com/_hDACG",
+          "thumbnail": ""
+        },
+        {
+          "title": "수강 후기",
+          "date": "",
+          "link": "https://www.goldpepper.kr/review",
+          "thumbnail": ""
+        },
+        {
+          "title": "강의실",
+          "date": "",
+          "link": "https://www.goldpepper.kr/136",
+          "thumbnail": ""
+        },
+        {
+          "title": "황금후추",
+          "date": "",
+          "link": "https://www.goldpepper.kr/120",
+          "thumbnail": ""
+        },
+        {
+          "title": "클래스",
+          "date": "",
+          "link": "https://www.goldpepper.kr/125",
+          "thumbnail": ""
+        },
+        {
+          "title": "커뮤니티",
+          "date": "",
+          "link": "https://www.goldpepper.kr/130",
+          "thumbnail": ""
+        },
+        {
+          "title": "수강 후기",
+          "date": "",
+          "link": "https://www.goldpepper.kr/review",
           "thumbnail": ""
         }
       ],
@@ -530,19 +680,13 @@
           "title": "제품군 3개로 누적 130억 매출! '나만의 제품' 만들기 무료특강",
           "date": "",
           "link": "https://www.tpschool.co.kr/classes/259955",
-          "thumbnail": "https://cdn.liveklass.com/course/1778834853812.png.medium"
-        },
-        {
-          "title": "제품군 3개로 누적 130억 매출! '나만의 제품' 만들기 무료특강",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/classes/259955",
-          "thumbnail": "https://cdn.liveklass.com/course/1778834853812.png.medium"
-        },
-        {
-          "title": "Channel Talk pop-up",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/p/webinar",
           "thumbnail": ""
+        },
+        {
+          "title": "[로고파파] AI가 뽑아준 로고 따라 그려서 월 3000 만든 AI 로고 수익화 무료특강",
+          "date": "",
+          "link": "https://www.tpschool.co.kr/classes/267746",
+          "thumbnail": "https://cdn.liveklass.com/course/1780031724949.png.medium"
         }
       ],
       "error": null
@@ -550,8 +694,69 @@
     {
       "name": "아마겟돈클래스",
       "url": "https://amag-class.kr/Free-Class",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://amag-class.kr/Free-Class\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "[무료강의] 만날 사람 무한증식하는 보험 DB 마케팅 A ~ Z",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "ㄱ 김규민 WHOLELIFE",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "[2기] 연매출 100억 환사장의 자사몰 성공 노하우",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "[무료] 억대 매출을 만드는 릴스 바이럴 A to Z _ 3기",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "[무료] 월급에 0 하나 더 붙게되는 TOT 영업비밀",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "ㄱ 김나영 WHOLELIFE🕊️",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "[무료] 연매출 100억 환사장의 자사몰 성공 노하우",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "[무료] 맛집 홍보 부업으로, 월 300 벌기 노하우",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "[무료] 에어비앤비 & 단기임대 자동 수익화 노하우",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        },
+        {
+          "title": "[무료] 부업으로 월 300가능한 '병원 마케팅 대행사' 노하우 _ 2기",
+          "date": "",
+          "link": "https://amag-class.kr/Free-Class",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "돈버는클래스",
