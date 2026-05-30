@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30 12:01",
+  "updated_at": "2026-05-30 23:01",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1780109870-iL9jR5CybhMwfrJejvjA6H7qqsxLzqqV",
+          "title": "iad1::1780149469-vuotnb8pX1OWTrFhw7CAklhwiDrTPa1U",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1780109876-LD08UsFDAyTik5OrB6o6qV4diyXbiF2R",
+          "title": "iad1::1780149475-81fZFA6ra3TOmbcKPufnxToYhVPQpabH",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1780109882-uOrMxjluGtrkrlNf8u7XJp5L9G807cQC",
+          "title": "iad1::1780149481-ZvLcsftl5CdYPKafGxvgXWVFnumMPc0P",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -135,7 +135,7 @@
           "thumbnail": ""
         },
         {
-          "title": "퇴근후 1시간! 월천 벌어다주는 광고소개 부업",
+          "title": "유튜브 전문가 '유튜브남매'의 롱폼 수익화 종착지",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -677,10 +677,16 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "403 Forbidden",
+          "title": "제품군 3개로 누적 130억 매출! '나만의 제품' 만들기 무료특강",
           "date": "",
-          "link": "https://www.tpschool.co.kr/p/webinar",
+          "link": "https://www.tpschool.co.kr/classes/259955",
           "thumbnail": ""
+        },
+        {
+          "title": "[로고파파] AI가 뽑아준 로고 따라 그려서 월 3000 만든 AI 로고 수익화 무료특강",
+          "date": "",
+          "link": "https://www.tpschool.co.kr/classes/267746",
+          "thumbnail": "https://cdn.liveklass.com/course/1780031724949.png.medium"
         }
       ],
       "error": null
@@ -757,7 +763,37 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "403 Forbidden",
+          "title": "LIVE",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "LIVE",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "LIVE",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "LIVE",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "LIVE",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "LIVE",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
