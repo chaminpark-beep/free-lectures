@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30 01:05",
+  "updated_at": "2026-05-30 12:01",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1780070528-gGL3TBHRHDrnlKxh2FrCsN1zsKYklx7S",
+          "title": "iad1::1780109870-iL9jR5CybhMwfrJejvjA6H7qqsxLzqqV",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1780070534-jPWn7KlF611HMW4VfFTO7JG4eyp0fnjU",
+          "title": "iad1::1780109876-LD08UsFDAyTik5OrB6o6qV4diyXbiF2R",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1780070540-oxNW2yCW4fY4wzkZqpDKFWBOSpepbQu2",
+          "title": "iad1::1780109882-uOrMxjluGtrkrlNf8u7XJp5L9G807cQC",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -677,16 +677,10 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "제품군 3개로 누적 130억 매출! '나만의 제품' 만들기 무료특강",
+          "title": "403 Forbidden",
           "date": "",
-          "link": "https://www.tpschool.co.kr/classes/259955",
+          "link": "https://www.tpschool.co.kr/p/webinar",
           "thumbnail": ""
-        },
-        {
-          "title": "[로고파파] AI가 뽑아준 로고 따라 그려서 월 3000 만든 AI 로고 수익화 무료특강",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/classes/267746",
-          "thumbnail": "https://cdn.liveklass.com/course/1780031724949.png.medium"
         }
       ],
       "error": null
@@ -763,49 +757,7 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "LIVE • VOD",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "LIVE • VOD",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "LIVE • VOD",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "LIVE • VOD",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "LIVE",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "LIVE",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "LIVE",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "LIVE",
+          "title": "403 Forbidden",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
