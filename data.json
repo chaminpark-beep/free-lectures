@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03 01:53",
+  "updated_at": "2026-06-03 13:05",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1780418956-ASWSNJTBSvOwj5DRsvT7juDhN0W4z2Wo",
+          "title": "cle1::1780459309-FG8yPVX0uRw0aTXoT0TYK2NRT753BuaA",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1780418962-lPGuud5eo2jSFE550nyu7yk1mMKmhEJZ",
+          "title": "cle1::1780459316-rGPOrxrYxxcK0Gbd5pLXxNx8vw85GEV5",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1780418968-wGFJOxc8fS03M9O1ZjhStC8z1ICVWAMt",
+          "title": "cle1::1780459322-HyTJkjcXdngEJb8yVOztvV7mrWj4ijDM",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -79,8 +79,69 @@
     {
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.invader.co.kr/courses\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "무자본, 무재고, 무광고! 산후조리원비 다 뽑고도 전문직 연봉 2배 번 비밀",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "하루 1시간 'AI 블로그'로 월 600만원 번 방법",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "영양제 팔아서 하루 순수익 200만원 번 판매 특강",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "상위 1% 파티플래너가 공개하는 무자본으로 월 1000만원 번 수익화 비법",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "하루 10분, 클릭 1번으로 100만원 번 비밀공식",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "AI로 완전 쉽게! 출퇴근 시간에도 돈 벌은 공동구매중개 (리스크X 무자본 O)",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "유튜브 전문가 '유튜브남매'의 롱폼 수익화 종착지",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "퇴근후 1시간! 월천 벌어다주는 광고소개 부업",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "99년생이 매달 쓰는 화장품으로 추가 부수입 만드는 방법",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "\"일본 예능 쇼츠\" 수익화 전략! 편집까지 자동으로!? (실제 실무 전과정 공개)",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "밀레니얼머니스쿨",
@@ -838,61 +899,43 @@
       "url": "https://insightmoneylab.com/course-category/free-class/",
       "courses": [
         {
-          "title": "Invalid SSL certificate Error code 526",
+          "title": "[0원 강의] 강남 부자들의 투자법! 부자되는 법인투자 공식",
           "date": "",
           "link": "https://insightmoneylab.com/course-category/free-class/",
           "thumbnail": ""
         },
         {
-          "title": "Visit cloudflare.com for more information.",
+          "title": "[0원 강의] 월 300 현금흐름 합법 에어비앤비 끝판왕",
           "date": "",
           "link": "https://insightmoneylab.com/course-category/free-class/",
           "thumbnail": ""
         },
         {
-          "title": "2026-06-02 16:52:27 UTC",
+          "title": "10:00 ~ 18:00",
           "date": "",
           "link": "https://insightmoneylab.com/course-category/free-class/",
           "thumbnail": ""
         },
         {
-          "title": "insightmoneylab.com",
+          "title": "help@insightmoneylab",
           "date": "",
           "link": "https://insightmoneylab.com/course-category/free-class/",
           "thumbnail": ""
         },
         {
-          "title": "What happened?",
+          "title": "주식회사 인사이트머니랩 대표이사 : 배종주 사업자번호 : 885-88-03051 l 통신판매신고번호 : 제2025-서울강남-06757",
           "date": "",
           "link": "https://insightmoneylab.com/course-category/free-class/",
           "thumbnail": ""
         },
         {
-          "title": "The origin web server does not have a valid SSL certificate.",
+          "title": "사업장주소 : 서울특별시 강남구 논현로71길 23-6, 3층 (역삼동) 고객센터 : 02-6958-7342",
           "date": "",
           "link": "https://insightmoneylab.com/course-category/free-class/",
           "thumbnail": ""
         },
         {
-          "title": "What can I do?",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "If you're a visitor of this website:",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "Please try again in a few minutes.",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "If you're the owner of this website:",
+          "title": "ⓒ 2024 인사이트머니랩. All rights reserved.",
           "date": "",
           "link": "https://insightmoneylab.com/course-category/free-class/",
           "thumbnail": ""
