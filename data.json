@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09 12:30",
+  "updated_at": "2026-06-10 00:26",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1780975593-qTkNCoHzYPMdOaYEizP0cTzyM38K8GTm",
+          "title": "cle1::1781018527-EIeMOO9iM12GwwTKej8PRoMllekU78uQ",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1780975599-BhIFzByqAeUB7ESBU6nJxGva4PjISobn",
+          "title": "cle1::1781018534-on9QqGYdjIDHnBNFWqQTMhWbvIgy89fT",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1780975605-WGDgTMEtpY6UrBL5tWADztkOMoMLUOXi",
+          "title": "cle1::1781018540-26DDcWUhNSjmn2uAfsq1YOmQgewuoJ4m",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -79,8 +79,69 @@
     {
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.invader.co.kr/courses\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "하루 1시간 'AI 블로그'로 월 600만원 번 방법",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "광고비 단돈 3천원으로, 쿠팡에서 월 6,000만원! 영양제 수익화 종합특강",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "무자본으로 월 천만원씩 번 파티 알바 비법",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "하루 10분, 클릭 1번으로 매달 100만원 자동수익! 음악 플레이리스트!",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "망할 일 없는 유튜브로 나만의 연금 만들기",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "남이 만든 영상에 빨대 꽂아 돈 벌었던 미친 부업",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "퇴근 후 10분! 방구석에서 AI로 글 써서 쉽게 돈 버는 \"광고 소개 부업\"",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "홈쇼핑 화장품으로 2천만원 부수입 만든 방법",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "내향적인 유치원 교사도 딱 3개월 만에 1억 달성 한 건기식 제로셀링 노하우",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "[일본예능쇼츠] 일본인은 못하는 일본 예능쇼츠부업",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "밀레니얼머니스쿨",
@@ -245,12 +306,6 @@
           "thumbnail": ""
         },
         {
-          "title": "[션]누구나 할 수 있는 유튜브 해외 쇼츠",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
           "title": "[묘묘] 촬영, 편집 없이 가능! 영상 전달만하고 월 200 숏폼 중개 실전 클래스",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
@@ -294,6 +349,12 @@
         },
         {
           "title": "주식회사 티티에이컴퍼니",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "상호 : N잡연구소(엔잡연구소)",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -367,12 +428,6 @@
           "thumbnail": ""
         },
         {
-          "title": "[무료강의] 버티컬 커머스 프로젝트",
-          "date": "",
-          "link": "https://www.moneyupclass.com/free-courses",
-          "thumbnail": ""
-        },
-        {
           "title": "[무료강의] 연예인 유튜브 쇼츠",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
@@ -416,6 +471,12 @@
         },
         {
           "title": "핏크닉은 통신판매중개자로서 중개하는 거래에 대하여 책임을 부담하지 않습니다.",
+          "date": "",
+          "link": "https://www.moneyupclass.com/free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "고객센터 채널톡 바로가기",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
           "thumbnail": ""
