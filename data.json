@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12 12:58",
+  "updated_at": "2026-06-13 00:37",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1781236442-DiJv4jT9VkUukgklp4H5mGNGLCPTpDin",
+          "title": "sfo1::1781278405-CpfMkrvztfQx46K5TnWzNCKxzNI3CTvI",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1781236448-TC33NYO3Pjppay6clZeltK6lxPJyxPpL",
+          "title": "sfo1::1781278411-c3K6BHlsj246QA818w090BpvZSjTYfAH",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1781236454-g4TUEkFcIJEexYzox4Rg1awJ84rSrhnt",
+          "title": "sfo1::1781278416-lIIV8C5sHciLdNQqoMUyJi6hzFFlBXNt",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -178,10 +178,10 @@
           "thumbnail": ""
         },
         {
-          "title": "Previous Next 1 2 3 4 5 6 7 8 9",
+          "title": "Previous Next 1 2 3 4 5 6 7 8 9 10",
           "date": "",
-          "link": "https://millmus.com/lecture/detail/821",
-          "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2Fe2aa9dc0-f27a-4881-945c-0e9122368e95.png&w=3840&q=75"
+          "link": "https://millmus.com/lecture/detail/824",
+          "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2F8a107d1f-17c6-482b-af7a-4e13b2019b09.png&w=3840&q=75"
         }
       ],
       "error": null
@@ -765,7 +765,13 @@
       "url": "https://www.peterpanschool.co.kr/courses/free",
       "courses": [
         {
-          "title": "무료로 배울 수 있는 고퀄리티 강의들을 만나보세요(총 1개)",
+          "title": "무료로 배울 수 있는 고퀄리티 강의들을 만나보세요(총 2개)",
+          "date": "",
+          "link": "https://www.peterpanschool.co.kr/courses/free",
+          "thumbnail": ""
+        },
+        {
+          "title": "AI로 4억 번 감독의 촬영 없는 드라마 수익화",
           "date": "",
           "link": "https://www.peterpanschool.co.kr/courses/free",
           "thumbnail": ""
