@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14 23:25",
+  "updated_at": "2026-06-15 13:16",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1781446877-wYPG9IaR0btSd9yPs8qyf8b7FiRF7UZv",
+          "title": "sfo1::1781496758-ngPEkzX45pKVzewtZWRLNbzW8IO3Y3WD",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1781446883-uhpQUqKqCeW7xUNQOMGJoGpr6fKv6ijM",
+          "title": "sfo1::1781496764-rUHy9d7uN0Auj4pfhDZchy0pEOWg3isE",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1781446889-utQ1VgcuB6PtjrKM15cOlvPMqKu3p90i",
+          "title": "sfo1::1781496770-dzvC92Gcys81ncB5qAlmO6hkBuRlKx2u",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -80,12 +80,6 @@
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
       "courses": [
-        {
-          "title": "하루 1시간 'AI 블로그'로 월 600만원 번 방법",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
         {
           "title": "광고비 단돈 3천원으로, 쿠팡에서 월 6,000만원! 영양제 수익화 종합특강",
           "date": "",
@@ -139,6 +133,12 @@
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
+        },
+        {
+          "title": "[초보] 98%가 월매출 1천만원 달성한 미쳐버린 부업",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
         }
       ],
       "error": null
@@ -181,7 +181,7 @@
           "title": "Previous Next 1 2 3 4 5 6 7 8",
           "date": "",
           "link": "https://millmus.com/lecture/detail/824",
-          "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2F8a107d1f-17c6-482b-af7a-4e13b2019b09.png&w=3840&q=75"
+          "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2F54633a1a-8df5-4669-8d1d-c3a6e94c4269.png&w=3840&q=75"
         }
       ],
       "error": null
@@ -330,12 +330,6 @@
           "thumbnail": ""
         },
         {
-          "title": "[에어] 50대도 월 300! AI 콘텐츠 연결 부업",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
           "title": "무료특강 일정 알림을",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
@@ -355,6 +349,12 @@
         },
         {
           "title": "상호 : N잡연구소(엔잡연구소)",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "대표이사 : 정준호 l 개인정보책임관리자 : 정준호",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
