@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18 12:58",
+  "updated_at": "2026-06-19 00:49",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1781754878-JapjvdRiFCb3rz33sCIdxfPffQjAl9pC",
+          "title": "iad1::1781797518-wkbvaMHTZwVKQEJciUVDykIWo1lbOO0y",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1781754884-9E5p2k025NSKxdljHeJOLTrOoWwlxAfQ",
+          "title": "iad1::1781797524-A7DzTE4xAGIl2B1f2rVjt9Shg2gUoi2G",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1781754890-EfxiqGMhiNpmchxSp3OOse182A4dox1K",
+          "title": "iad1::1781797530-i7LJM4swX6vulR4idUmWIyR2HLicElY9",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -178,10 +178,10 @@
           "thumbnail": ""
         },
         {
-          "title": "Previous Next 1 2 3 4 5 6 7 8",
+          "title": "Previous Next 1 2 3 4 5 6 7 8 9",
           "date": "",
-          "link": "https://millmus.com/lecture/detail/824",
-          "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2F54633a1a-8df5-4669-8d1d-c3a6e94c4269.png&w=3840&q=75"
+          "link": "https://millmus.com/lecture/detail/836",
+          "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2F207399cb-c174-4d8a-b0e6-67ba2ddbbe01.png&w=3840&q=75"
         }
       ],
       "error": null
@@ -189,111 +189,8 @@
     {
       "name": "시행착오",
       "url": "https://shco.co.kr/66",
-      "courses": [
-        {
-          "title": "Alarm",
-          "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": "https://shco.co.kr/66/common/img/default_profile.png"
-        },
-        {
-          "title": "마이페이지 로그아웃",
-          "date": "",
-          "link": "https://shco.co.kr/login?back_url=L3Nob3BfbXlwYWdl&type=mypage",
-          "thumbnail": ""
-        },
-        {
-          "title": "시행착오란",
-          "date": "",
-          "link": "https://shco.co.kr/85",
-          "thumbnail": ""
-        },
-        {
-          "title": "무료특강 무료특강 Live",
-          "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": ""
-        },
-        {
-          "title": "무료특강 Live",
-          "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": ""
-        },
-        {
-          "title": "프리미엄 강의 정규과정 VOD 기초강의",
-          "date": "",
-          "link": "https://shco.co.kr/21",
-          "thumbnail": ""
-        },
-        {
-          "title": "정규과정",
-          "date": "",
-          "link": "https://shco.co.kr/21",
-          "thumbnail": ""
-        },
-        {
-          "title": "VOD 기초강의",
-          "date": "",
-          "link": "https://shco.co.kr/89",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 라인업 강사 목록 강사 지원하기",
-          "date": "",
-          "link": "https://shco.co.kr/83",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 목록",
-          "date": "",
-          "link": "https://shco.co.kr/83",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 지원하기",
-          "date": "",
-          "link": "https://shco.co.kr/80",
-          "thumbnail": ""
-        },
-        {
-          "title": "성장 라운지 수강생 후기 수강생 성과",
-          "date": "",
-          "link": "https://shco.co.kr/76",
-          "thumbnail": ""
-        },
-        {
-          "title": "수강생 후기",
-          "date": "",
-          "link": "https://shco.co.kr/76",
-          "thumbnail": ""
-        },
-        {
-          "title": "수강생 성과",
-          "date": "",
-          "link": "https://shco.co.kr/91",
-          "thumbnail": ""
-        },
-        {
-          "title": "시행착오란",
-          "date": "",
-          "link": "https://shco.co.kr/85",
-          "thumbnail": ""
-        },
-        {
-          "title": "무료특강",
-          "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": ""
-        },
-        {
-          "title": "정규과정",
-          "date": "",
-          "link": "https://shco.co.kr/21",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://shco.co.kr/66\", waiting until \"networkidle\"\n"
     },
     {
       "name": "엔잡연구소",
@@ -677,10 +574,16 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "403 Forbidden",
+          "title": "업종불문! 연매출 100억 사업가의 고단가 세일즈 18단계 무료특강",
           "date": "",
-          "link": "https://www.tpschool.co.kr/p/webinar",
+          "link": "https://tpschool.co.kr/classes/268696",
           "thumbnail": ""
+        },
+        {
+          "title": "[로고파파] AI가 뽑아준 로고 따라 그려서 월 3000 만든 AI 로고 수익화 무료특강",
+          "date": "",
+          "link": "https://www.tpschool.co.kr/classes/267746",
+          "thumbnail": "https://cdn.liveklass.com/course/1780031724949.png.medium"
         }
       ],
       "error": null
@@ -696,7 +599,25 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "403 Forbidden",
+          "title": "LIVE",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "LIVE",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "LIVE",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "LIVE",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
