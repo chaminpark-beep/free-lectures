@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18 00:58",
+  "updated_at": "2026-06-18 12:58",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1781711704-tb6PB5ikMkfofh4K2csWTNwL4gdBdO0z",
+          "title": "iad1::1781754878-JapjvdRiFCb3rz33sCIdxfPffQjAl9pC",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1781711710-lhgTPF2VcjmLtzifpooyS1oqTI1Q2kbg",
+          "title": "iad1::1781754884-9E5p2k025NSKxdljHeJOLTrOoWwlxAfQ",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1781711716-kNuz7dlDtovBTO4Ret1FWOc9nTfgM3ds",
+          "title": "iad1::1781754890-EfxiqGMhiNpmchxSp3OOse182A4dox1K",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -677,16 +677,10 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "업종불문! 연매출 100억 사업가의 고단가 세일즈 18단계 무료특강",
+          "title": "403 Forbidden",
           "date": "",
-          "link": "https://tpschool.co.kr/classes/268696",
+          "link": "https://www.tpschool.co.kr/p/webinar",
           "thumbnail": ""
-        },
-        {
-          "title": "[로고파파] AI가 뽑아준 로고 따라 그려서 월 3000 만든 AI 로고 수익화 무료특강",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/classes/267746",
-          "thumbnail": "https://cdn.liveklass.com/course/1780031724949.png.medium"
         }
       ],
       "error": null
@@ -702,25 +696,7 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "LIVE",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "LIVE",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "LIVE",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "LIVE",
+          "title": "403 Forbidden",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
