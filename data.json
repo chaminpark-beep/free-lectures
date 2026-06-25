@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24 23:52",
+  "updated_at": "2026-06-25 12:33",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "pdx1::1782312531-JwwGod9XZK1lRlxEhwJCbTPazCnKkEiW",
+          "title": "iad1::1782358172-hX9eRL2PTI4iMAvLsS56wN1dNw9to9OQ",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "pdx1::1782312537-sS0EUh8D4Q66ngGp0WSel0d7OOB4TCDv",
+          "title": "iad1::1782358178-ZR7v1cozS7pspkP5UNHNMwSh8INKinvs",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "pdx1::1782312543-q83yzb46xTuBPdISqsQV4ppNk23LSOV8",
+          "title": "iad1::1782358184-TpKgZlQ6jPpc2jbxu9BuXJVkZZhkmt2h",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -80,12 +80,6 @@
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
       "courses": [
-        {
-          "title": "유튜브 부업의 종착지! 컴맹도 연금 만드는 유튜브 수익화 종합반",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
         {
           "title": "인스타 계정만 있으면 할 수 있는 출퇴근길 30분 강추 부업",
           "date": "",
@@ -136,6 +130,12 @@
         },
         {
           "title": "하루1분! 클릭1번! 월 1억 번 AI 과일 위탁판매",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "왕초보도 가능! 상품부터 CS까지 다해주는 국내유일! 과일위탁판매",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
