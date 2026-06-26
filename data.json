@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26 12:41",
+  "updated_at": "2026-06-26 23:44",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1782445021-3rCV7FXQYEYvTvsGdstwhFaU7eXN4KNd",
+          "title": "cle1::1782484825-cr50EhHH6dacC1qSAbGRYCYKETaq5SX1",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1782445027-guoTxZzBxj6Dv5XIfzPhBdOqGscRvjYq",
+          "title": "cle1::1782484831-uNgQw7gbqBXzoKp708cSK68YFl92o0nB",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1782445033-IE8lvKqfeY1AeUWTk9N9X5OT5yTiaL6f",
+          "title": "cle1::1782484837-lLXU0KQg1jE1rXd32dXJ3lErLAqJeSoK",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -88,12 +88,6 @@
         },
         {
           "title": "하루 1시간 화장품 비밀창고 부업",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "화장품 비밀창고로 월 2천만원 부수입 만든 방법",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -136,6 +130,12 @@
         },
         {
           "title": "왕초보도 가능! 상품부터 CS까지 다해주는 국내유일! 과일위탁판매",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "자본금 7만 원으로 '내 건강식품' 완판하기",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -233,6 +233,12 @@
           "thumbnail": ""
         },
         {
+          "title": "[인피디]사진 한 장으로 월 천 번 인스타 캐러셀 수익화 노하우",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
           "title": "무료특강 일정 알림을",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
@@ -246,12 +252,6 @@
         },
         {
           "title": "주식회사 티티에이컴퍼니",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "상호 : N잡연구소(엔잡연구소)",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -574,22 +574,10 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "그림 못그리는 똥손도 월 300! AI 인스타툰 수익화 노하우",
+          "title": "403 Forbidden",
           "date": "",
-          "link": "https://tpschool.co.kr/classes/215059",
+          "link": "https://www.tpschool.co.kr/p/webinar",
           "thumbnail": ""
-        },
-        {
-          "title": "[줄리아] 업종불문! 연매출 100억 만든 고단가 세일즈 18단계 공식 무료특강",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/classes/268696",
-          "thumbnail": "https://cdn.liveklass.com/course/1780969260562.png.medium"
-        },
-        {
-          "title": "[로고파파] 순수익 300 될 때까지! AI 로고 수익화 마스터 클래스 (12개월 무이자 지원)",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/classes/307274",
-          "thumbnail": "https://cdn.liveklass.com/course/1777375594436.png.medium"
         }
       ],
       "error": null
@@ -605,25 +593,7 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "LIVE",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "LIVE",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "LIVE",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "LIVE",
+          "title": "403 Forbidden",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
@@ -918,7 +888,31 @@
       "url": "https://buchinclass.com/class?mainCategory=5",
       "courses": [
         {
-          "title": "똥손도 AI 인스타툰 대행으로 월 300 번 노하우 무료공개 영영 0.0 (0개) 무료 [0원 강의] 하루 1시간, 순수익 4천 만든 스터디카페",
+          "title": "[0원 강의] 1년 만에 1억 5천 달성! 썩은 빌라 인테리어로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료 똥손도 AI 인스타툰",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[0원 강의] 1년 만에 1억 5천 달성! 썩은 빌라 인테리어로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[0원 강의] 1년 만에 1억 5천 달성! 썩은 빌라 인테리어로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[0원 강의] 1년 만에 1억 5천 달성! 썩은 빌라 인테리어로 소액 경매 단타 부수기 끝판왕",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "원성환 0.0 (0개)",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
@@ -967,30 +961,6 @@
         },
         {
           "title": "송수미 0.0 (0개)",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[3기 사전] 외국인 관광객 타겟 에어비앤비 올인원 클래스 오임중 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[3기 사전] 외국인 관광객 타겟 에어비앤비 올인원 클래스 오임중 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[3기 사전] 외국인 관광객 타겟 에어비앤비 올인원 클래스",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "오임중 0.0 (0개)",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
