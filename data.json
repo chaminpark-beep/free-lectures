@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27 12:26",
+  "updated_at": "2026-06-27 23:03",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1782530531-WuLXQO72tJZeKYRCnVSch4LEutpF2k9T",
+          "title": "cle1::1782568797-S8zCfwYA0aHEOiUaTChlq4IovnMRiSzR",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1782530536-lG0iz544jU68EVy9YVEsbkBqAELfIP8Y",
+          "title": "cle1::1782568803-evbGi1pm8AOYZmrqlUqEv5IJxTbIEeAj",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1782530542-pIEk7jakf5HJ82pGgYLY32YdIe4jhn1p",
+          "title": "cle1::1782568809-TU3nC4kqjUXxgqayo0RiWrzvWj604QcL",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -189,111 +189,8 @@
     {
       "name": "시행착오",
       "url": "https://shco.co.kr/66",
-      "courses": [
-        {
-          "title": "Alarm",
-          "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": "https://shco.co.kr/66/common/img/default_profile.png"
-        },
-        {
-          "title": "마이페이지 로그아웃",
-          "date": "",
-          "link": "https://shco.co.kr/login?back_url=L3Nob3BfbXlwYWdl&type=mypage",
-          "thumbnail": ""
-        },
-        {
-          "title": "시행착오란",
-          "date": "",
-          "link": "https://shco.co.kr/85",
-          "thumbnail": ""
-        },
-        {
-          "title": "무료특강 무료특강 Live",
-          "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": ""
-        },
-        {
-          "title": "무료특강 Live",
-          "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": ""
-        },
-        {
-          "title": "프리미엄 강의 정규과정 VOD 기초강의",
-          "date": "",
-          "link": "https://shco.co.kr/21",
-          "thumbnail": ""
-        },
-        {
-          "title": "정규과정",
-          "date": "",
-          "link": "https://shco.co.kr/21",
-          "thumbnail": ""
-        },
-        {
-          "title": "VOD 기초강의",
-          "date": "",
-          "link": "https://shco.co.kr/89",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 라인업 강사 목록 강사 지원하기",
-          "date": "",
-          "link": "https://shco.co.kr/83",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 목록",
-          "date": "",
-          "link": "https://shco.co.kr/83",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 지원하기",
-          "date": "",
-          "link": "https://shco.co.kr/80",
-          "thumbnail": ""
-        },
-        {
-          "title": "성장 라운지 수강생 후기 수강생 성과",
-          "date": "",
-          "link": "https://shco.co.kr/76",
-          "thumbnail": ""
-        },
-        {
-          "title": "수강생 후기",
-          "date": "",
-          "link": "https://shco.co.kr/76",
-          "thumbnail": ""
-        },
-        {
-          "title": "수강생 성과",
-          "date": "",
-          "link": "https://shco.co.kr/91",
-          "thumbnail": ""
-        },
-        {
-          "title": "시행착오란",
-          "date": "",
-          "link": "https://shco.co.kr/85",
-          "thumbnail": ""
-        },
-        {
-          "title": "무료특강",
-          "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": ""
-        },
-        {
-          "title": "정규과정",
-          "date": "",
-          "link": "https://shco.co.kr/21",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://shco.co.kr/66\", waiting until \"networkidle\"\n"
     },
     {
       "name": "엔잡연구소",
