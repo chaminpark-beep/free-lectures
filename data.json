@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27 23:03",
+  "updated_at": "2026-06-28 12:46",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1782568797-S8zCfwYA0aHEOiUaTChlq4IovnMRiSzR",
+          "title": "iad1::1782618158-nEivhqfX9xLbj3t3cN4awWoS9bp0cGba",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1782568803-evbGi1pm8AOYZmrqlUqEv5IJxTbIEeAj",
+          "title": "iad1::1782618164-xUOGD2czv1873KPflcU3e3EmaQp9u7bT",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1782568809-TU3nC4kqjUXxgqayo0RiWrzvWj604QcL",
+          "title": "iad1::1782618170-81snPfvUP4xFva7EYKjGsbFj7RoNh0Ue",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -80,12 +80,6 @@
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
       "courses": [
-        {
-          "title": "퇴근 후 10분! 방구석에서 AI로 글 써서 쉽게 돈 버는 \"광고 소개 부업\"",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
         {
           "title": "하루 1시간 화장품 비밀창고 부업",
           "date": "",
@@ -139,6 +133,12 @@
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
+        },
+        {
+          "title": "무자본, 무재고, 무광고! 산후조리원비 다 뽑고도 전문직 연봉 2배 번 비밀",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
         }
       ],
       "error": null
@@ -189,8 +189,111 @@
     {
       "name": "시행착오",
       "url": "https://shco.co.kr/66",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://shco.co.kr/66\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "Alarm",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": "https://shco.co.kr/66/common/img/default_profile.png"
+        },
+        {
+          "title": "마이페이지 로그아웃",
+          "date": "",
+          "link": "https://shco.co.kr/login?back_url=L3Nob3BfbXlwYWdl&type=mypage",
+          "thumbnail": ""
+        },
+        {
+          "title": "시행착오란",
+          "date": "",
+          "link": "https://shco.co.kr/85",
+          "thumbnail": ""
+        },
+        {
+          "title": "무료특강 무료특강 Live",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": ""
+        },
+        {
+          "title": "무료특강 Live",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": ""
+        },
+        {
+          "title": "프리미엄 강의 정규과정 VOD 기초강의",
+          "date": "",
+          "link": "https://shco.co.kr/21",
+          "thumbnail": ""
+        },
+        {
+          "title": "정규과정",
+          "date": "",
+          "link": "https://shco.co.kr/21",
+          "thumbnail": ""
+        },
+        {
+          "title": "VOD 기초강의",
+          "date": "",
+          "link": "https://shco.co.kr/89",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 라인업 강사 목록 강사 지원하기",
+          "date": "",
+          "link": "https://shco.co.kr/83",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 목록",
+          "date": "",
+          "link": "https://shco.co.kr/83",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 지원하기",
+          "date": "",
+          "link": "https://shco.co.kr/80",
+          "thumbnail": ""
+        },
+        {
+          "title": "성장 라운지 수강생 후기 수강생 성과",
+          "date": "",
+          "link": "https://shco.co.kr/76",
+          "thumbnail": ""
+        },
+        {
+          "title": "수강생 후기",
+          "date": "",
+          "link": "https://shco.co.kr/76",
+          "thumbnail": ""
+        },
+        {
+          "title": "수강생 성과",
+          "date": "",
+          "link": "https://shco.co.kr/91",
+          "thumbnail": ""
+        },
+        {
+          "title": "시행착오란",
+          "date": "",
+          "link": "https://shco.co.kr/85",
+          "thumbnail": ""
+        },
+        {
+          "title": "무료특강",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": ""
+        },
+        {
+          "title": "정규과정",
+          "date": "",
+          "link": "https://shco.co.kr/21",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "엔잡연구소",
@@ -457,117 +560,8 @@
     {
       "name": "황금후추",
       "url": "https://www.goldpepper.kr/103/",
-      "courses": [
-        {
-          "title": "Alarm",
-          "date": "",
-          "link": "https://www.goldpepper.kr/103/",
-          "thumbnail": "https://www.goldpepper.kr/103//common/img/default_profile.png"
-        },
-        {
-          "title": "마이페이지 로그아웃",
-          "date": "",
-          "link": "https://www.goldpepper.kr/login?back_url=L3Nob3BfbXlwYWdl&type=mypage",
-          "thumbnail": ""
-        },
-        {
-          "title": "황금후추 회사소개 황금후추 소개 상담안내",
-          "date": "",
-          "link": "https://www.goldpepper.kr/120",
-          "thumbnail": ""
-        },
-        {
-          "title": "회사소개",
-          "date": "",
-          "link": "https://www.goldpepper.kr/conpany",
-          "thumbnail": ""
-        },
-        {
-          "title": "황금후추 소개",
-          "date": "",
-          "link": "https://www.goldpepper.kr/about",
-          "thumbnail": ""
-        },
-        {
-          "title": "상담안내",
-          "date": "",
-          "link": "https://www.goldpepper.kr/124",
-          "thumbnail": ""
-        },
-        {
-          "title": "클래스 무료강의 부동산 사주 타로 전자책",
-          "date": "",
-          "link": "https://www.goldpepper.kr/125",
-          "thumbnail": ""
-        },
-        {
-          "title": "무료강의",
-          "date": "",
-          "link": "https://www.goldpepper.kr/103",
-          "thumbnail": ""
-        },
-        {
-          "title": "부동산",
-          "date": "",
-          "link": "https://www.goldpepper.kr/class4",
-          "thumbnail": ""
-        },
-        {
-          "title": "전자책",
-          "date": "",
-          "link": "https://www.goldpepper.kr/class5",
-          "thumbnail": ""
-        },
-        {
-          "title": "커뮤니티 1:1 문의",
-          "date": "",
-          "link": "https://www.goldpepper.kr/130",
-          "thumbnail": ""
-        },
-        {
-          "title": "1:1 문의",
-          "date": "",
-          "link": "http://pf.kakao.com/_hDACG",
-          "thumbnail": ""
-        },
-        {
-          "title": "수강 후기",
-          "date": "",
-          "link": "https://www.goldpepper.kr/review",
-          "thumbnail": ""
-        },
-        {
-          "title": "강의실",
-          "date": "",
-          "link": "https://www.goldpepper.kr/136",
-          "thumbnail": ""
-        },
-        {
-          "title": "황금후추",
-          "date": "",
-          "link": "https://www.goldpepper.kr/120",
-          "thumbnail": ""
-        },
-        {
-          "title": "클래스",
-          "date": "",
-          "link": "https://www.goldpepper.kr/125",
-          "thumbnail": ""
-        },
-        {
-          "title": "커뮤니티",
-          "date": "",
-          "link": "https://www.goldpepper.kr/130",
-          "thumbnail": ""
-        },
-        {
-          "title": "수강 후기",
-          "date": "",
-          "link": "https://www.goldpepper.kr/review",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.goldpepper.kr/103/\", waiting until \"networkidle\"\n"
     },
     {
       "name": "터닝포인트스쿨",
