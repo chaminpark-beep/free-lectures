@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28 12:46",
+  "updated_at": "2026-06-28 23:10",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1782618158-nEivhqfX9xLbj3t3cN4awWoS9bp0cGba",
+          "title": "cle1::1782655577-MzFt9nae2X8co66me1Y4jpzNbxbMRHg8",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1782618164-xUOGD2czv1873KPflcU3e3EmaQp9u7bT",
+          "title": "cle1::1782655583-QakNvXVg4bdSxe0ymerncZweTQXAIKrB",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1782618170-81snPfvUP4xFva7EYKjGsbFj7RoNh0Ue",
+          "title": "cle1::1782655589-O3XY1zCfGW8wvHsnVq37FPWJkMQzCtUq",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -560,8 +560,117 @@
     {
       "name": "황금후추",
       "url": "https://www.goldpepper.kr/103/",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.goldpepper.kr/103/\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "Alarm",
+          "date": "",
+          "link": "https://www.goldpepper.kr/103/",
+          "thumbnail": "https://www.goldpepper.kr/103//common/img/default_profile.png"
+        },
+        {
+          "title": "마이페이지 로그아웃",
+          "date": "",
+          "link": "https://www.goldpepper.kr/login?back_url=L3Nob3BfbXlwYWdl&type=mypage",
+          "thumbnail": ""
+        },
+        {
+          "title": "황금후추 회사소개 황금후추 소개 상담안내",
+          "date": "",
+          "link": "https://www.goldpepper.kr/120",
+          "thumbnail": ""
+        },
+        {
+          "title": "회사소개",
+          "date": "",
+          "link": "https://www.goldpepper.kr/conpany",
+          "thumbnail": ""
+        },
+        {
+          "title": "황금후추 소개",
+          "date": "",
+          "link": "https://www.goldpepper.kr/about",
+          "thumbnail": ""
+        },
+        {
+          "title": "상담안내",
+          "date": "",
+          "link": "https://www.goldpepper.kr/124",
+          "thumbnail": ""
+        },
+        {
+          "title": "클래스 무료강의 부동산 사주 타로 전자책",
+          "date": "",
+          "link": "https://www.goldpepper.kr/125",
+          "thumbnail": ""
+        },
+        {
+          "title": "무료강의",
+          "date": "",
+          "link": "https://www.goldpepper.kr/103",
+          "thumbnail": ""
+        },
+        {
+          "title": "부동산",
+          "date": "",
+          "link": "https://www.goldpepper.kr/class4",
+          "thumbnail": ""
+        },
+        {
+          "title": "전자책",
+          "date": "",
+          "link": "https://www.goldpepper.kr/class5",
+          "thumbnail": ""
+        },
+        {
+          "title": "커뮤니티 1:1 문의",
+          "date": "",
+          "link": "https://www.goldpepper.kr/130",
+          "thumbnail": ""
+        },
+        {
+          "title": "1:1 문의",
+          "date": "",
+          "link": "http://pf.kakao.com/_hDACG",
+          "thumbnail": ""
+        },
+        {
+          "title": "수강 후기",
+          "date": "",
+          "link": "https://www.goldpepper.kr/review",
+          "thumbnail": ""
+        },
+        {
+          "title": "강의실",
+          "date": "",
+          "link": "https://www.goldpepper.kr/136",
+          "thumbnail": ""
+        },
+        {
+          "title": "황금후추",
+          "date": "",
+          "link": "https://www.goldpepper.kr/120",
+          "thumbnail": ""
+        },
+        {
+          "title": "클래스",
+          "date": "",
+          "link": "https://www.goldpepper.kr/125",
+          "thumbnail": ""
+        },
+        {
+          "title": "커뮤니티",
+          "date": "",
+          "link": "https://www.goldpepper.kr/130",
+          "thumbnail": ""
+        },
+        {
+          "title": "수강 후기",
+          "date": "",
+          "link": "https://www.goldpepper.kr/review",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "터닝포인트스쿨",
@@ -910,87 +1019,8 @@
     {
       "name": "부자친구들",
       "url": "https://buchinclass.com/class?mainCategory=5",
-      "courses": [
-        {
-          "title": "[0원 강의] 1년 만에 1억 5천 달성! 썩은 빌라 인테리어로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료 똥손도 AI 인스타툰",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[0원 강의] 1년 만에 1억 5천 달성! 썩은 빌라 인테리어로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[0원 강의] 1년 만에 1억 5천 달성! 썩은 빌라 인테리어로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[0원 강의] 1년 만에 1억 5천 달성! 썩은 빌라 인테리어로 소액 경매 단타 부수기 끝판왕",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "원성환 0.0 (0개)",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "똥손도 AI 인스타툰 대행으로 월 300 번 노하우 무료공개 영영 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "똥손도 AI 인스타툰 대행으로 월 300 번 노하우 무료공개 영영 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "똥손도 AI 인스타툰 대행으로 월 300 번 노하우 무료공개",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "영영 0.0 (0개)",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[0원 강의] 하루 1시간, 순수익 4천 만든 스터디카페 인수창업 올인원 송수미 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[0원 강의] 하루 1시간, 순수익 4천 만든 스터디카페 인수창업 올인원 송수미 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[0원 강의] 하루 1시간, 순수익 4천 만든 스터디카페 인수창업 올인원",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "송수미 0.0 (0개)",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://buchinclass.com/class?mainCategory=5\", waiting until \"networkidle\"\n"
     }
   ]
 }
