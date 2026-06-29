@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29 12:54",
+  "updated_at": "2026-06-30 01:06",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1782705065-cAwsiYOoifHvsK6jA1bmB82ElX4Czep2",
+          "title": "sfo1::1782748940-02Kz0dcnK6QEbl1YeCwr6jhsN6VbdnCP",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1782705072-jWBSAAZUA31R2ZF8cfjBZWUt3ezlPFjq",
+          "title": "sfo1::1782748946-migzkJgNr1xX2mw91XtnItPU04xndrR2",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1782705078-r7aW0bdbZ9ZyW7QIWx97MnsW49cXbmKw",
+          "title": "sfo1::1782748952-OiV1OYvklHMbpasnzXHE05kajbuJXaKy",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -80,12 +80,6 @@
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
       "courses": [
-        {
-          "title": "하루 1시간 화장품 비밀창고 부업",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
         {
           "title": "내향적인 유치원 교사도 딱 3개월 만에 1억 달성 한 건기식 제로셀링 노하우",
           "date": "",
@@ -136,6 +130,12 @@
         },
         {
           "title": "무자본, 무재고, 무광고! 산후조리원비 다 뽑고도 전문직 연봉 2배 번 비밀",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "천만원으로 시작해서 강남 아파트 입성한 투자 로드맵",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -830,69 +830,8 @@
     {
       "name": "프레스런",
       "url": "https://presslearn.co.kr/fc",
-      "courses": [
-        {
-          "title": "하루 1시간 AI로 월세 버는 법 무료 특강 [대기방]",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "일\t월\t화\t수\t목\t금\t토",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "31\t1\t2\t3\t4\t5\t6",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "7\t8\t9\t10\t11\t12\t13",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "14\t15\t16\t17\t18\t19\t20",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "21\t22\t23\t24\t25\t26\t27",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "28\t29\t30\t1\t2\t3\t4",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "5\t6\t7\t8\t9\t10\t11",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "예정된 무료 특강이 없습니다.",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "상호명: 주식회사 나랑해",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://presslearn.co.kr/fc\", waiting until \"networkidle\"\n"
     },
     {
       "name": "인사이트머니랩",
