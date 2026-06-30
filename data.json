@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30 01:06",
+  "updated_at": "2026-06-30 12:39",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1782748940-02Kz0dcnK6QEbl1YeCwr6jhsN6VbdnCP",
+          "title": "iad1::1782790507-7LMbVAaPknAozqyq3G59pYjUBZ5WrHbL",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1782748946-migzkJgNr1xX2mw91XtnItPU04xndrR2",
+          "title": "iad1::1782790513-hARYh2EilPf4u0QD05Wj4GBPJMCxmv7R",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1782748952-OiV1OYvklHMbpasnzXHE05kajbuJXaKy",
+          "title": "iad1::1782790519-Nv8omXJGWWfUq8v0qSGLIvOd1McJ8ItK",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -306,12 +306,6 @@
           "thumbnail": ""
         },
         {
-          "title": "[셀팜]뉴스 제목 넣으면 영상 완성! 따라만 읽고 월 300 지식 유튜브 노하우",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
           "title": "[에어] 50대도 월 300! AI 콘텐츠 연결 부업",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
@@ -355,6 +349,12 @@
         },
         {
           "title": "주식회사 티티에이컴퍼니",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "상호 : N잡연구소(엔잡연구소)",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -560,117 +560,8 @@
     {
       "name": "황금후추",
       "url": "https://www.goldpepper.kr/103/",
-      "courses": [
-        {
-          "title": "Alarm",
-          "date": "",
-          "link": "https://www.goldpepper.kr/103/",
-          "thumbnail": "https://www.goldpepper.kr/103//common/img/default_profile.png"
-        },
-        {
-          "title": "마이페이지 로그아웃",
-          "date": "",
-          "link": "https://www.goldpepper.kr/login?back_url=L3Nob3BfbXlwYWdl&type=mypage",
-          "thumbnail": ""
-        },
-        {
-          "title": "황금후추 회사소개 황금후추 소개 상담안내",
-          "date": "",
-          "link": "https://www.goldpepper.kr/120",
-          "thumbnail": ""
-        },
-        {
-          "title": "회사소개",
-          "date": "",
-          "link": "https://www.goldpepper.kr/conpany",
-          "thumbnail": ""
-        },
-        {
-          "title": "황금후추 소개",
-          "date": "",
-          "link": "https://www.goldpepper.kr/about",
-          "thumbnail": ""
-        },
-        {
-          "title": "상담안내",
-          "date": "",
-          "link": "https://www.goldpepper.kr/124",
-          "thumbnail": ""
-        },
-        {
-          "title": "클래스 무료강의 부동산 사주 타로 전자책",
-          "date": "",
-          "link": "https://www.goldpepper.kr/125",
-          "thumbnail": ""
-        },
-        {
-          "title": "무료강의",
-          "date": "",
-          "link": "https://www.goldpepper.kr/103",
-          "thumbnail": ""
-        },
-        {
-          "title": "부동산",
-          "date": "",
-          "link": "https://www.goldpepper.kr/class4",
-          "thumbnail": ""
-        },
-        {
-          "title": "전자책",
-          "date": "",
-          "link": "https://www.goldpepper.kr/class5",
-          "thumbnail": ""
-        },
-        {
-          "title": "커뮤니티 1:1 문의",
-          "date": "",
-          "link": "https://www.goldpepper.kr/130",
-          "thumbnail": ""
-        },
-        {
-          "title": "1:1 문의",
-          "date": "",
-          "link": "http://pf.kakao.com/_hDACG",
-          "thumbnail": ""
-        },
-        {
-          "title": "수강 후기",
-          "date": "",
-          "link": "https://www.goldpepper.kr/review",
-          "thumbnail": ""
-        },
-        {
-          "title": "강의실",
-          "date": "",
-          "link": "https://www.goldpepper.kr/136",
-          "thumbnail": ""
-        },
-        {
-          "title": "황금후추",
-          "date": "",
-          "link": "https://www.goldpepper.kr/120",
-          "thumbnail": ""
-        },
-        {
-          "title": "클래스",
-          "date": "",
-          "link": "https://www.goldpepper.kr/125",
-          "thumbnail": ""
-        },
-        {
-          "title": "커뮤니티",
-          "date": "",
-          "link": "https://www.goldpepper.kr/130",
-          "thumbnail": ""
-        },
-        {
-          "title": "수강 후기",
-          "date": "",
-          "link": "https://www.goldpepper.kr/review",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.goldpepper.kr/103/\", waiting until \"networkidle\"\n"
     },
     {
       "name": "터닝포인트스쿨",
@@ -687,12 +578,6 @@
           "date": "",
           "link": "https://www.tpschool.co.kr/classes/268696",
           "thumbnail": "https://cdn.liveklass.com/course/1780969260562.png.medium"
-        },
-        {
-          "title": "[낼나] 아이디어 없어도 OK! '나만의 제품' 브랜딩 15종 마스터 클래스 (12개월 무이자 지원)",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/classes/307736",
-          "thumbnail": "https://cdn.liveklass.com/course/1782267614875.png.medium"
         }
       ],
       "error": null
@@ -830,8 +715,69 @@
     {
       "name": "프레스런",
       "url": "https://presslearn.co.kr/fc",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://presslearn.co.kr/fc\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "매일 1시간 나만의 블로그로 월 100만 원 만들기 무료 특강 [7월 30일]",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "일\t월\t화\t수\t목\t금\t토",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "28\t29\t30\t1\t2\t3\t4",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "5\t6\t7\t8\t9\t10\t11",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "12\t13\t14\t15\t16\t17\t18",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "19\t20\t21\t22\t23\t24\t25",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "26\t27\t28\t29\t30",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "2\t3\t4\t5\t6\t7\t8",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "매일 1시간 나만의 블로그로 월 100만 원 만들기 무료 특강 [7월 30일]",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "상호명: 주식회사 나랑해",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "인사이트머니랩",
