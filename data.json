@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02 23:26",
+  "updated_at": "2026-07-03 11:56",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1783002159-bnTwVCRtN7jBhTilBbplY33ViALPRxX2",
+          "title": "sfo1::1783047180-AxQt1bKXmJ6q9oItpW8v0jrsiOZYgKcZ",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1783002165-Penz0VxTHsmDApjqxbg5ibZmn3yRwaZJ",
+          "title": "sfo1::1783047186-8bFRN5m07GgtYyV72woYn6YoQ0Bed95o",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1783002171-e5X4JNphWVDDTntsbTyF8Zrggaa61JI6",
+          "title": "sfo1::1783047192-XKMaio4eO7NuTmi7DMfL1hBSlFUObtuv",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -80,12 +80,6 @@
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
       "courses": [
-        {
-          "title": "[일본예능쇼츠] 일본인은 못하는 일본 예능쇼츠부업",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
         {
           "title": "[초보] 98%가 월매출 1천만원 달성한 미쳐버린 부업",
           "date": "",
@@ -136,6 +130,12 @@
         },
         {
           "title": "하루 10분, 클릭 1번으로 매달 100만원 자동수익! 음악 플레이리스트!",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "[버티컬커머스] 동대문 한 번 안가고 AI로 끝내는 유캔몰!!",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -330,6 +330,12 @@
           "thumbnail": ""
         },
         {
+          "title": "[윤이사] 대출 승인 성공률 95% 국가 예산 대신 받아주는 2026 정책 자금 로드맵",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
           "title": "무료특강 일정 알림을",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
@@ -349,12 +355,6 @@
         },
         {
           "title": "상호 : N잡연구소(엔잡연구소)",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "대표이사 : 정준호 l 개인정보책임관리자 : 정준호",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
