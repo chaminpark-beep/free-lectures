@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04 11:52",
+  "updated_at": "2026-07-04 22:55",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1783133357-B6Ls7zb14khHdkHGu3zizaaoj4j0Y7M3",
+          "title": "iad1::1783173073-H9JFkiutglEiYIZt6al923CxthbNBS34",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1783133363-G6ev52rP32JjI5d7G56T7NWs5NpmVSTy",
+          "title": "iad1::1783173079-J77FuyY2XoCcyDfzgOiiTJlzeVMsreaD",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1783133369-iuz2E4C9eXnMj2v5rJZgogejOr5XJOk5",
+          "title": "iad1::1783173085-EIRIbBtdyk6RH8CjuzdGsCtPFdPwgftb",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -79,69 +79,8 @@
     {
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
-      "courses": [
-        {
-          "title": "[초보] 98%가 월매출 1천만원 달성한 미쳐버린 부업",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "초보자도 한달만에 월급 뛰어넘은 과일 위탁판매 성공공식",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "왕초보도 가능! 상품부터 CS까지 다해주는 국내유일! 과일위탁판매",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[HOT]레전드가 돌아왔다! 브랜드 신발 완판신화",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "자본금 7만 원으로 '내 건강식품' 완판하기",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "무자본, 무재고, 무광고! 산후조리원비 다 뽑고도 전문직 연봉 2배 번 비밀",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "천만원으로 시작해서 강남 아파트 입성한 투자 로드맵",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "하루 40분으로 5일만에 순수익 200만원! 중국드라마 쇼츠 부업",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "하루 10분, 클릭 1번으로 매달 100만원 자동수익! 음악 플레이리스트!",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[버티컬커머스] 동대문 한 번 안가고 AI로 끝내는 유캔몰!!",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.invader.co.kr/courses\", waiting until \"networkidle\"\n"
     },
     {
       "name": "밀레니얼머니스쿨",
