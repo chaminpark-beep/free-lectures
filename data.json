@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05 12:22",
+  "updated_at": "2026-07-05 23:02",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1783221546-AXfzMiY4AchqbnUZb628ag1AYmjjKaSv",
+          "title": "sfo1::1783259892-4c6Ts1WyoTomiIAymdxKeRFplfUN7LB3",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1783221552-JGDF0Kk0ecqQVh8yNOojWKv1KaFOgjGg",
+          "title": "sfo1::1783259897-pgxURaKlCag9gU9CQ0yfMRaSGX6yX8wH",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1783221558-uKWMbHpaum9cmL0NzM6iR7S1urVVhrGA",
+          "title": "sfo1::1783259903-mfurQcKPUOOerNAPWD1wCtSR6VgA4V9k",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -830,69 +830,8 @@
     {
       "name": "프레스런",
       "url": "https://presslearn.co.kr/fc",
-      "courses": [
-        {
-          "title": "매일 1시간 구글 부업으로 월 100만 원 만들기 무료 특강 [7월 30일]",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "일\t월\t화\t수\t목\t금\t토",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "28\t29\t30\t1\t2\t3\t4",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "5\t6\t7\t8\t9\t10\t11",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "12\t13\t14\t15\t16\t17\t18",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "19\t20\t21\t22\t23\t24\t25",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "26\t27\t28\t29\t30",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "2\t3\t4\t5\t6\t7\t8",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "매일 1시간 구글 부업으로 월 100만 원 만들기 무료 특강 [7월 30일]",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "상호명: 주식회사 나랑해",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://presslearn.co.kr/fc\", waiting until \"networkidle\"\n"
     },
     {
       "name": "인사이트머니랩",
