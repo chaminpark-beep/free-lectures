@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07 00:55",
+  "updated_at": "2026-07-07 12:22",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1783353050-QpxEErzjqsfdT4hLKSI26Az1pI8Os7Cp",
+          "title": "cle1::1783394260-RD6TwbSSFavjfuOWRAy0S61xLXXhlS1A",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1783353056-vywHPuMDI5Pg5yifUst5vDF3CuK4UkTe",
+          "title": "cle1::1783394266-lDsGQ0OI338iUof1YpeDs02LrSdI8GhP",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1783353062-P4pIN4tYLINShvEz0NJbz3dJ2q5SXrDS",
+          "title": "cle1::1783394272-J2hZFgYo2BK555v6CcMJrNbdY8JTTx31",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -79,69 +79,8 @@
     {
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
-      "courses": [
-        {
-          "title": "[초보] 98%가 월매출 1천만원 달성한 미쳐버린 부업",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "초보자도 한달만에 월급 뛰어넘은 과일 위탁판매 성공공식",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "왕초보도 가능! 상품부터 CS까지 다해주는 국내유일! 과일위탁판매",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[HOT]레전드가 돌아왔다! 브랜드 신발 완판신화",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "자본금 7만 원으로 '내 건강식품' 완판하기",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "무자본, 무재고, 무광고! 산후조리원비 다 뽑고도 전문직 연봉 2배 번 비밀",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "천만원으로 시작해서 강남 아파트 입성한 투자 로드맵",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "하루 40분으로 5일만에 순수익 200만원! 중국드라마 쇼츠 부업",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "하루 10분, 클릭 1번으로 매달 100만원 자동수익! 음악 플레이리스트!",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[버티컬커머스] 동대문 한 번 안가고 AI로 끝내는 유캔몰!!",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.invader.co.kr/courses\", waiting until \"networkidle\"\n"
     },
     {
       "name": "밀레니얼머니스쿨",
@@ -560,8 +499,117 @@
     {
       "name": "황금후추",
       "url": "https://www.goldpepper.kr/103/",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.goldpepper.kr/103/\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "Alarm",
+          "date": "",
+          "link": "https://www.goldpepper.kr/103/",
+          "thumbnail": "https://www.goldpepper.kr/103//common/img/default_profile.png"
+        },
+        {
+          "title": "마이페이지 로그아웃",
+          "date": "",
+          "link": "https://www.goldpepper.kr/login?back_url=L3Nob3BfbXlwYWdl&type=mypage",
+          "thumbnail": ""
+        },
+        {
+          "title": "황금후추 회사소개 황금후추 소개 상담안내",
+          "date": "",
+          "link": "https://www.goldpepper.kr/120",
+          "thumbnail": ""
+        },
+        {
+          "title": "회사소개",
+          "date": "",
+          "link": "https://www.goldpepper.kr/conpany",
+          "thumbnail": ""
+        },
+        {
+          "title": "황금후추 소개",
+          "date": "",
+          "link": "https://www.goldpepper.kr/about",
+          "thumbnail": ""
+        },
+        {
+          "title": "상담안내",
+          "date": "",
+          "link": "https://www.goldpepper.kr/124",
+          "thumbnail": ""
+        },
+        {
+          "title": "클래스 무료강의 부동산 사주 타로 전자책",
+          "date": "",
+          "link": "https://www.goldpepper.kr/125",
+          "thumbnail": ""
+        },
+        {
+          "title": "무료강의",
+          "date": "",
+          "link": "https://www.goldpepper.kr/103",
+          "thumbnail": ""
+        },
+        {
+          "title": "부동산",
+          "date": "",
+          "link": "https://www.goldpepper.kr/class4",
+          "thumbnail": ""
+        },
+        {
+          "title": "전자책",
+          "date": "",
+          "link": "https://www.goldpepper.kr/class5",
+          "thumbnail": ""
+        },
+        {
+          "title": "커뮤니티 1:1 문의",
+          "date": "",
+          "link": "https://www.goldpepper.kr/130",
+          "thumbnail": ""
+        },
+        {
+          "title": "1:1 문의",
+          "date": "",
+          "link": "http://pf.kakao.com/_hDACG",
+          "thumbnail": ""
+        },
+        {
+          "title": "수강 후기",
+          "date": "",
+          "link": "https://www.goldpepper.kr/review",
+          "thumbnail": ""
+        },
+        {
+          "title": "강의실",
+          "date": "",
+          "link": "https://www.goldpepper.kr/136",
+          "thumbnail": ""
+        },
+        {
+          "title": "황금후추",
+          "date": "",
+          "link": "https://www.goldpepper.kr/120",
+          "thumbnail": ""
+        },
+        {
+          "title": "클래스",
+          "date": "",
+          "link": "https://www.goldpepper.kr/125",
+          "thumbnail": ""
+        },
+        {
+          "title": "커뮤니티",
+          "date": "",
+          "link": "https://www.goldpepper.kr/130",
+          "thumbnail": ""
+        },
+        {
+          "title": "수강 후기",
+          "date": "",
+          "link": "https://www.goldpepper.kr/review",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "터닝포인트스쿨",
@@ -578,6 +626,12 @@
           "date": "",
           "link": "https://tpschool.co.kr/classes/215059",
           "thumbnail": "https://cdn.liveklass.com/course/1781760420510.png.medium"
+        },
+        {
+          "title": "Channel Talk pop-up",
+          "date": "",
+          "link": "https://www.tpschool.co.kr/p/webinar",
+          "thumbnail": ""
         }
       ],
       "error": null
@@ -722,6 +776,12 @@
       "name": "인사이트머니랩",
       "url": "https://insightmoneylab.com/course-category/free-class/",
       "courses": [
+        {
+          "title": "[0원 강의] 월 300 현금흐름 합법 에어비앤비 끝판왕",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        },
         {
           "title": "[0원 강의] 소액 숙박업으로 월 3000 현금흐름 5가지 방법 공개",
           "date": "",
