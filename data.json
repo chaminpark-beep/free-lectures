@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07 12:22",
+  "updated_at": "2026-07-07 23:59",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1783394260-RD6TwbSSFavjfuOWRAy0S61xLXXhlS1A",
+          "title": "iad1::1783436096-dAb1vdq4rqyQAehCyr4snBm7Qe2RgDx8",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1783394266-lDsGQ0OI338iUof1YpeDs02LrSdI8GhP",
+          "title": "iad1::1783436102-PnQirK5eT9nLD8v1Tp9QAGpZqouANzyt",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1783394272-J2hZFgYo2BK555v6CcMJrNbdY8JTTx31",
+          "title": "iad1::1783436107-Y8Gn1p5KH7gtC3JYrvUqcgULFZRIuqGF",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -626,12 +626,6 @@
           "date": "",
           "link": "https://tpschool.co.kr/classes/215059",
           "thumbnail": "https://cdn.liveklass.com/course/1781760420510.png.medium"
-        },
-        {
-          "title": "Channel Talk pop-up",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/p/webinar",
-          "thumbnail": ""
         }
       ],
       "error": null
@@ -647,13 +641,13 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "LIVE",
+          "title": "LIVE • VOD",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
         },
         {
-          "title": "LIVE",
+          "title": "LIVE • VOD",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
@@ -893,7 +887,7 @@
       "url": "https://buchinclass.com/class?mainCategory=5",
       "courses": [
         {
-          "title": "[0원 강의] 1년 만에 1억 5천 달성! 썩은 빌라 인테리어로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료 똥손도 AI 인스타툰",
+          "title": "[0원 강의] 1년 만에 1억 5천 달성! 썩은 빌라 인테리어로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료 [0원 강의] 하루 ",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
@@ -923,30 +917,6 @@
           "thumbnail": ""
         },
         {
-          "title": "똥손도 AI 인스타툰 대행으로 월 300 번 노하우 무료공개 영영 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "똥손도 AI 인스타툰 대행으로 월 300 번 노하우 무료공개 영영 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "똥손도 AI 인스타툰 대행으로 월 300 번 노하우 무료공개",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "영영 0.0 (0개)",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
           "title": "[0원 강의] 하루 1시간, 순수익 4천 만든 스터디카페 인수창업 올인원 송수미 0.0 (0개) 무료",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
@@ -966,6 +936,30 @@
         },
         {
           "title": "송수미 0.0 (0개)",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[4기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[4기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[4기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "원성환 0.0 (0개)",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
