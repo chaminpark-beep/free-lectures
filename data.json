@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07 23:59",
+  "updated_at": "2026-07-08 11:39",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1783436096-dAb1vdq4rqyQAehCyr4snBm7Qe2RgDx8",
+          "title": "iad1::1783478124-E2WFWDZifb1tlMMLJcQnz0OSfA4jb5cD",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1783436102-PnQirK5eT9nLD8v1Tp9QAGpZqouANzyt",
+          "title": "iad1::1783478130-8jSukWGi4KKdcUqdE3KduIX114QOiJGB",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1783436107-Y8Gn1p5KH7gtC3JYrvUqcgULFZRIuqGF",
+          "title": "iad1::1783478136-HzxRqtmyrj52UaJlzNJaEOjoc7mGu2ia",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -79,8 +79,69 @@
     {
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.invader.co.kr/courses\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "초보자도 한달만에 월급 뛰어넘은 과일 위탁판매 성공공식",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "왕초보도 가능! 상품부터 CS까지 다해주는 국내유일! 과일위탁판매",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "[HOT]레전드가 돌아왔다! 브랜드 신발 완판신화",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "자본금 7만 원으로 '내 건강식품' 완판하기",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "무자본, 무재고, 무광고! 산후조리원비 다 뽑고도 전문직 연봉 2배 번 비밀",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "천만원으로 시작해서 강남 아파트 입성한 투자 로드맵",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "하루 40분으로 5일만에 순수익 200만원! 중국드라마 쇼츠 부업",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "하루 10분, 클릭 1번으로 매달 100만원 자동수익! 음악 플레이리스트!",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "[초보] 98%가 월매출 1천만원 달성한 미쳐버린 부업",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "[버티컬커머스] 동대문 한 번 안가고 AI로 끝내는 유캔몰!!",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "밀레니얼머니스쿨",
@@ -626,6 +687,12 @@
           "date": "",
           "link": "https://tpschool.co.kr/classes/215059",
           "thumbnail": "https://cdn.liveklass.com/course/1781760420510.png.medium"
+        },
+        {
+          "title": "Channel Talk pop-up",
+          "date": "",
+          "link": "https://www.tpschool.co.kr/p/webinar",
+          "thumbnail": ""
         }
       ],
       "error": null
@@ -641,28 +708,76 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "LIVE • VOD",
+          "title": "브랜드 화장품 유통",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/301945",
+          "thumbnail": "https://cdn.liveklass.com/course/1781513014744.png.medium"
+        },
+        {
+          "title": "브랜드 화장품 유통으로 월 300 버는 핵심 비법 공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/301945",
+          "thumbnail": "https://cdn.liveklass.com/course/1781513014744.png.medium"
+        },
+        {
+          "title": "브랜드 화장품 유통으로 월 300 버는 핵심 비법 공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/301945",
+          "thumbnail": ""
+        },
+        {
+          "title": "강의 돈버는형님들 강사 5.0 (46)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
         },
         {
-          "title": "LIVE • VOD",
+          "title": "돈버는형님들 강사",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
         },
         {
-          "title": "LIVE",
+          "title": "5.0 (46)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
         },
         {
-          "title": "LIVE",
+          "title": "브랜드 화장품 유통으로 월 300 버는 핵심 비법",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/301945",
+          "thumbnail": ""
+        },
+        {
+          "title": "브랜드 화장품 유통으로 월 300 버는 핵심 비법",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
+        },
+        {
+          "title": "공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "자세히 보기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "리스크없이 시작하는 무재고 유통",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/306150",
+          "thumbnail": "https://cdn.liveklass.com/course/1782715869795.png.medium"
+        },
+        {
+          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰 D 공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/306150",
+          "thumbnail": "https://cdn.liveklass.com/course/1782715869795.png.medium"
         }
       ],
       "error": null
@@ -763,8 +878,69 @@
     {
       "name": "프레스런",
       "url": "https://presslearn.co.kr/fc",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://presslearn.co.kr/fc\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "매일 1시간 구글 부업으로 월 100만 원 만들기 무료 특강 [7월 30일]",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "일\t월\t화\t수\t목\t금\t토",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "28\t29\t30\t1\t2\t3\t4",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "5\t6\t7\t8\t9\t10\t11",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "12\t13\t14\t15\t16\t17\t18",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "19\t20\t21\t22\t23\t24\t25",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "26\t27\t28\t29\t30",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "2\t3\t4\t5\t6\t7\t8",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "매일 1시간 구글 부업으로 월 100만 원 만들기 무료 특강 [7월 30일]",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "상호명: 주식회사 나랑해",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "인사이트머니랩",
