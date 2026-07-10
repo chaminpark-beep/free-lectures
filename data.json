@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10 00:32",
+  "updated_at": "2026-07-10 12:01",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1783610867-dZMiklyne44R6pJquvN47Ft9sk92fdZk",
+          "title": "sfo1::1783652193-sAjLiUYaYn5HHWKYVT2q8Cv9qTmQ8mpW",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1783610873-7Q61AHbzyqQHLAdz9Ul7vyiX046T5wER",
+          "title": "sfo1::1783652198-H2PQM27Hbr5VV7yp1eHFfykbhs7RLtXt",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1783610879-Q3DlqxjH01WvSOQVqavOQsggYp3UQSIo",
+          "title": "sfo1::1783652204-7FYDEQasFtrAAfPDkSSPLbBvWLDzJoEz",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -128,111 +128,8 @@
     {
       "name": "시행착오",
       "url": "https://shco.co.kr/66",
-      "courses": [
-        {
-          "title": "Alarm",
-          "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": "https://shco.co.kr/66/common/img/default_profile.png"
-        },
-        {
-          "title": "마이페이지 로그아웃",
-          "date": "",
-          "link": "https://shco.co.kr/login?back_url=L3Nob3BfbXlwYWdl&type=mypage",
-          "thumbnail": ""
-        },
-        {
-          "title": "시행착오란",
-          "date": "",
-          "link": "https://shco.co.kr/85",
-          "thumbnail": ""
-        },
-        {
-          "title": "무료특강",
-          "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": ""
-        },
-        {
-          "title": "프리미엄 강의 프리미엄 강의 VOD 기초강의",
-          "date": "",
-          "link": "https://shco.co.kr/21",
-          "thumbnail": ""
-        },
-        {
-          "title": "프리미엄 강의",
-          "date": "",
-          "link": "https://shco.co.kr/21",
-          "thumbnail": ""
-        },
-        {
-          "title": "VOD 기초강의",
-          "date": "",
-          "link": "https://shco.co.kr/89",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 라인업 강사 목록 강사 지원하기",
-          "date": "",
-          "link": "https://shco.co.kr/83",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 목록",
-          "date": "",
-          "link": "https://shco.co.kr/83",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 지원하기",
-          "date": "",
-          "link": "https://shco.co.kr/80",
-          "thumbnail": ""
-        },
-        {
-          "title": "성장 라운지 수강생 후기 수강생 성과",
-          "date": "",
-          "link": "https://shco.co.kr/76",
-          "thumbnail": ""
-        },
-        {
-          "title": "수강생 후기",
-          "date": "",
-          "link": "https://shco.co.kr/76",
-          "thumbnail": ""
-        },
-        {
-          "title": "수강생 성과",
-          "date": "",
-          "link": "https://shco.co.kr/91",
-          "thumbnail": ""
-        },
-        {
-          "title": "시행착오란",
-          "date": "",
-          "link": "https://shco.co.kr/85",
-          "thumbnail": ""
-        },
-        {
-          "title": "무료특강",
-          "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": ""
-        },
-        {
-          "title": "프리미엄 강의",
-          "date": "",
-          "link": "https://shco.co.kr/21",
-          "thumbnail": ""
-        },
-        {
-          "title": "VOD 기초강의",
-          "date": "",
-          "link": "https://shco.co.kr/89",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://shco.co.kr/66\", waiting until \"networkidle\"\n"
     },
     {
       "name": "엔잡연구소",
@@ -616,15 +513,15 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "[미스멍디] 똥손도 월 300이상 버는 AI 인스타툰 수익화 노하우 무료특강",
+          "title": "똥손도 월 300이상 버는 AI 인스타툰 수익화 마스터 클래스",
           "date": "",
-          "link": "https://www.tpschool.co.kr/classes/215059",
-          "thumbnail": "https://cdn.liveklass.com/course/1781760420510.png.medium"
+          "link": "https://tpschool.co.kr/classes/309622",
+          "thumbnail": "https://cdn.liveklass.com/course/019f46f526fa7d53ab4b7b3bd20bd5c5.png.medium"
         },
         {
-          "title": "[미스멍디] 똥손도 월 300이상 버는 AI 인스타툰 수익화 마스터 클래스 (12개월 무이자 지원)",
+          "title": "똥손도 월 300이상 버는 AI 인스타툰 수익화 마스터 클래스",
           "date": "",
-          "link": "https://www.tpschool.co.kr/classes/309622",
+          "link": "https://tpschool.co.kr/classes/309622",
           "thumbnail": "https://cdn.liveklass.com/course/019f46f526fa7d53ab4b7b3bd20bd5c5.png.medium"
         }
       ],
@@ -659,7 +556,7 @@
           "thumbnail": ""
         },
         {
-          "title": "강의 돈버는형님들 강사 5.0 (289)",
+          "title": "강의 돈버는형님들 강사 5.0 (290)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
@@ -671,7 +568,7 @@
           "thumbnail": ""
         },
         {
-          "title": "5.0 (289)",
+          "title": "5.0 (290)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
@@ -935,7 +832,31 @@
       "url": "https://buchinclass.com/class?mainCategory=5",
       "courses": [
         {
-          "title": "[0원 강의] 1년 만에 1억 5천 달성! 썩은 빌라 인테리어로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료 [0원 강의] 하루 ",
+          "title": "[0원 강의] 일 년에 두 번 일하고 직장인 연봉 번 고마진 공동구매중개 미노리 0.0 (0개) 무료 [0원 강의] 1년 만에 1억 5천 달성!",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[0원 강의] 일 년에 두 번 일하고 직장인 연봉 번 고마진 공동구매중개 미노리 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[0원 강의] 일 년에 두 번 일하고 직장인 연봉 번 고마진 공동구매중개 미노리 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[0원 강의] 일 년에 두 번 일하고 직장인 연봉 번 고마진 공동구매중개",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "미노리 0.0 (0개)",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
@@ -984,30 +905,6 @@
         },
         {
           "title": "송수미 0.0 (0개)",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[4기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[4기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[4기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "원성환 0.0 (0개)",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
