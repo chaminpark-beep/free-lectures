@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11 22:47",
+  "updated_at": "2026-07-12 11:42",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1783777434-0hojNWasiZxGkGNkebjLJ2rgSZmPMMxz",
+          "title": "iad1::1783823967-Hmv9ExdsmMQ8NteLl92Eq4EGEUichxOt",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1783777440-P9hi84nv2jbPKLjvzPMRgIp4oYXnvo4y",
+          "title": "iad1::1783823972-PtzD08VO8hHNlmkCLTrwXjgUrPjkxlFM",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1783777446-ODNcDUpZrK6mcUvT7CNbBV8vN4kTmFii",
+          "title": "iad1::1783823978-BTTXzCIBFbbCM6sBXC1ZZ7iW7yeTkFEW",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -720,7 +720,7 @@
           "thumbnail": ""
         },
         {
-          "title": "강의 돈버는형님들 강사 5.0 (291)",
+          "title": "강의 돈버는형님들 강사 5.0 (292)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
@@ -732,7 +732,7 @@
           "thumbnail": ""
         },
         {
-          "title": "5.0 (291)",
+          "title": "5.0 (292)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
@@ -872,8 +872,69 @@
     {
       "name": "프레스런",
       "url": "https://presslearn.co.kr/fc",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://presslearn.co.kr/fc\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "매일 1시간 구글 부업으로 월 100만 원 만들기 무료 특강 [7월 30일]",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "일\t월\t화\t수\t목\t금\t토",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "28\t29\t30\t1\t2\t3\t4",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "5\t6\t7\t8\t9\t10\t11",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "12\t13\t14\t15\t16\t17\t18",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "19\t20\t21\t22\t23\t24\t25",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "26\t27\t28\t29\t30",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "2\t3\t4\t5\t6\t7\t8",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "매일 1시간 구글 부업으로 월 100만 원 만들기 무료 특강 [7월 30일]",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "상호명: 주식회사 나랑해",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "인사이트머니랩",
@@ -927,63 +988,8 @@
     {
       "name": "온부자",
       "url": "https://www.onbuja.com/courses?courseType=FREE",
-      "courses": [
-        {
-          "title": "클래스",
-          "date": "",
-          "link": "https://www.onbuja.com/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "온부자 소개",
-          "date": "",
-          "link": "https://www.onbuja.com/about",
-          "thumbnail": ""
-        },
-        {
-          "title": "FAQ",
-          "date": "",
-          "link": "https://www.onbuja.com/support/faqs",
-          "thumbnail": ""
-        },
-        {
-          "title": "1:1문의",
-          "date": "",
-          "link": "https://pf.kakao.com/_llQxin/chat",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사모집",
-          "date": "",
-          "link": "https://forms.gle/WfYkQA6dhuQ8XEkc7",
-          "thumbnail": ""
-        },
-        {
-          "title": "시스템노바 소개",
-          "date": "",
-          "link": "https://systemnova.co.kr/about",
-          "thumbnail": ""
-        },
-        {
-          "title": "개인정보 보호방침",
-          "date": "",
-          "link": "https://www.onbuja.com/privacy-policy",
-          "thumbnail": ""
-        },
-        {
-          "title": "이용약관",
-          "date": "",
-          "link": "https://www.onbuja.com/terms-of-use",
-          "thumbnail": ""
-        },
-        {
-          "title": "환불규정",
-          "date": "",
-          "link": "https://www.onbuja.com/refund-policy",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.onbuja.com/courses?courseType=FREE\nCall log:\n  - navigating to \"https://www.onbuja.com/courses?courseType=FREE\", waiting until \"networkidle\"\n"
     },
     {
       "name": "클래스101",
