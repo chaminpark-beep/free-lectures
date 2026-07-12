@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12 11:42",
+  "updated_at": "2026-07-12 22:48",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1783823967-Hmv9ExdsmMQ8NteLl92Eq4EGEUichxOt",
+          "title": "iad1::1783863896-grSRVSWb7gRG3w472092oZ3aFz417xUq",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1783823972-PtzD08VO8hHNlmkCLTrwXjgUrPjkxlFM",
+          "title": "iad1::1783863903-SlV03fRBiaPDbQuWQiALNQQsY1RpiVz3",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1783823978-BTTXzCIBFbbCM6sBXC1ZZ7iW7yeTkFEW",
+          "title": "iad1::1783863908-12HER4gqPQjyCA6z5Epa105Vy1qI4abY",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -872,69 +872,8 @@
     {
       "name": "프레스런",
       "url": "https://presslearn.co.kr/fc",
-      "courses": [
-        {
-          "title": "매일 1시간 구글 부업으로 월 100만 원 만들기 무료 특강 [7월 30일]",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "일\t월\t화\t수\t목\t금\t토",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "28\t29\t30\t1\t2\t3\t4",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "5\t6\t7\t8\t9\t10\t11",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "12\t13\t14\t15\t16\t17\t18",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "19\t20\t21\t22\t23\t24\t25",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "26\t27\t28\t29\t30",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "2\t3\t4\t5\t6\t7\t8",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "매일 1시간 구글 부업으로 월 100만 원 만들기 무료 특강 [7월 30일]",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "상호명: 주식회사 나랑해",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://presslearn.co.kr/fc\", waiting until \"networkidle\"\n"
     },
     {
       "name": "인사이트머니랩",
@@ -1002,7 +941,7 @@
       "url": "https://buchinclass.com/class?mainCategory=5",
       "courses": [
         {
-          "title": "[0원 강의] 일 년에 두 번 일하고 직장인 연봉 번 고마진 공동구매중개 미노리 0.0 (0개) 무료 [0원 강의] 1년 만에 1억 5천 달성!",
+          "title": "[0원 강의] 일 년에 두 번 일하고 직장인 연봉 번 고마진 공동구매중개 미노리 0.0 (0개) 무료 [0원 강의] 하루 1시간, 순수익 4천 ",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
@@ -1032,30 +971,6 @@
           "thumbnail": ""
         },
         {
-          "title": "[0원 강의] 1년 만에 1억 5천 달성! 썩은 빌라 인테리어로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[0원 강의] 1년 만에 1억 5천 달성! 썩은 빌라 인테리어로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[0원 강의] 1년 만에 1억 5천 달성! 썩은 빌라 인테리어로 소액 경매 단타 부수기 끝판왕",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "원성환 0.0 (0개)",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
           "title": "[0원 강의] 하루 1시간, 순수익 4천 만든 스터디카페 인수창업 올인원 송수미 0.0 (0개) 무료",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
@@ -1075,6 +990,30 @@
         },
         {
           "title": "송수미 0.0 (0개)",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[4기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[4기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[4기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "원성환 0.0 (0개)",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
