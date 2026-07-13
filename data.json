@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13 11:44",
+  "updated_at": "2026-07-13 23:56",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1783910471-jPUfWSO9pg0xQm5FqHnMBziNlHly8yZN",
+          "title": "iad1::1783954358-comGpE4lNF504OyPsjK0eY2ZaIb2LJBM",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1783910477-pJL6RXv5RAMfqVLmSmttdhqruwSWW71Z",
+          "title": "iad1::1783954364-o8ReyANUTj3Zfxp34TP6QBV4B13hZx20",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1783910483-cnUGAIdDmZDrSx0SFJAPsDD8SyBEfjri",
+          "title": "iad1::1783954370-ww53fVSJevqoLbWrbjQHAQc7FDCiOLcM",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -80,6 +80,12 @@
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
       "courses": [
+        {
+          "title": "왕초보도 가능! 상품부터 CS까지 다해주는 국내유일! 과일위탁판매",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
         {
           "title": "왕초보도 가능! 상품부터 CS까지 다해주는 국내유일! 과일위탁판매",
           "date": "",
@@ -133,12 +139,6 @@
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
-        },
-        {
-          "title": "광고비 단돈 3천원으로, 쿠팡에서 월 6,000만원! 영양제 수익화 종합특강",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
         }
       ],
       "error": null
@@ -178,10 +178,10 @@
           "thumbnail": ""
         },
         {
-          "title": "Previous Next 1 2 3 4 5 6 7 8",
+          "title": "Previous Next 1 2 3 4 5",
           "date": "",
-          "link": "https://millmus.com/lecture/detail/854",
-          "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2F96384a05-4925-4e00-812e-8d4f03f8830b.png&w=3840&q=75"
+          "link": "https://millmus.com/lecture/detail/869",
+          "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2Fbacfb36b-9d59-4a01-bb8b-58c78dba321d.png&w=3840&q=75"
         }
       ],
       "error": null
@@ -300,6 +300,12 @@
       "url": "https://www.nlab.kr/courses?categoryId=free-courses",
       "courses": [
         {
+          "title": "➡️루시님 무료강의 입장하기⬅️",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
           "title": "3초 카톡플친하면 매일 무료 강의 소식이 옵니다.",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
@@ -349,12 +355,6 @@
         },
         {
           "title": "무료특강 일정 알림을",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 신청 및 협업제안",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -677,16 +677,10 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "똥손도 월 300이상 버는 AI 인스타툰 수익화 마스터 클래스",
+          "title": "403 Forbidden",
           "date": "",
-          "link": "https://tpschool.co.kr/classes/309622",
-          "thumbnail": "https://cdn.liveklass.com/course/019f46f526fa7d53ab4b7b3bd20bd5c5.png.medium"
-        },
-        {
-          "title": "똥손도 월 300이상 버는 AI 인스타툰 수익화 마스터 클래스",
-          "date": "",
-          "link": "https://tpschool.co.kr/classes/309622",
-          "thumbnail": "https://cdn.liveklass.com/course/019f46f526fa7d53ab4b7b3bd20bd5c5.png.medium"
+          "link": "https://www.tpschool.co.kr/p/webinar",
+          "thumbnail": ""
         }
       ],
       "error": null
@@ -702,76 +696,10 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "리스크없이 시작하는 무재고 유통",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/306150",
-          "thumbnail": "https://cdn.liveklass.com/course/1782715869795.png.medium"
-        },
-        {
-          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰 D 공유하기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/306150",
-          "thumbnail": "https://cdn.liveklass.com/course/1782715869795.png.medium"
-        },
-        {
-          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰 D 공유하기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/306150",
-          "thumbnail": ""
-        },
-        {
-          "title": "강의 돈버는형님들 강사 5.0 (293)",
+          "title": "403 Forbidden",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
-        },
-        {
-          "title": "돈버는형님들 강사",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "5.0 (293)",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰 D",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/306150",
-          "thumbnail": ""
-        },
-        {
-          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰 D",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "공유하기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "자세히 보기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "초보자도 가능한 AI자동화 무료특강",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/272758",
-          "thumbnail": "https://cdn.liveklass.com/course/1782981852624.png.medium"
-        },
-        {
-          "title": "3일 완성! AI초보도 가능한 수익 자동화 공유하기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/272758",
-          "thumbnail": "https://cdn.liveklass.com/course/1782981852624.png.medium"
         }
       ],
       "error": null
@@ -872,69 +800,8 @@
     {
       "name": "프레스런",
       "url": "https://presslearn.co.kr/fc",
-      "courses": [
-        {
-          "title": "매일 1시간 구글 부업으로 월 100만 원 만들기 무료 특강 [7월 30일]",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "일\t월\t화\t수\t목\t금\t토",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "28\t29\t30\t1\t2\t3\t4",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "5\t6\t7\t8\t9\t10\t11",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "12\t13\t14\t15\t16\t17\t18",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "19\t20\t21\t22\t23\t24\t25",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "26\t27\t28\t29\t30",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "2\t3\t4\t5\t6\t7\t8",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "매일 1시간 구글 부업으로 월 100만 원 만들기 무료 특강 [7월 30일]",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "상호명: 주식회사 나랑해",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://presslearn.co.kr/fc\", waiting until \"networkidle\"\n"
     },
     {
       "name": "인사이트머니랩",
@@ -988,8 +855,63 @@
     {
       "name": "온부자",
       "url": "https://www.onbuja.com/courses?courseType=FREE",
-      "courses": [],
-      "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.onbuja.com/courses?courseType=FREE\nCall log:\n  - navigating to \"https://www.onbuja.com/courses?courseType=FREE\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "클래스",
+          "date": "",
+          "link": "https://www.onbuja.com/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "온부자 소개",
+          "date": "",
+          "link": "https://www.onbuja.com/about",
+          "thumbnail": ""
+        },
+        {
+          "title": "FAQ",
+          "date": "",
+          "link": "https://www.onbuja.com/support/faqs",
+          "thumbnail": ""
+        },
+        {
+          "title": "1:1문의",
+          "date": "",
+          "link": "https://pf.kakao.com/_llQxin/chat",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사모집",
+          "date": "",
+          "link": "https://forms.gle/WfYkQA6dhuQ8XEkc7",
+          "thumbnail": ""
+        },
+        {
+          "title": "시스템노바 소개",
+          "date": "",
+          "link": "https://systemnova.co.kr/about",
+          "thumbnail": ""
+        },
+        {
+          "title": "개인정보 보호방침",
+          "date": "",
+          "link": "https://www.onbuja.com/privacy-policy",
+          "thumbnail": ""
+        },
+        {
+          "title": "이용약관",
+          "date": "",
+          "link": "https://www.onbuja.com/terms-of-use",
+          "thumbnail": ""
+        },
+        {
+          "title": "환불규정",
+          "date": "",
+          "link": "https://www.onbuja.com/refund-policy",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "클래스101",
@@ -1002,7 +924,31 @@
       "url": "https://buchinclass.com/class?mainCategory=5",
       "courses": [
         {
-          "title": "[0원 강의] 일 년에 두 번 일하고 직장인 연봉 번 고마진 공동구매중개 미노리 0.0 (0개) 무료 [0원 강의] 하루 1시간, 순수익 4천 ",
+          "title": "[5기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료 [0원 강의] 일 년에 두 번 일하고 직장인 연봉 번 ",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[5기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[5기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[5기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "원성환 0.0 (0개)",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
@@ -1051,30 +997,6 @@
         },
         {
           "title": "송수미 0.0 (0개)",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[4기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[4기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[4기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "원성환 0.0 (0개)",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
