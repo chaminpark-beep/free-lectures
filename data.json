@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14 11:28",
+  "updated_at": "2026-07-14 23:07",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1783995886-ydOKRkSBvqpHzEUyIcyQMvbwE2fB4B1p",
+          "title": "sfo1::1784037791-IPMR5MxsdZqssn1xUoBM8rBV9mmVASXg",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1783995892-rxo2RLbwf5wfrLRcEzL85HH9U4MRQNfH",
+          "title": "sfo1::1784037797-eOe0Ti5bR3Pgl8MapiJAiWQ288Ls9ODr",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1783995899-V7yKuNLMisCEB0oMcfC2oPnklJFvhHeN",
+          "title": "sfo1::1784037803-vlCEYHizlTfwFkWLcgRHYDiUiqQcZ8rX",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -81,13 +81,13 @@
       "url": "https://www.invader.co.kr/courses",
       "courses": [
         {
-          "title": "왕초보도 가능! 상품부터 CS까지 다해주는 국내유일! 과일위탁판매",
+          "title": "[HOT]레전드가 돌아왔다! 브랜드 신발 완판신화",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
         },
         {
-          "title": "[HOT]레전드가 돌아왔다! 브랜드 신발 완판신화",
+          "title": "왕초보도 가능! 상품부터 CS까지 다해주는 국내유일! 과일위탁판매",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -148,10 +148,40 @@
       "url": "https://millmus.com/lecture/coin/1",
       "courses": [
         {
-          "title": "This page could not be found.",
+          "title": "오늘 하루 보지 않기",
           "date": "",
           "link": "https://millmus.com/lecture/coin/1",
           "thumbnail": ""
+        },
+        {
+          "title": "홈 무료LIVE 프리미엄클래스 이벤트",
+          "date": "",
+          "link": "https://millmus.com/",
+          "thumbnail": ""
+        },
+        {
+          "title": "홈 무료LIVE 프리미엄클래스 이벤트",
+          "date": "",
+          "link": "https://millmus.com/",
+          "thumbnail": ""
+        },
+        {
+          "title": "로그인",
+          "date": "",
+          "link": "https://millmus.com/lecture/coin/1",
+          "thumbnail": ""
+        },
+        {
+          "title": "회원가입",
+          "date": "",
+          "link": "https://millmus.com/lecture/coin/1",
+          "thumbnail": ""
+        },
+        {
+          "title": "Previous Next 1 2 3 4 5",
+          "date": "",
+          "link": "https://millmus.com/lecture/detail/869",
+          "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2Fbacfb36b-9d59-4a01-bb8b-58c78dba321d.png&w=3840&q=75"
         }
       ],
       "error": null
@@ -647,10 +677,16 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "403 Forbidden",
+          "title": "똥손도 월 300이상 버는 AI 인스타툰 수익화 마스터 클래스",
           "date": "",
-          "link": "https://www.tpschool.co.kr/p/webinar",
-          "thumbnail": ""
+          "link": "https://tpschool.co.kr/classes/309622",
+          "thumbnail": "https://cdn.liveklass.com/course/019f46f526fa7d53ab4b7b3bd20bd5c5.png.medium"
+        },
+        {
+          "title": "똥손도 월 300이상 버는 AI 인스타툰 수익화 마스터 클래스",
+          "date": "",
+          "link": "https://tpschool.co.kr/classes/309622",
+          "thumbnail": "https://cdn.liveklass.com/course/019f46f526fa7d53ab4b7b3bd20bd5c5.png.medium"
         }
       ],
       "error": null
@@ -666,10 +702,76 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "403 Forbidden",
+          "title": "리스크없이 시작하는 무재고 유통",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/306150",
+          "thumbnail": "https://cdn.liveklass.com/course/1782715869795.png.medium"
+        },
+        {
+          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰 공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/306150",
+          "thumbnail": "https://cdn.liveklass.com/course/1782715869795.png.medium"
+        },
+        {
+          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰 공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/306150",
+          "thumbnail": ""
+        },
+        {
+          "title": "강의 돈버는형님들 강사 5.0 (331)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
+        },
+        {
+          "title": "돈버는형님들 강사",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "5.0 (331)",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/306150",
+          "thumbnail": ""
+        },
+        {
+          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "자세히 보기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "초보자도 가능한 AI자동화 무료특강",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/272758",
+          "thumbnail": "https://cdn.liveklass.com/course/1782981852624.png.medium"
+        },
+        {
+          "title": "3일 완성! AI초보도 가능한 수익 자동화 공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/272758",
+          "thumbnail": "https://cdn.liveklass.com/course/1782981852624.png.medium"
         }
       ],
       "error": null
@@ -723,7 +825,13 @@
       "url": "https://www.peterpanschool.co.kr/courses/free",
       "courses": [
         {
-          "title": "무료로 배울 수 있는 고퀄리티 강의들을 만나보세요(총 2개)",
+          "title": "무료로 배울 수 있는 고퀄리티 강의들을 만나보세요(총 3개)",
+          "date": "",
+          "link": "https://www.peterpanschool.co.kr/courses/free",
+          "thumbnail": ""
+        },
+        {
+          "title": "AI로 영상 만들어 2년 10억 매출 낸 틱톡쇼핑!",
           "date": "",
           "link": "https://www.peterpanschool.co.kr/courses/free",
           "thumbnail": ""
