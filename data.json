@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15 23:04",
+  "updated_at": "2026-07-16 11:34",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1784123989-21oSYLNarpj0yGisNHb7gQfE9zoGtXud",
+          "title": "sfo1::1784169027-BqrD7biulSLUWXoTkDCrotSYjdBbyUkU",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1784123995-ktTtc3iBALUXGgjibpoZZtW38mH4BC1c",
+          "title": "sfo1::1784169033-A7qdikoK27kUkNDnfURx2aSTtzmFvNz6",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1784124001-zSGmk5naLFgaZlS10Sz7y1ZdfdxDbjie",
+          "title": "sfo1::1784169039-3kBteQskRgttVU8yN9DF4rfJCOvkuRKA",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -300,19 +300,7 @@
       "url": "https://www.nlab.kr/courses?categoryId=free-courses",
       "courses": [
         {
-          "title": "➡️인피디님 무료강의 입장하기⬅️",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
           "title": "3초 카톡플친하면 매일 무료 강의 소식이 옵니다.",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[인피디]사진 한 장으로 월 천 번 인스타 캐러셀 수익화 노하우",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -355,6 +343,18 @@
         },
         {
           "title": "무료특강 일정 알림을",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 신청 및 협업제안",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "주식회사 티티에이컴퍼니",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -680,13 +680,13 @@
           "title": "똥손도 월 300이상 버는 AI 인스타툰 수익화 마스터 클래스",
           "date": "",
           "link": "https://tpschool.co.kr/classes/309622",
-          "thumbnail": "https://cdn.liveklass.com/course/019f46f526fa7d53ab4b7b3bd20bd5c5.png.medium"
+          "thumbnail": "https://cdn.liveklass.com/common/1762994118872.png"
         },
         {
           "title": "똥손도 월 300이상 버는 AI 인스타툰 수익화 마스터 클래스",
           "date": "",
           "link": "https://tpschool.co.kr/classes/309622",
-          "thumbnail": "https://cdn.liveklass.com/course/019f46f526fa7d53ab4b7b3bd20bd5c5.png.medium"
+          "thumbnail": "https://cdn.liveklass.com/common/1762994118872.png"
         }
       ],
       "error": null
@@ -720,7 +720,7 @@
           "thumbnail": ""
         },
         {
-          "title": "강의 돈버는형님들 강사 5.0 (345)",
+          "title": "강의 돈버는형님들 강사 5.0 (346)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
@@ -732,7 +732,7 @@
           "thumbnail": ""
         },
         {
-          "title": "5.0 (345)",
+          "title": "5.0 (346)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
@@ -798,8 +798,27 @@
     {
       "name": "머니루트",
       "url": "https://moneyroot.co.kr/lectures/free",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://moneyroot.co.kr/lectures/free\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "AI 과일 위탁 부업 무료강의",
+          "date": "",
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=70",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_08_2_1.png"
+        },
+        {
+          "title": "AI 과일 위탁 부업 무료강의",
+          "date": "",
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=70",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_08_2_1.png"
+        },
+        {
+          "title": "AI 과일 위탁 부업 무료강의",
+          "date": "",
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=70",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_08_2_1.png"
+        }
+      ],
+      "error": null
     },
     {
       "name": "피터팬스쿨",
