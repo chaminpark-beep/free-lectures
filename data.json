@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19 11:40",
+  "updated_at": "2026-07-19 22:46",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1784428582-FptLpDkwVTq59D0ufDapD5clBAJiOupG",
+          "title": "iad1::1784468477-dbpthAhzzyhtypnkQfEFEu9VAzLNnfT2",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1784428588-SL92iKKfpBHtMCMYd0RV8S8DPF0SZxp5",
+          "title": "iad1::1784468483-RUQKomP9K874Ia0cSBvjOCeE7fMiHJA5",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1784428594-yVhA4VCprPSYPFRrV0f41xo98fyJhomj",
+          "title": "iad1::1784468489-ajQajL4xeNxV5ZUM90CBI9zwswRq6HmK",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -79,69 +79,8 @@
     {
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
-      "courses": [
-        {
-          "title": "무자본, 무재고, 무광고! 산후조리원비 다 뽑고도 전문직 연봉 2배 번 비밀",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "천만원으로 시작해서 강남 아파트 입성한 투자 로드맵",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "하루 40분으로 5일만에 순수익 200만원! 중국드라마 쇼츠 부업",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "하루 10분, 클릭 1번으로 매달 100만원 자동수익! 음악 플레이리스트!",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[초보] 98%가 월매출 1천만원 달성한 미쳐버린 부업",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[버티컬커머스] 동대문 한 번 안가고 AI로 끝내는 유캔몰!!",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "광고비 단돈 3천원으로, 쿠팡에서 월 6,000만원! 영양제 수익화 종합특강",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "풀자동화 프로그램으로 망하지 않는 유튜브 수익 만들기",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "컵라면 영상 1개로 수익 410만 원 꽂히는 '쇼츠 자동화'",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "유튜브 부업의 종착지! 컴맹도 연금 만드는 유튜브 수익화 종합반",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.invader.co.kr/courses\", waiting until \"networkidle\"\n"
     },
     {
       "name": "밀레니얼머니스쿨",
@@ -189,111 +128,8 @@
     {
       "name": "시행착오",
       "url": "https://shco.co.kr/66",
-      "courses": [
-        {
-          "title": "Alarm",
-          "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": "https://shco.co.kr/66/common/img/default_profile.png"
-        },
-        {
-          "title": "마이페이지 로그아웃",
-          "date": "",
-          "link": "https://shco.co.kr/login?back_url=L3Nob3BfbXlwYWdl&type=mypage",
-          "thumbnail": ""
-        },
-        {
-          "title": "시행착오란",
-          "date": "",
-          "link": "https://shco.co.kr/85",
-          "thumbnail": ""
-        },
-        {
-          "title": "무료특강",
-          "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": ""
-        },
-        {
-          "title": "프리미엄 강의 프리미엄 강의 VOD 기초강의",
-          "date": "",
-          "link": "https://shco.co.kr/21",
-          "thumbnail": ""
-        },
-        {
-          "title": "프리미엄 강의",
-          "date": "",
-          "link": "https://shco.co.kr/21",
-          "thumbnail": ""
-        },
-        {
-          "title": "VOD 기초강의",
-          "date": "",
-          "link": "https://shco.co.kr/89",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 라인업 강사 목록 강사 지원하기",
-          "date": "",
-          "link": "https://shco.co.kr/83",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 목록",
-          "date": "",
-          "link": "https://shco.co.kr/83",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 지원하기",
-          "date": "",
-          "link": "https://shco.co.kr/80",
-          "thumbnail": ""
-        },
-        {
-          "title": "성장 라운지 수강생 후기 수강생 성과",
-          "date": "",
-          "link": "https://shco.co.kr/76",
-          "thumbnail": ""
-        },
-        {
-          "title": "수강생 후기",
-          "date": "",
-          "link": "https://shco.co.kr/76",
-          "thumbnail": ""
-        },
-        {
-          "title": "수강생 성과",
-          "date": "",
-          "link": "https://shco.co.kr/91",
-          "thumbnail": ""
-        },
-        {
-          "title": "시행착오란",
-          "date": "",
-          "link": "https://shco.co.kr/85",
-          "thumbnail": ""
-        },
-        {
-          "title": "무료특강",
-          "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": ""
-        },
-        {
-          "title": "프리미엄 강의",
-          "date": "",
-          "link": "https://shco.co.kr/21",
-          "thumbnail": ""
-        },
-        {
-          "title": "VOD 기초강의",
-          "date": "",
-          "link": "https://shco.co.kr/89",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://shco.co.kr/66\", waiting until \"networkidle\"\n"
     },
     {
       "name": "엔잡연구소",
@@ -428,12 +264,6 @@
           "thumbnail": ""
         },
         {
-          "title": "[무료강의] AI 유튜브 쇼핑 숏폼",
-          "date": "",
-          "link": "https://www.moneyupclass.com/free-courses",
-          "thumbnail": ""
-        },
-        {
           "title": "[무료강의] AI 유튜브 비밀공식",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
@@ -477,6 +307,12 @@
         },
         {
           "title": "개인정보관리책임자 : 김상원 | 대표번호 : 070-8057-9339 (전화상담 미운영/채널톡 문의)",
+          "date": "",
+          "link": "https://www.moneyupclass.com/free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "핏크닉은 통신판매중개자로서 중개하는 거래에 대하여 책임을 부담하지 않습니다.",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
           "thumbnail": ""
