@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22 11:37",
+  "updated_at": "2026-07-22 23:17",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1784687583-NtC63PnwZAF2t48OzR0eAV1aPbD8Xv6h",
+          "title": "cle1::1784729636-zFULFfe4xCOHIismsb0SO92eedVGuUID",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1784687589-qDca7qvSFAUOSGYGUsQ0OGfcVsUZw9wL",
+          "title": "cle1::1784729642-xcms0e3o43H4tyk4NvFinqqmKQUPO6NK",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1784687595-U474Ay08Xcs6aFf35aG8ZneToOPMuwQP",
+          "title": "cle1::1784729648-KhsLBbgc1Dj7Wj2a1Myj0tAnPVpmktpE",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -88,6 +88,12 @@
         },
         {
           "title": "천만원으로 시작해서 강남 아파트 입성한 투자 로드맵",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "하루 40분으로 5일만에 순수익 200만원! 중국드라마 쇼츠 부업",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -130,12 +136,6 @@
         },
         {
           "title": "컵라면 영상 1개로 수익 410만 원 꽂히는 '쇼츠 자동화'",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "유튜브 부업의 종착지! 컴맹도 연금 만드는 유튜브 수익화 종합반",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -300,6 +300,12 @@
       "url": "https://www.nlab.kr/courses?categoryId=free-courses",
       "courses": [
         {
+          "title": "➡️윤이사님 무료강의 입장하기⬅️",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
           "title": "3초 카톡플친하면 매일 무료 강의 소식이 옵니다.",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
@@ -349,12 +355,6 @@
         },
         {
           "title": "주식회사 티티에이컴퍼니",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "상호 : N잡연구소(엔잡연구소)",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -428,12 +428,6 @@
           "thumbnail": ""
         },
         {
-          "title": "[무료강의] AI 유튜브 비밀공식",
-          "date": "",
-          "link": "https://www.moneyupclass.com/free-courses",
-          "thumbnail": ""
-        },
-        {
           "title": "[무료강의] 월300 시니어 일기장 유튜브",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
@@ -458,7 +452,7 @@
           "thumbnail": ""
         },
         {
-          "title": "대표자 : 정승요 | 주소 : 서울특별시 강남구 삼성동 140-31, 5층",
+          "title": "대표자 : 정승요 | 주소 : 서울 강남구 선릉로93길 27 5층(역삼동)",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
           "thumbnail": ""
@@ -477,6 +471,12 @@
         },
         {
           "title": "개인정보관리책임자 : 김상원 | 대표번호 : 070-8057-9339 (전화상담 미운영/채널톡 문의)",
+          "date": "",
+          "link": "https://www.moneyupclass.com/free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "핏크닉은 통신판매중개자로서 중개하는 거래에 대하여 책임을 부담하지 않습니다.",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
           "thumbnail": ""
@@ -765,13 +765,13 @@
           "title": "초보자도 가능한 AI자동화 무료특강",
           "date": "",
           "link": "https://donclass.liveklass.com/classes/272758",
-          "thumbnail": "https://cdn.liveklass.com/course/1782981852624.png.medium"
+          "thumbnail": "https://cdn.liveklass.com/course/019f89216ca37b51be0843e0dd45d178.jpeg.medium"
         },
         {
           "title": "3일 완성! AI초보도 가능한 수익 자동화 공유하기",
           "date": "",
           "link": "https://donclass.liveklass.com/classes/272758",
-          "thumbnail": "https://cdn.liveklass.com/course/1782981852624.png.medium"
+          "thumbnail": "https://cdn.liveklass.com/course/019f89216ca37b51be0843e0dd45d178.jpeg.medium"
         }
       ],
       "error": null
@@ -823,8 +823,57 @@
     {
       "name": "피터팬스쿨",
       "url": "https://www.peterpanschool.co.kr/courses/free",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.peterpanschool.co.kr/courses/free\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "무료로 배울 수 있는 고퀄리티 강의들을 만나보세요(총 3개)",
+          "date": "",
+          "link": "https://www.peterpanschool.co.kr/courses/free",
+          "thumbnail": ""
+        },
+        {
+          "title": "AI로 영상 만들어 2년 10억 매출 낸 틱톡쇼핑!",
+          "date": "",
+          "link": "https://www.peterpanschool.co.kr/courses/free",
+          "thumbnail": ""
+        },
+        {
+          "title": "AI로 5억 번 감독의 촬영 없는 드라마 수익화",
+          "date": "",
+          "link": "https://www.peterpanschool.co.kr/courses/free",
+          "thumbnail": ""
+        },
+        {
+          "title": "AI로 영상 만들어 2년 10억 매출 낸 틱톡쇼핑!",
+          "date": "",
+          "link": "https://www.peterpanschool.co.kr/courses/free",
+          "thumbnail": ""
+        },
+        {
+          "title": "피터팬스쿨 (주)씨너지나노 사업자등록번호 : 299-86-03770ㅣ대표자 : 권오룡",
+          "date": "",
+          "link": "https://www.peterpanschool.co.kr/courses/free",
+          "thumbnail": ""
+        },
+        {
+          "title": "세종특별자치시 갈매로 363, 405호(어진동, 세종파이낸스센터)ㅣ대표 전화번호 : 010-5384-5058",
+          "date": "",
+          "link": "https://www.peterpanschool.co.kr/courses/free",
+          "thumbnail": ""
+        },
+        {
+          "title": "주식회사 유클ㅣ대표이사 : 윤세현ㅣ사업자등록번호 : 437-87-02574",
+          "date": "",
+          "link": "https://www.peterpanschool.co.kr/courses/free",
+          "thumbnail": ""
+        },
+        {
+          "title": "주식회사 유클은 통신판매중개자로서 중개하는 거래에 대하여 책임을 부담하지 않습니다.",
+          "date": "",
+          "link": "https://www.peterpanschool.co.kr/courses/free",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "프레스런",
