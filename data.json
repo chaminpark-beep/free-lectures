@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25 11:36",
+  "updated_at": "2026-07-25 22:56",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1784946763-sPXrZQOCQsw2DFCZqECpcCovyf7b1u1D",
+          "title": "sfo1::1784987569-eWmVYkdgWwIo0d2AtezV2TumZMcXlaCz",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1784946770-OCDY0MFLTB3NvcUNWp34CjiOyfFTulmL",
+          "title": "sfo1::1784987575-sww5qfZPMIe6SnPj01jzNgjmas744YNT",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1784946776-WuYCEoZ13QXY6dd1dkkpjCNPe5hhRDNr",
+          "title": "sfo1::1784987581-dgosxKODEC4GHn9L2hHCMDM5eQiFdhkq",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -677,10 +677,16 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "403 Forbidden",
+          "title": "1인 창업으로 연 100억 만들기! 일당백 AI 자동화 3단계 공식 무료특강",
           "date": "",
-          "link": "https://www.tpschool.co.kr/p/webinar",
-          "thumbnail": ""
+          "link": "https://tpschool.co.kr/classes/310685",
+          "thumbnail": "https://cdn.liveklass.com/course/019f72bd43fd75518fcb709a4c69b6a0.png.medium"
+        },
+        {
+          "title": "1인 창업으로 연 100억 만들기! 일당백 AI 자동화 3단계 공식 무료특강",
+          "date": "",
+          "link": "https://tpschool.co.kr/classes/310685",
+          "thumbnail": "https://cdn.liveklass.com/course/019f72bd43fd75518fcb709a4c69b6a0.png.medium"
         }
       ],
       "error": null
@@ -696,10 +702,76 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "403 Forbidden",
+          "title": "대량등록 무료특강",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/263561",
+          "thumbnail": "https://cdn.liveklass.com/course/019f935f7e0a7addbb67dc510aa298b9.jpeg.medium"
+        },
+        {
+          "title": "리스크 없는 무재고 판매로 월 300버는 노하우 공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/263561",
+          "thumbnail": "https://cdn.liveklass.com/course/019f935f7e0a7addbb67dc510aa298b9.jpeg.medium"
+        },
+        {
+          "title": "리스크 없는 무재고 판매로 월 300버는 노하우 공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/263561",
+          "thumbnail": ""
+        },
+        {
+          "title": "강의 돈버는형님들 강사 5.0 (233)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
+        },
+        {
+          "title": "돈버는형님들 강사",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "5.0 (233)",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "리스크 없는 무재고 판매로 월 300버는 노하우",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/263561",
+          "thumbnail": ""
+        },
+        {
+          "title": "리스크 없는 무재고 판매로 월 300버는 노하우",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "자세히 보기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "초보자도 가능한 AI자동화 무료특강",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/272758",
+          "thumbnail": "https://cdn.liveklass.com/course/019f89216ca37b51be0843e0dd45d178.jpeg.medium"
+        },
+        {
+          "title": "매출 2억! AI 블로그, SNS, 유튜브 만능 전략 공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/272758",
+          "thumbnail": "https://cdn.liveklass.com/course/019f89216ca37b51be0843e0dd45d178.jpeg.medium"
         }
       ],
       "error": null
