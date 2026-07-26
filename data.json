@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26 11:44",
+  "updated_at": "2026-07-26 22:49",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1785033646-kics0XFeWoEeznsXxFcKx8bTrQ5r70NE",
+          "title": "iad1::1785073512-wPWEBj2rR0xHwqmasPOAUrgXqIXuQbfm",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1785033652-r4xHj55vIGXLxytlpaix8lHFJjiJBwMG",
+          "title": "iad1::1785073518-xS2IZ94Y7dK5U9aN5p1ghoDHJcMzmP0B",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1785033658-vJKTITQhx9Wy7Av9jLkYosxQNof0DhYH",
+          "title": "iad1::1785073524-ofkzlIsy14xxde48SFauW8pNNw5h70bE",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -79,69 +79,8 @@
     {
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
-      "courses": [
-        {
-          "title": "하루 10분, 클릭 1번으로 매달 100만원 자동수익! 음악 플레이리스트!",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "하루 40분으로 5일만에 순수익 200만원! 중국드라마 쇼츠 부업",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[초보] 98%가 월매출 1천만원 달성한 미쳐버린 부업",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[버티컬커머스] 동대문 한 번 안가고 AI로 끝내는 유캔몰!!",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "광고비 단돈 3천원으로, 쿠팡에서 월 6,000만원! 영양제 수익화 종합특강",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "풀자동화 프로그램으로 망하지 않는 유튜브 수익 만들기",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "컵라면 영상 1개로 수익 410만 원 꽂히는 '쇼츠 자동화'",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "유튜브 부업의 종착지! 컴맹도 연금 만드는 유튜브 수익화 종합반",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "내향적인 유치원 교사도 딱 3개월 만에 1억 달성 한 건기식 제로셀링 노하우",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "내향인도 가능한 9달 쉬고 3달만 일해서 남들 연봉 벌기!",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.invader.co.kr/courses\", waiting until \"networkidle\"\n"
     },
     {
       "name": "밀레니얼머니스쿨",
@@ -336,6 +275,12 @@
           "thumbnail": ""
         },
         {
+          "title": "[설아] 하루 20분이면 가능! 초간단 AI 플레이리스트 월 100만원 프로젝트",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
           "title": "무료특강 일정 알림을",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
@@ -349,12 +294,6 @@
         },
         {
           "title": "주식회사 티티에이컴퍼니",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "상호 : N잡연구소(엔잡연구소)",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -823,75 +762,63 @@
     {
       "name": "피터팬스쿨",
       "url": "https://www.peterpanschool.co.kr/courses/free",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.peterpanschool.co.kr/courses/free\", waiting until \"networkidle\"\n"
-    },
-    {
-      "name": "프레스런",
-      "url": "https://presslearn.co.kr/fc",
       "courses": [
         {
-          "title": "매일 1시간 구글 부업으로 월 100만 원 만들기 무료 특강 [7월 30일]",
+          "title": "무료로 배울 수 있는 고퀄리티 강의들을 만나보세요(총 3개)",
           "date": "",
-          "link": "https://presslearn.co.kr/fc",
+          "link": "https://www.peterpanschool.co.kr/courses/free",
           "thumbnail": ""
         },
         {
-          "title": "일\t월\t화\t수\t목\t금\t토",
+          "title": "AI로 영상 만들어 2년 10억 매출 낸 틱톡쇼핑!",
           "date": "",
-          "link": "https://presslearn.co.kr/fc",
+          "link": "https://www.peterpanschool.co.kr/courses/free",
           "thumbnail": ""
         },
         {
-          "title": "28\t29\t30\t1\t2\t3\t4",
+          "title": "AI로 5억 번 감독의 촬영 없는 드라마 수익화",
           "date": "",
-          "link": "https://presslearn.co.kr/fc",
+          "link": "https://www.peterpanschool.co.kr/courses/free",
           "thumbnail": ""
         },
         {
-          "title": "5\t6\t7\t8\t9\t10\t11",
+          "title": "AI로 영상 만들어 2년 10억 매출 낸 틱톡쇼핑!",
           "date": "",
-          "link": "https://presslearn.co.kr/fc",
+          "link": "https://www.peterpanschool.co.kr/courses/free",
           "thumbnail": ""
         },
         {
-          "title": "12\t13\t14\t15\t16\t17\t18",
+          "title": "피터팬스쿨 (주)씨너지나노 사업자등록번호 : 299-86-03770ㅣ대표자 : 권오룡",
           "date": "",
-          "link": "https://presslearn.co.kr/fc",
+          "link": "https://www.peterpanschool.co.kr/courses/free",
           "thumbnail": ""
         },
         {
-          "title": "19\t20\t21\t22\t23\t24\t25",
+          "title": "세종특별자치시 갈매로 363, 405호(어진동, 세종파이낸스센터)ㅣ대표 전화번호 : 010-5384-5058",
           "date": "",
-          "link": "https://presslearn.co.kr/fc",
+          "link": "https://www.peterpanschool.co.kr/courses/free",
           "thumbnail": ""
         },
         {
-          "title": "26\t27\t28\t29\t30",
+          "title": "주식회사 유클ㅣ대표이사 : 윤세현ㅣ사업자등록번호 : 437-87-02574",
           "date": "",
-          "link": "https://presslearn.co.kr/fc",
+          "link": "https://www.peterpanschool.co.kr/courses/free",
           "thumbnail": ""
         },
         {
-          "title": "2\t3\t4\t5\t6\t7",
+          "title": "주식회사 유클은 통신판매중개자로서 중개하는 거래에 대하여 책임을 부담하지 않습니다.",
           "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "매일 1시간 구글 부업으로 월 100만 원 만들기 무료 특강 [7월 30일]",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "상호명: 주식회사 나랑해",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
+          "link": "https://www.peterpanschool.co.kr/courses/free",
           "thumbnail": ""
         }
       ],
       "error": null
+    },
+    {
+      "name": "프레스런",
+      "url": "https://presslearn.co.kr/fc",
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://presslearn.co.kr/fc\", waiting until \"networkidle\"\n"
     },
     {
       "name": "인사이트머니랩",
