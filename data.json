@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27 23:57",
+  "updated_at": "2026-07-28 11:31",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1785163989-usRcLtHEU0aJEtsQ6OI77KygcFP8HXad",
+          "title": "pdx1::1785205642-kcXErIFexHUDR9E8JEGSIoVFrvjLcVGU",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1785163995-rSnjKEepj6iKKr5YjhZTx7suu3QWXUWU",
+          "title": "pdx1::1785205648-h9bwQBnXnXifsl0Cna4YeyrNhtmBFqy8",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1785164001-gUJu6YNACDWupTfAhUKaxS8PrED5fSGV",
+          "title": "pdx1::1785205654-wYk6WoviYVZRkAvHDxpUagAJuZW2NxPq",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -189,27 +189,118 @@
     {
       "name": "시행착오",
       "url": "https://shco.co.kr/66",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://shco.co.kr/66\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "Alarm",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": "https://shco.co.kr/66/common/img/default_profile.png"
+        },
+        {
+          "title": "마이페이지 로그아웃",
+          "date": "",
+          "link": "https://shco.co.kr/login?back_url=L3Nob3BfbXlwYWdl&type=mypage",
+          "thumbnail": ""
+        },
+        {
+          "title": "시행착오란",
+          "date": "",
+          "link": "https://shco.co.kr/85",
+          "thumbnail": ""
+        },
+        {
+          "title": "무료특강",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": ""
+        },
+        {
+          "title": "프리미엄 강의 프리미엄 강의 VOD 기초강의",
+          "date": "",
+          "link": "https://shco.co.kr/21",
+          "thumbnail": ""
+        },
+        {
+          "title": "프리미엄 강의",
+          "date": "",
+          "link": "https://shco.co.kr/21",
+          "thumbnail": ""
+        },
+        {
+          "title": "VOD 기초강의",
+          "date": "",
+          "link": "https://shco.co.kr/89",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 라인업 강사 목록 강사 지원하기",
+          "date": "",
+          "link": "https://shco.co.kr/83",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 목록",
+          "date": "",
+          "link": "https://shco.co.kr/83",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 지원하기",
+          "date": "",
+          "link": "https://shco.co.kr/80",
+          "thumbnail": ""
+        },
+        {
+          "title": "성장 라운지 수강생 후기 수강생 성과",
+          "date": "",
+          "link": "https://shco.co.kr/76",
+          "thumbnail": ""
+        },
+        {
+          "title": "수강생 후기",
+          "date": "",
+          "link": "https://shco.co.kr/76",
+          "thumbnail": ""
+        },
+        {
+          "title": "수강생 성과",
+          "date": "",
+          "link": "https://shco.co.kr/91",
+          "thumbnail": ""
+        },
+        {
+          "title": "시행착오란",
+          "date": "",
+          "link": "https://shco.co.kr/85",
+          "thumbnail": ""
+        },
+        {
+          "title": "무료특강",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": ""
+        },
+        {
+          "title": "프리미엄 강의",
+          "date": "",
+          "link": "https://shco.co.kr/21",
+          "thumbnail": ""
+        },
+        {
+          "title": "VOD 기초강의",
+          "date": "",
+          "link": "https://shco.co.kr/89",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "엔잡연구소",
       "url": "https://www.nlab.kr/courses?categoryId=free-courses",
       "courses": [
         {
-          "title": "➡️김해준님 무료강의 입장하기⬅️",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
           "title": "3초 카톡플친하면 매일 무료 강의 소식이 옵니다.",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[김해준] 하루 20분! 부업으로 월 2천 번 AI 콘텐츠 대행 노하우",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -252,6 +343,18 @@
         },
         {
           "title": "강사 신청 및 협업제안",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "주식회사 티티에이컴퍼니",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "상호 : N잡연구소(엔잡연구소)",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -331,19 +434,25 @@
           "thumbnail": ""
         },
         {
-          "title": "[무료강의] 2주 단타 AI 과일위탁판매",
+          "title": "[무료강의] 월2000 AI 과일위탁판매",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
           "thumbnail": ""
         },
         {
-          "title": "[무료강의] 마진 45% 월3천 건강식품 특강",
+          "title": "[무료강의] 순수익 월3천 건강식품 특강",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
           "thumbnail": ""
         },
         {
           "title": "[무료강의] 월300 연예인 유튜브 쇼츠",
+          "date": "",
+          "link": "https://www.moneyupclass.com/free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "[무료강의] 월300 AI 자동 상품등록 시스템",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
           "thumbnail": ""
@@ -368,12 +477,6 @@
         },
         {
           "title": "개인정보관리책임자 : 김상원 | 대표번호 : 070-8057-9339 (전화상담 미운영/채널톡 문의)",
-          "date": "",
-          "link": "https://www.moneyupclass.com/free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "핏크닉은 통신판매중개자로서 중개하는 거래에 대하여 책임을 부담하지 않습니다.",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
           "thumbnail": ""
@@ -574,10 +677,16 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "403 Forbidden",
+          "title": "1인 창업으로 연 100억 만들기! 일당백 AI 자동화 3단계 공식 무료특강",
           "date": "",
-          "link": "https://www.tpschool.co.kr/p/webinar",
-          "thumbnail": ""
+          "link": "https://tpschool.co.kr/classes/310685",
+          "thumbnail": "https://cdn.liveklass.com/course/019f72bd43fd75518fcb709a4c69b6a0.png.medium"
+        },
+        {
+          "title": "1인 창업으로 연 100억 만들기! 일당백 AI 자동화 3단계 공식 무료특강",
+          "date": "",
+          "link": "https://tpschool.co.kr/classes/310685",
+          "thumbnail": "https://cdn.liveklass.com/course/019f72bd43fd75518fcb709a4c69b6a0.png.medium"
         }
       ],
       "error": null
@@ -593,10 +702,76 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "403 Forbidden",
+          "title": "초보자도 가능한 AI자동화 무료특강",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/272758",
+          "thumbnail": "https://cdn.liveklass.com/course/019fa205891175fe8142443e0797f438.jpeg.medium"
+        },
+        {
+          "title": "매출 2억! AI 블로그, SNS, 유튜브 만능 전략 공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/272758",
+          "thumbnail": "https://cdn.liveklass.com/course/019fa205891175fe8142443e0797f438.jpeg.medium"
+        },
+        {
+          "title": "매출 2억! AI 블로그, SNS, 유튜브 만능 전략 공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/272758",
+          "thumbnail": ""
+        },
+        {
+          "title": "강의 돈버는형님들 강사 5.0 (52)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
+        },
+        {
+          "title": "돈버는형님들 강사",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "5.0 (52)",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "매출 2억! AI 블로그, SNS, 유튜브 만능 전략",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/272758",
+          "thumbnail": ""
+        },
+        {
+          "title": "매출 2억! AI 블로그, SNS, 유튜브 만능 전략",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "자세히 보기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "대량등록 무료특강",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/263561",
+          "thumbnail": "https://cdn.liveklass.com/course/019fa197fb51700fa2e5aedc6bd2afaa.jpeg.medium"
+        },
+        {
+          "title": "리스크 없는 무재고 판매로 월 300버는 노하우 공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/263561",
+          "thumbnail": "https://cdn.liveklass.com/course/019fa197fb51700fa2e5aedc6bd2afaa.jpeg.medium"
         }
       ],
       "error": null
