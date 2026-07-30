@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29 23:30",
+  "updated_at": "2026-07-30 11:18",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1785335147-AMm2bPlvX7xJowtinISKOnc5WySRRw6K",
+          "title": "iad1::1785377636-eILrVigoacgqFPvd3oYCjLFlvXVjVNFa",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1785335153-zLzu4prW8MZRvOpOzs4wak19SSURi19B",
+          "title": "iad1::1785377642-roezHqRuEuee39BD9jidRSAh618NGO6Z",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1785335159-CA61uzMm4uOyGw2Dqr3AaSduHH6RkSSj",
+          "title": "iad1::1785377648-CQItcX5zXxcQriyfLl9xugbC57c06ei7",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -79,8 +79,69 @@
     {
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.invader.co.kr/courses\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "[초보] 98%가 월매출 1천만원 달성한 미쳐버린 부업",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "[버티컬커머스] 동대문 한 번 안가고 AI로 끝내는 유캔몰!!!",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "광고비 단돈 3천원으로, 쿠팡에서 월 6,000만원! 영양제 수익화 종합특강",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "풀자동화 프로그램으로 망하지 않는 유튜브 수익 만들기",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "컵라면 영상 1개로 수익 410만 원 꽂히는 '쇼츠 자동화'",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "유튜브 부업의 종착지! 컴맹도 연금 만드는 유튜브 수익화 종합반",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "내향적인 유치원 교사도 딱 3개월 만에 1억 달성 한 건기식 제로셀링 노하우",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "내향인도 가능한 9달 쉬고 3달만 일해서 남들 연봉 벌기!",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "1달에 부업으로 2천만원?! 화장품 비밀창고 부업",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "7천만원 프로그램 개발! 하루 100개 파는 Ai 자동화 커머스",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "밀레니얼머니스쿨",
@@ -239,19 +300,7 @@
       "url": "https://www.nlab.kr/courses?categoryId=free-courses",
       "courses": [
         {
-          "title": "➡️셀팜님 무료강의 입장하기⬅️",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
           "title": "3초 카톡플친하면 매일 무료 강의 소식이 옵니다.",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[셀팜]주제만 넣으면 터지는 영상이 뚝딱! 나만의 캐릭터로 월 300 유튜브 수익화",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -294,6 +343,18 @@
         },
         {
           "title": "주식회사 티티에이컴퍼니",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "상호 : N잡연구소(엔잡연구소)",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "대표이사 : 정준호 l 개인정보책임관리자 : 정준호",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
