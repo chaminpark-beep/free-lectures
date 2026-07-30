@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30 11:18",
+  "updated_at": "2026-07-30 23:27",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1785377636-eILrVigoacgqFPvd3oYCjLFlvXVjVNFa",
+          "title": "sfo1::1785421397-Yv2r3lGv4lyUUsq5v3kqB4PZHGJL4Jcj",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1785377642-roezHqRuEuee39BD9jidRSAh618NGO6Z",
+          "title": "sfo1::1785421403-ntuJpPwm4bYCpRHNBjBu6Hfxj6BKk5df",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1785377648-CQItcX5zXxcQriyfLl9xugbC57c06ei7",
+          "title": "sfo1::1785421409-oEpGUzxQoai2JXG8LmuVtiqQCndPC00p",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -79,69 +79,8 @@
     {
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
-      "courses": [
-        {
-          "title": "[초보] 98%가 월매출 1천만원 달성한 미쳐버린 부업",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[버티컬커머스] 동대문 한 번 안가고 AI로 끝내는 유캔몰!!!",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "광고비 단돈 3천원으로, 쿠팡에서 월 6,000만원! 영양제 수익화 종합특강",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "풀자동화 프로그램으로 망하지 않는 유튜브 수익 만들기",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "컵라면 영상 1개로 수익 410만 원 꽂히는 '쇼츠 자동화'",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "유튜브 부업의 종착지! 컴맹도 연금 만드는 유튜브 수익화 종합반",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "내향적인 유치원 교사도 딱 3개월 만에 1억 달성 한 건기식 제로셀링 노하우",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "내향인도 가능한 9달 쉬고 3달만 일해서 남들 연봉 벌기!",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "1달에 부업으로 2천만원?! 화장품 비밀창고 부업",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "7천만원 프로그램 개발! 하루 100개 파는 Ai 자동화 커머스",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.invader.co.kr/courses\", waiting until \"networkidle\"\n"
     },
     {
       "name": "밀레니얼머니스쿨",
@@ -800,22 +739,22 @@
       "url": "https://moneyroot.co.kr/lectures/free",
       "courses": [
         {
-          "title": "AI 캐릭터 수익화 무료강의",
+          "title": "AI 카톡 선물 부업 무료강의",
           "date": "",
-          "link": "https://moneyroot.co.kr/shop/product/view?product_id=60",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_01_5.png"
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=66",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_07_3.png"
         },
         {
-          "title": "AI 캐릭터 수익화 무료강의",
+          "title": "AI 카톡 선물 부업 무료강의",
           "date": "",
-          "link": "https://moneyroot.co.kr/shop/product/view?product_id=60",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_01_5.png"
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=66",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_07_3.png"
         },
         {
-          "title": "AI 캐릭터 수익화 무료강의",
+          "title": "AI 카톡 선물 부업 무료강의",
           "date": "",
-          "link": "https://moneyroot.co.kr/shop/product/view?product_id=60",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_01_5.png"
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=66",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_07_3.png"
         }
       ],
       "error": null
@@ -823,57 +762,8 @@
     {
       "name": "피터팬스쿨",
       "url": "https://www.peterpanschool.co.kr/courses/free",
-      "courses": [
-        {
-          "title": "무료로 배울 수 있는 고퀄리티 강의들을 만나보세요(총 3개)",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "AI로 영상 만들어 2년 10억 매출 낸 틱톡쇼핑!",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "AI로 5억 번 감독의 촬영 없는 드라마 수익화",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "AI로 영상 만들어 2년 10억 매출 낸 틱톡쇼핑!",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "피터팬스쿨 (주)씨너지나노 사업자등록번호 : 299-86-03770ㅣ대표자 : 권오룡",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "세종특별자치시 갈매로 363, 405호(어진동, 세종파이낸스센터)ㅣ대표 전화번호 : 010-5384-5058",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "주식회사 유클ㅣ대표이사 : 윤세현ㅣ사업자등록번호 : 437-87-02574",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "주식회사 유클은 통신판매중개자로서 중개하는 거래에 대하여 책임을 부담하지 않습니다.",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.peterpanschool.co.kr/courses/free\", waiting until \"networkidle\"\n"
     },
     {
       "name": "프레스런",
@@ -1062,19 +952,19 @@
           "thumbnail": ""
         },
         {
-          "title": "[0원 강의] 일 년에 두 번 일하고 직장인 연봉 번 고마진 공동구매중개 미노리 0.0 (0개) 무료",
+          "title": "[4기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
         },
         {
-          "title": "[0원 강의] 일 년에 두 번 일하고 직장인 연봉 번 고마진 공동구매중개 미노리 0.0 (0개) 무료",
+          "title": "[4기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
         },
         {
-          "title": "[0원 강의] 일 년에 두 번 일하고 직장인 연봉 번 고마진 공동구매중개",
+          "title": "[4기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
