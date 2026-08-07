@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06 23:33",
+  "updated_at": "2026-08-07 11:40",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1786026539-OzNDLN7ITkQknicybcAZPL8FjvRrJQdf",
+          "title": "cle1::1786070173-NBGtmuxs3PJPzEGBt33isWfHcJr7j6tP",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1786026545-NAhQnQmao55n78POOoNfUcqzsAJTR3RL",
+          "title": "cle1::1786070179-v9UK74rPuyLTPIXbQ4bptmFq9C1ZUzyw",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1786026551-CQEG2ooT5ryWH1FlhEaId6cxAJWqZdJr",
+          "title": "cle1::1786070185-8klq9WaOBxkoCqSe8fI2EKv48vf6o9Bg",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -79,8 +79,69 @@
     {
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.invader.co.kr/courses\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "컵라면 영상 1개로 수익 410만 원 꽂히는 '쇼츠 자동화'",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "유튜브 부업의 종착지! 컴맹도 연금 만드는 유튜브 수익화 종합반",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "초기자본 없이 생계비 벌게해준 영양제 리셀 무료강의!",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "내향인도 가능한 9달 쉬고 3달만 일해서 남들 연봉 벌기!",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "1달에 부업으로 2천만원?! 화장품 비밀창고 부업",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "7천만원 프로그램 개발! 하루 100개 파는 Ai 자동화 커머스",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "하루 10분, 클릭 1번으로 매달 100만원 자동수익! 음악 플레이리스트!",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "사주 하나도 몰라도 가능한 사주 자동화 부업",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "왕초보도 가능! 상품부터 CS까지 다해주는 국내유일! 과일위탁판매",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "영상 촬영/편집 없이 연결 만으로 2달만에 720만 원 번 부업",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "밀레니얼머니스쿨",
@@ -119,8 +180,8 @@
         {
           "title": "Previous Next 1 2 3 4 5 6 7 8",
           "date": "",
-          "link": "https://www.millmus.com/event/detail/64",
-          "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2Fc3983462-f4f4-490c-b950-9655e43735b8.jpeg&w=3840&q=75"
+          "link": "https://www.millmus.com/lecture/detail/881",
+          "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2F6858ec10-ffd0-465f-980e-0e9179d0ec17.png&w=3840&q=75"
         }
       ],
       "error": null
@@ -391,6 +452,12 @@
           "thumbnail": ""
         },
         {
+          "title": "[무료강의] 마진 50% 독점 소싱 특강",
+          "date": "",
+          "link": "https://www.moneyupclass.com/free-courses",
+          "thumbnail": ""
+        },
+        {
           "title": "[무료강의] AI 아마존 자동 수익화",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
@@ -410,12 +477,6 @@
         },
         {
           "title": "환불접수 : help1@moneyupclass.com | 협업제휴문의 : contact@fitchnic.com",
-          "date": "",
-          "link": "https://www.moneyupclass.com/free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "개인정보관리책임자 : 김상원 | 대표번호 : 070-8057-9339 (전화상담 미운영/채널톡 문의)",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
           "thumbnail": ""
@@ -616,10 +677,16 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "403 Forbidden",
+          "title": "[한성국] 1인 창업으로 연 100억 만들기! 일당백 AI 자동화 3단계 공식 무료특강",
           "date": "",
-          "link": "https://www.tpschool.co.kr/p/webinar",
-          "thumbnail": ""
+          "link": "https://www.tpschool.co.kr/classes/310685",
+          "thumbnail": "https://cdn.liveklass.com/course/019f72bd43fd75518fcb709a4c69b6a0.png.medium"
+        },
+        {
+          "title": "[한성국] 무엇을 상상하든 현실이 됩니다! '일당백 AI 자동화' 마스터 클래스(12개월 무이자 지원)",
+          "date": "",
+          "link": "https://www.tpschool.co.kr/classes/313337",
+          "thumbnail": "https://cdn.liveklass.com/course/019fd7e4d3807094a2dc2e80ce624bb1.png.medium"
         }
       ],
       "error": null
@@ -635,10 +702,70 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "403 Forbidden",
+          "title": "대량등록 무료특강",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/263561",
+          "thumbnail": "https://cdn.liveklass.com/course/019fa197fb51700fa2e5aedc6bd2afaa.jpeg.medium"
+        },
+        {
+          "title": "무재고, 리스크없이 월 300버는 노하우 공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/263561",
+          "thumbnail": "https://cdn.liveklass.com/course/019fa197fb51700fa2e5aedc6bd2afaa.jpeg.medium"
+        },
+        {
+          "title": "무재고, 리스크없이 월 300버는 노하우 공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/263561",
+          "thumbnail": ""
+        },
+        {
+          "title": "강의 돈버는형님들 강사 5.0 (234)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
+        },
+        {
+          "title": "돈버는형님들 강사",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "5.0 (234)",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "무재고, 리스크없이 월 300버는 노하우",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/263561",
+          "thumbnail": ""
+        },
+        {
+          "title": "무재고, 리스크없이 월 300버는 노하우",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "자세히 보기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "브랜드 화장품 유통으로 월 300 버는 핵심 비법",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/301945",
+          "thumbnail": "https://cdn.liveklass.com/course/019f40f790a171d7ad128b937edd2c62.jpeg.medium"
         }
       ],
       "error": null
