@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07 22:23",
+  "updated_at": "2026-08-08 10:30",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1786108781-GnPCPNBmZbbWGJ79V9bUsU28JGQVmDR5",
+          "title": "pdx1::1786152373-WFnCFuomDsZBG6anJRzNfjUOPvZrNqgX",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1786108786-XxkxtAruanQ5PcGTbcqeUmUqNAjRSrGJ",
+          "title": "pdx1::1786152379-HCtXDelMuj6MXxYZeGcsjKr6Pw1SkVQb",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1786108792-I4Lvi16656zwlHdF1zRFjVvxqVGLx7PM",
+          "title": "pdx1::1786152385-hLchr1ijIHk13Sk5sO2zRM3iBDbRmiWs",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -79,69 +79,8 @@
     {
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
-      "courses": [
-        {
-          "title": "컵라면 영상 1개로 수익 410만 원 꽂히는 '쇼츠 자동화'",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "유튜브 부업의 종착지! 컴맹도 연금 만드는 유튜브 수익화 종합반",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "초기자본 없이 생계비 벌게해준 영양제 리셀 무료강의!",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "내향인도 가능한 9달 쉬고 3달만 일해서 남들 연봉 벌기!",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "1달에 부업으로 2천만원?! 화장품 비밀창고 부업",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "7천만원 프로그램 개발! 하루 100개 파는 Ai 자동화 커머스",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "하루 10분, 클릭 1번으로 매달 100만원 자동수익! 음악 플레이리스트!",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "사주 하나도 몰라도 가능한 사주 자동화 부업",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "왕초보도 가능! 상품부터 CS까지 다해주는 국내유일! 과일위탁판매",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "영상 촬영/편집 없이 연결 만으로 2달만에 720만 원 번 부업",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.invader.co.kr/courses\", waiting until \"networkidle\"\n"
     },
     {
       "name": "밀레니얼머니스쿨",
