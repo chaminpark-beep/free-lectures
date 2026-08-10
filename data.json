@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09 22:10",
+  "updated_at": "2026-08-10 10:45",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1786280781-dm72YaoPtFo30cs6JktJeBndwo3jIcRS",
+          "title": "pdx1::1786326111-rEWLdzFBYw4GYktqyXCqXgb1361SRfrO",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1786280787-LncGIy1xv8c2V1LOB75STXZ8gknYVAsr",
+          "title": "pdx1::1786326117-xq45gndaeMqq8JoEtEXWgpAUJZxauoSV",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1786280793-4UWLo0kqQlTJQg3f1iw5bvXcOFDZyTMx",
+          "title": "pdx1::1786326122-Z6wY4eJJujVUTzv9foBZVYc81WLaPE16",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -677,10 +677,16 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "403 Forbidden",
+          "title": "무엇을 상상하든 현실이 됩니다! 일당백 AI 자동화 마스터클래스",
           "date": "",
-          "link": "https://www.tpschool.co.kr/p/webinar",
-          "thumbnail": ""
+          "link": "https://www.tpschool.co.kr/classes/313337",
+          "thumbnail": "https://cdn.liveklass.com/course/019fd7e4d3807094a2dc2e80ce624bb1.png.medium"
+        },
+        {
+          "title": "무엇을 상상하든 현실이 됩니다! 일당백 AI 자동화 마스터클래스",
+          "date": "",
+          "link": "https://www.tpschool.co.kr/classes/313337",
+          "thumbnail": "https://cdn.liveklass.com/course/019fd7e4d3807094a2dc2e80ce624bb1.png.medium"
         }
       ],
       "error": null
@@ -696,10 +702,70 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "403 Forbidden",
+          "title": "대량등록 무료특강",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/312458",
+          "thumbnail": "https://cdn.liveklass.com/course/019f40f790a171d7ad128b937edd2c62.jpeg.medium"
+        },
+        {
+          "title": "브랜드 화장품 유통으로 월 300 버는 핵심 비법 R 공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/312458",
+          "thumbnail": "https://cdn.liveklass.com/course/019f40f790a171d7ad128b937edd2c62.jpeg.medium"
+        },
+        {
+          "title": "브랜드 화장품 유통으로 월 300 버는 핵심 비법 R 공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/312458",
+          "thumbnail": ""
+        },
+        {
+          "title": "강의 돈버는형님들 강사 5.0 (48)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
+        },
+        {
+          "title": "돈버는형님들 강사",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "5.0 (48)",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "브랜드 화장품 유통으로 월 300 버는 핵심 비법 R",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/312458",
+          "thumbnail": ""
+        },
+        {
+          "title": "브랜드 화장품 유통으로 월 300 버는 핵심 비법 R",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "자세히 보기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "초보자도 목돈없이 현금 3,000만원 만드는 부동산 경매",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/285794",
+          "thumbnail": "https://cdn.liveklass.com/course/019fb12e89a078a89f993a8281b0c4d8.jpeg.medium"
         }
       ],
       "error": null
@@ -807,6 +873,18 @@
       "name": "인사이트머니랩",
       "url": "https://insightmoneylab.com/course-category/free-class/",
       "courses": [
+        {
+          "title": "[0원 강의] 다이소 상품 하나로 주부도 월 200 찍는 유튜브 쇼핑쇼츠 부업",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        },
+        {
+          "title": "[0원 강의] 누적 10억 전문가! 현대판 민담 주제로 AI 유튜브 수익화",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        },
         {
           "title": "[0원 강의] 강남 부자들의 투자법! 부자되는 법인투자 공식",
           "date": "",
