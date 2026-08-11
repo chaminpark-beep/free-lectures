@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11 10:43",
+  "updated_at": "2026-08-11 22:26",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1786412339-FHfpk7V0F1nsH5baxBc3ycbhKcFzHz1N",
+          "title": "sfo1::1786454520-cC7GZEGFRsBlgPHNypfjE07bDeGANa8i",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1786412345-xdX2tW7epKluxYZCcIBHdJX4ZsYnKNtX",
+          "title": "sfo1::1786454526-69QPhl41x4IJPAGECyO53JIGIerFH9jR",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1786412351-hJ7iIezOoDc8dRIkD8IiN428XoMWiqZ2",
+          "title": "sfo1::1786454533-RFKpIKb6Q6SzVijuexWAEeYfKowoOgRK",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -105,12 +105,6 @@
           "thumbnail": ""
         },
         {
-          "title": "7천만원 프로그램 개발! 하루 100개 파는 Ai 자동화 커머스",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
           "title": "하루 10분, 클릭 1번으로 매달 100만원 자동수익! 음악 플레이리스트!",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
@@ -130,6 +124,12 @@
         },
         {
           "title": "영상 촬영/편집 없이 연결 만으로 2달만에 720만 원 번 부업",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "7천만원 프로그램 개발! 하루 100개 파는 Ai 자동화 커머스",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -178,7 +178,7 @@
           "thumbnail": ""
         },
         {
-          "title": "Previous Next 1 2 3 4 5 6 7 8 9",
+          "title": "Previous Next 1 2 3 4 5 6 7 8",
           "date": "",
           "link": "https://www.millmus.com/lecture/detail/881",
           "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2F6858ec10-ffd0-465f-980e-0e9179d0ec17.png&w=3840&q=75"
@@ -306,12 +306,6 @@
           "thumbnail": ""
         },
         {
-          "title": "[션]누구나 할 수 있는 유튜브 해외 쇼츠",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
           "title": "[설아] 하루 20분이면 가능! 초간단 AI 플레이리스트 월 100만원 프로젝트",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
@@ -319,6 +313,12 @@
         },
         {
           "title": "[릴사장]AI로 집에서 혼자하는 1인 브랜드 숏폼 대행",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "[브래디] 나만의 제품으로 경쟁없이 월 1억 달성 노하우",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -428,12 +428,6 @@
           "thumbnail": ""
         },
         {
-          "title": "[무료강의] 월2000 AI 과일위탁판매",
-          "date": "",
-          "link": "https://www.moneyupclass.com/free-courses",
-          "thumbnail": ""
-        },
-        {
           "title": "[무료강의] 순수익 월3천 건강식품 특강",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
@@ -477,6 +471,12 @@
         },
         {
           "title": "환불접수 : help1@moneyupclass.com | 협업제휴문의 : contact@fitchnic.com",
+          "date": "",
+          "link": "https://www.moneyupclass.com/free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "개인정보관리책임자 : 김상원 | 대표번호 : 070-8057-9339 (전화상담 미운영/채널톡 문의)",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
           "thumbnail": ""
@@ -1008,7 +1008,31 @@
       "url": "https://buchinclass.com/class?mainCategory=5",
       "courses": [
         {
-          "title": "[홍아린] 퇴근 후 AI영상 1개로 건당 60만원 번 노하우 무료공개 홍아린 0.0 (0개) 무료 [5기 알림신청] 썩은 빌라로 소액 경매 단타",
+          "title": "[조이] 규제없이 무한확장 가능한 엔코스테이로 4억 6천 번 노하우 무료공개 청춘 조이 0.0 (0개) 무료 [홍아린] 퇴근 후 AI영상 1개로",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[조이] 규제없이 무한확장 가능한 엔코스테이로 4억 6천 번 노하우 무료공개 청춘 조이 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[조이] 규제없이 무한확장 가능한 엔코스테이로 4억 6천 번 노하우 무료공개 청춘 조이 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[조이] 규제없이 무한확장 가능한 엔코스테이로 4억 6천 번 노하우 무료공개",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "청춘 조이 0.0 (0개)",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
@@ -1057,24 +1081,6 @@
         },
         {
           "title": "원성환 0.0 (0개)",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[4기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[4기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[4기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
