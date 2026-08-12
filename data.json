@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11 22:26",
+  "updated_at": "2026-08-12 10:54",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1786454520-cC7GZEGFRsBlgPHNypfjE07bDeGANa8i",
+          "title": "iad1::1786499384-wvmMf62AbPGKa32O8zWSSfZ180KqBrN6",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1786454526-69QPhl41x4IJPAGECyO53JIGIerFH9jR",
+          "title": "iad1::1786499390-Ww2bndfGwCuSXGv36RIiBedR8dNNFqEZ",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1786454533-RFKpIKb6Q6SzVijuexWAEeYfKowoOgRK",
+          "title": "iad1::1786499395-9x1FAnIMDfSyMuIhFKavRdXEV2ETBs3v",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -189,111 +189,8 @@
     {
       "name": "시행착오",
       "url": "https://shco.co.kr/66",
-      "courses": [
-        {
-          "title": "Alarm",
-          "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": "https://shco.co.kr/66/common/img/default_profile.png"
-        },
-        {
-          "title": "마이페이지 로그아웃",
-          "date": "",
-          "link": "https://shco.co.kr/login?back_url=L3Nob3BfbXlwYWdl&type=mypage",
-          "thumbnail": ""
-        },
-        {
-          "title": "시행착오란",
-          "date": "",
-          "link": "https://shco.co.kr/85",
-          "thumbnail": ""
-        },
-        {
-          "title": "무료특강",
-          "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": ""
-        },
-        {
-          "title": "프리미엄 강의 프리미엄 강의 VOD 기초강의",
-          "date": "",
-          "link": "https://shco.co.kr/21",
-          "thumbnail": ""
-        },
-        {
-          "title": "프리미엄 강의",
-          "date": "",
-          "link": "https://shco.co.kr/21",
-          "thumbnail": ""
-        },
-        {
-          "title": "VOD 기초강의",
-          "date": "",
-          "link": "https://shco.co.kr/89",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 라인업 강사 목록 강사 지원하기",
-          "date": "",
-          "link": "https://shco.co.kr/83",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 목록",
-          "date": "",
-          "link": "https://shco.co.kr/83",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 지원하기",
-          "date": "",
-          "link": "https://shco.co.kr/80",
-          "thumbnail": ""
-        },
-        {
-          "title": "성장 라운지 수강생 후기 수강생 성과",
-          "date": "",
-          "link": "https://shco.co.kr/76",
-          "thumbnail": ""
-        },
-        {
-          "title": "수강생 후기",
-          "date": "",
-          "link": "https://shco.co.kr/76",
-          "thumbnail": ""
-        },
-        {
-          "title": "수강생 성과",
-          "date": "",
-          "link": "https://shco.co.kr/91",
-          "thumbnail": ""
-        },
-        {
-          "title": "시행착오란",
-          "date": "",
-          "link": "https://shco.co.kr/85",
-          "thumbnail": ""
-        },
-        {
-          "title": "무료특강",
-          "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": ""
-        },
-        {
-          "title": "프리미엄 강의",
-          "date": "",
-          "link": "https://shco.co.kr/21",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 라인업",
-          "date": "",
-          "link": "https://shco.co.kr/83",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://shco.co.kr/66\", waiting until \"networkidle\"\n"
     },
     {
       "name": "엔잡연구소",
@@ -817,51 +714,8 @@
     {
       "name": "피터팬스쿨",
       "url": "https://www.peterpanschool.co.kr/courses/free",
-      "courses": [
-        {
-          "title": "무료로 배울 수 있는 고퀄리티 강의들을 만나보세요(총 2개)",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "AI로 영상 만들어 2년 10억 매출 낸 틱톡쇼핑!",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "AI로 자동화로 월 3000만원 수익화 방법",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "피터팬스쿨 (주)씨너지나노 사업자등록번호 : 299-86-03770ㅣ대표자 : 권오룡",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "세종특별자치시 갈매로 363, 405호(어진동, 세종파이낸스센터)ㅣ대표 전화번호 : 010-5384-5058",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "주식회사 유클ㅣ대표이사 : 윤세현ㅣ사업자등록번호 : 437-87-02574",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "주식회사 유클은 통신판매중개자로서 중개하는 거래에 대하여 책임을 부담하지 않습니다.",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.peterpanschool.co.kr/courses/free\", waiting until \"networkidle\"\n"
     },
     {
       "name": "프레스런",
@@ -1008,19 +862,19 @@
       "url": "https://buchinclass.com/class?mainCategory=5",
       "courses": [
         {
-          "title": "[조이] 규제없이 무한확장 가능한 엔코스테이로 4억 6천 번 노하우 무료공개 청춘 조이 0.0 (0개) 무료 [홍아린] 퇴근 후 AI영상 1개로",
+          "title": "[조이] 규제없이 무한확장 가능한 엔코스테이로 4억 6천 번 노하우 무료공개 열정 조이 0.0 (0개) 무료 [홍아린] 퇴근 후 AI영상 1개로",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
         },
         {
-          "title": "[조이] 규제없이 무한확장 가능한 엔코스테이로 4억 6천 번 노하우 무료공개 청춘 조이 0.0 (0개) 무료",
+          "title": "[조이] 규제없이 무한확장 가능한 엔코스테이로 4억 6천 번 노하우 무료공개 열정 조이 0.0 (0개) 무료",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
         },
         {
-          "title": "[조이] 규제없이 무한확장 가능한 엔코스테이로 4억 6천 번 노하우 무료공개 청춘 조이 0.0 (0개) 무료",
+          "title": "[조이] 규제없이 무한확장 가능한 엔코스테이로 4억 6천 번 노하우 무료공개 열정 조이 0.0 (0개) 무료",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
@@ -1032,7 +886,7 @@
           "thumbnail": ""
         },
         {
-          "title": "청춘 조이 0.0 (0개)",
+          "title": "열정 조이 0.0 (0개)",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
