@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12 22:30",
+  "updated_at": "2026-08-13 10:55",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1786541169-FBnV1d2DyYKRbMpv6DxrUvVlQLRe3d2Y",
+          "title": "sfo1::1786585914-18yMSZbeNmj9xAk1lK4IN6O062dANTyU",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1786541175-jsmLnumGFoViUQQY3vqQNkw9WapM1u2L",
+          "title": "sfo1::1786585920-tlwnydE61bKqrSlt2I7KIgOGeRK5AWhQ",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1786541181-NljZxF4Cz7HlamAGEuiuHjvmYk05BGn4",
+          "title": "sfo1::1786585926-HC3VuFQnOt9YqWeqYKP69icOHnRqKT1t",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -80,12 +80,6 @@
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
       "courses": [
-        {
-          "title": "유튜브 부업의 종착지! 컴맹도 연금 만드는 유튜브 수익화 종합반",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
         {
           "title": "초기자본 없이 생계비 벌게해준 영양제 리셀 무료강의!",
           "date": "",
@@ -136,6 +130,12 @@
         },
         {
           "title": "인스타 계정만 있으면 할 수 있는 출퇴근길 30분 강추 부업",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "초보자도 한달만에 월급 뛰어넘은 과일 위탁판매 성공공식",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -300,19 +300,7 @@
       "url": "https://www.nlab.kr/courses?categoryId=free-courses",
       "courses": [
         {
-          "title": "➡️설아님 무료강의 입장하기⬅️",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
           "title": "3초 카톡플친하면 매일 무료 강의 소식이 옵니다.",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[설아] 하루 20분이면 가능! 초간단 AI 플레이리스트 월 100만원 프로젝트",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -355,6 +343,18 @@
         },
         {
           "title": "상호 : N잡연구소(엔잡연구소)",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "대표이사 : 정준호 l 개인정보책임관리자 : 정준호",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "사업자번호 : 339-87-03570 l 통신판매신고번호 : 제 2025-서울강남-01438호",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
