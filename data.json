@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13 10:55",
+  "updated_at": "2026-08-13 22:38",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1786585914-18yMSZbeNmj9xAk1lK4IN6O062dANTyU",
+          "title": "iad1::1786628060-Z2MNi0A7evkCUfl3abmJJizBShQwN57G",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1786585920-tlwnydE61bKqrSlt2I7KIgOGeRK5AWhQ",
+          "title": "iad1::1786628066-WaCtxj6QPvOkQ6xABd88cGDOzApILqqn",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1786585926-HC3VuFQnOt9YqWeqYKP69icOHnRqKT1t",
+          "title": "iad1::1786628072-wGIuWfdJUOsslbLU9CBUuGQMNannzBWp",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -324,6 +324,18 @@
           "thumbnail": ""
         },
         {
+          "title": "[에어]50대도 월 300! AI 콘텐츠 연결 부업",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "[청담언니 루시]하루에 딱 20분! 원클릭 AI 쇼핑 쇼츠로 월 300 번 노하우",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
           "title": "무료특강 일정 알림을",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
@@ -343,18 +355,6 @@
         },
         {
           "title": "상호 : N잡연구소(엔잡연구소)",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "대표이사 : 정준호 l 개인정보책임관리자 : 정준호",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "사업자번호 : 339-87-03570 l 통신판매신고번호 : 제 2025-서울강남-01438호",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -817,51 +817,8 @@
     {
       "name": "피터팬스쿨",
       "url": "https://www.peterpanschool.co.kr/courses/free",
-      "courses": [
-        {
-          "title": "무료로 배울 수 있는 고퀄리티 강의들을 만나보세요(총 2개)",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "AI로 영상 만들어 2년 10억 매출 낸 틱톡쇼핑!",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "AI로 자동화로 월 3000만원 수익화 방법",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "피터팬스쿨 (주)씨너지나노 사업자등록번호 : 299-86-03770ㅣ대표자 : 권오룡",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "세종특별자치시 갈매로 363, 405호(어진동, 세종파이낸스센터)ㅣ대표 전화번호 : 010-5384-5058",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "주식회사 유클ㅣ대표이사 : 윤세현ㅣ사업자등록번호 : 437-87-02574",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "주식회사 유클은 통신판매중개자로서 중개하는 거래에 대하여 책임을 부담하지 않습니다.",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.peterpanschool.co.kr/courses/free\", waiting until \"networkidle\"\n"
     },
     {
       "name": "프레스런",
