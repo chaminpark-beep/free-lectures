@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16 10:16",
+  "updated_at": "2026-08-16 21:57",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1786842765-o7r2j2e6QK3dcdwaYbY7eMLQAmO1k8z9",
+          "title": "cle1::1786884784-KwcAIuTiFoLHjZaxRLJulLZHH2px8ZCp",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1786842771-264wo0ii0en66AXkcMie2MFQxD6HzPWR",
+          "title": "cle1::1786884790-DdBqAmdQlmEz7hRz6uwK4ttc2bWy7MVi",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1786842777-XOXh8xDewDqSIhuKGsfwXUvRqM5KDzPJ",
+          "title": "cle1::1786884796-xZOBy2m4jwJsZVaIbaoIuDA9c85XOEx2",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -80,12 +80,6 @@
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
       "courses": [
-        {
-          "title": "초기자본 없이 생계비 벌게해준 영양제 리셀 무료강의!",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
         {
           "title": "내향인도 가능한 9달 쉬고 3달만 일해서 남들 연봉 벌기!",
           "date": "",
@@ -136,6 +130,12 @@
         },
         {
           "title": "초보자도 한달만에 월급 뛰어넘은 과일 위탁판매 성공공식",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "광고비 단돈 3천원으로, 쿠팡에서 월 6,000만원! 영양제 수익화 종합특강",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -720,7 +720,7 @@
           "thumbnail": ""
         },
         {
-          "title": "강의 돈버는형님들 강사 5.0 (24)",
+          "title": "강의 돈버는형님들 강사 5.0 (25)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
@@ -732,7 +732,7 @@
           "thumbnail": ""
         },
         {
-          "title": "5.0 (24)",
+          "title": "5.0 (25)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
