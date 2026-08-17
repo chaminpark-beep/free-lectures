@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17 10:14",
+  "updated_at": "2026-08-17 22:02",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1786929025-9iR1ef0kGpx7hF4xrpNjN9fyx0H7Vvb4",
+          "title": "sfo1::1786971474-6U3qZjUsZm2XiTsFXOqTRDtg7vdbHJVO",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1786929031-CClBY8mb1IrDyQnD1j84uqCyeqmbmQWe",
+          "title": "sfo1::1786971481-0gDT6QgJnFQAHdIlY87Dy0AHB03a5n44",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1786929037-LlpVRORlu5DGJuLN3UBmibMQtncc14p1",
+          "title": "sfo1::1786971487-A5ky4sEJMzWXyy4PvMAEgBO4pNkTKpq2",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -616,16 +616,10 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "건물주 아니어도 월세 4000 버는 AI 공간임대 수익화 무료특강",
+          "title": "403 Forbidden",
           "date": "",
-          "link": "https://www.tpschool.co.kr/classes/314439",
-          "thumbnail": "https://cdn.liveklass.com/course/019fffa531b0743690a7bc6de07f8470.png.medium"
-        },
-        {
-          "title": "건물주 아니어도 월세 4000 버는 AI 공간임대 수익화 무료특강",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/classes/314439",
-          "thumbnail": "https://cdn.liveklass.com/course/019fffa531b0743690a7bc6de07f8470.png.medium"
+          "link": "https://www.tpschool.co.kr/p/webinar",
+          "thumbnail": ""
         }
       ],
       "error": null
@@ -641,70 +635,10 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "대량등록 무료특강",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/304200",
-          "thumbnail": "https://cdn.liveklass.com/course/019f8925a6bc733fbae5875e089ce7bc.jpeg.medium"
-        },
-        {
-          "title": "초보자도 월 500 버는 현금 자판기, 100% 자동화 위탁 판매 공유하기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/304200",
-          "thumbnail": "https://cdn.liveklass.com/course/019f8925a6bc733fbae5875e089ce7bc.jpeg.medium"
-        },
-        {
-          "title": "초보자도 월 500 버는 현금 자판기, 100% 자동화 위탁 판매 공유하기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/304200",
-          "thumbnail": ""
-        },
-        {
-          "title": "강의 돈버는형님들 강사 5.0 (26)",
+          "title": "403 Forbidden",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
-        },
-        {
-          "title": "돈버는형님들 강사",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "5.0 (26)",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "초보자도 월 500 버는 현금 자판기, 100% 자동화 위탁 판매",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/304200",
-          "thumbnail": ""
-        },
-        {
-          "title": "초보자도 월 500 버는 현금 자판기, 100% 자동화 위탁 판매",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "공유하기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "자세히 보기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰 H",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/306150",
-          "thumbnail": "https://cdn.liveklass.com/course/019fa16e1082728ca587536fe94d8d89.jpeg.medium"
         }
       ],
       "error": null
