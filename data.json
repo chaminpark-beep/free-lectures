@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 22:03",
+  "updated_at": "2026-08-19 10:12",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1787057960-8PiCNVLKgTidp52K0jE8WI2hwdf3mCw5",
+          "title": "sfo1::1787101748-Uw082SAwMTBVndvzksCTI4xo5AiU0ULH",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1787057966-7PplFjiw5UDPAhLsyi7U2AVzikp36Cze",
+          "title": "sfo1::1787101754-sDcGm10lSUZY2WnsFvVCgPbaWydzI1Pw",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1787057971-NlBbRZvixlwrwXJJnqXaV0wzLmII55DD",
+          "title": "sfo1::1787101760-hjZHhtvjNkB7rMGMhytZgfzQ6uhZ3F2I",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -677,16 +677,22 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "건물주 아니어도 월세 4000 버는 AI 공간임대 수익화 무료특강",
+          "title": "첫 낙찰까지 무제한 피드백! 8주만에 연봉버는 부동산 경매 마스터 클래스",
+          "date": "",
+          "link": "https://www.tpschool.co.kr/classes/315010",
+          "thumbnail": ""
+        },
+        {
+          "title": "[티나] 건물주 아니어도 월세 4000 버는 공간임대 수익화 노하우 무료특강",
           "date": "",
           "link": "https://www.tpschool.co.kr/classes/314439",
           "thumbnail": "https://cdn.liveklass.com/course/01a00ed78bbf7e24b45d49d4ab83a022.png.medium"
         },
         {
-          "title": "건물주 아니어도 월세 4000 버는 AI 공간임대 수익화 무료특강",
+          "title": "[집샘] 첫 낙찰될 때까지 무제한 피드백! 8주만에 연봉버는 부동산 경매 마스터클래스(12개월 무이자 지원)",
           "date": "",
-          "link": "https://www.tpschool.co.kr/classes/314439",
-          "thumbnail": "https://cdn.liveklass.com/course/01a00ed78bbf7e24b45d49d4ab83a022.png.medium"
+          "link": "https://www.tpschool.co.kr/classes/315010",
+          "thumbnail": "https://cdn.liveklass.com/course/01a014e0bc357b23b0708315bace0218.png.medium"
         }
       ],
       "error": null
@@ -866,8 +872,69 @@
     {
       "name": "프레스런",
       "url": "https://presslearn.co.kr/fc",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://presslearn.co.kr/fc\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "네이버로 누구나 월 100 만드는 방법 무료강의 [8월 20일]",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "AI가 블로그 글 써주고 월급 만드는 부업 [8월 27일]",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "매일 1시간 구글 부업으로 월 100만 원 만들기 무료 강의",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "일\t월\t화\t수\t목\t금\t토",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "26\t27\t28\t29\t30",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "2\t3\t4\t5\t6\t7\t8",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "9\t10\t11\t12\t13\t14\t15",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "16\t17\t18\t19\t20",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "23\t24\t25\t26\t27",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "30\t31\t1\t2\t3\t4\t5",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "인사이트머니랩",
