@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23 21:58",
+  "updated_at": "2026-08-24 10:16",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1787489650-XcCW7PcXrJrG5lHbAAvZf8Sa5g7vxSe9",
+          "title": "iad1::1787533911-f0kPSUJK7RhHyUiMYlyjQfVvS8hzTGfy",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1787489656-h47IOYFCG8gUQUuY9zepPJSefTaMe4LN",
+          "title": "iad1::1787533917-fdiu7BLHipIHbMZWEc1uz0LHmCqA19qS",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1787489662-4x8iu2FkveglURiglhvTgdCTuByHlEYV",
+          "title": "iad1::1787533923-CkVIi2GyCE4mZzVwsEppPsmfdcMm7THp",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -499,139 +499,18 @@
     {
       "name": "황금후추",
       "url": "https://www.goldpepper.kr/103/",
-      "courses": [
-        {
-          "title": "Alarm",
-          "date": "",
-          "link": "https://www.goldpepper.kr/103/",
-          "thumbnail": "https://www.goldpepper.kr/103//common/img/default_profile.png"
-        },
-        {
-          "title": "마이페이지 로그아웃",
-          "date": "",
-          "link": "https://www.goldpepper.kr/login?back_url=L3Nob3BfbXlwYWdl&type=mypage",
-          "thumbnail": ""
-        },
-        {
-          "title": "황금후추 회사소개 황금후추 소개 상담안내",
-          "date": "",
-          "link": "https://www.goldpepper.kr/120",
-          "thumbnail": ""
-        },
-        {
-          "title": "회사소개",
-          "date": "",
-          "link": "https://www.goldpepper.kr/conpany",
-          "thumbnail": ""
-        },
-        {
-          "title": "황금후추 소개",
-          "date": "",
-          "link": "https://www.goldpepper.kr/about",
-          "thumbnail": ""
-        },
-        {
-          "title": "상담안내",
-          "date": "",
-          "link": "https://www.goldpepper.kr/124",
-          "thumbnail": ""
-        },
-        {
-          "title": "클래스 무료강의 부동산 사주 타로 전자책",
-          "date": "",
-          "link": "https://www.goldpepper.kr/125",
-          "thumbnail": ""
-        },
-        {
-          "title": "무료강의",
-          "date": "",
-          "link": "https://www.goldpepper.kr/103",
-          "thumbnail": ""
-        },
-        {
-          "title": "부동산",
-          "date": "",
-          "link": "https://www.goldpepper.kr/class4",
-          "thumbnail": ""
-        },
-        {
-          "title": "전자책",
-          "date": "",
-          "link": "https://www.goldpepper.kr/class5",
-          "thumbnail": ""
-        },
-        {
-          "title": "커뮤니티 1:1 문의",
-          "date": "",
-          "link": "https://www.goldpepper.kr/130",
-          "thumbnail": ""
-        },
-        {
-          "title": "1:1 문의",
-          "date": "",
-          "link": "http://pf.kakao.com/_hDACG",
-          "thumbnail": ""
-        },
-        {
-          "title": "수강 후기",
-          "date": "",
-          "link": "https://www.goldpepper.kr/review",
-          "thumbnail": ""
-        },
-        {
-          "title": "강의실",
-          "date": "",
-          "link": "https://www.goldpepper.kr/136",
-          "thumbnail": ""
-        },
-        {
-          "title": "황금후추",
-          "date": "",
-          "link": "https://www.goldpepper.kr/120",
-          "thumbnail": ""
-        },
-        {
-          "title": "클래스",
-          "date": "",
-          "link": "https://www.goldpepper.kr/125",
-          "thumbnail": ""
-        },
-        {
-          "title": "커뮤니티",
-          "date": "",
-          "link": "https://www.goldpepper.kr/130",
-          "thumbnail": ""
-        },
-        {
-          "title": "수강 후기",
-          "date": "",
-          "link": "https://www.goldpepper.kr/review",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.goldpepper.kr/103/\", waiting until \"networkidle\"\n"
     },
     {
       "name": "터닝포인트스쿨",
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "첫 낙찰까지 무제한 피드백! 8주만에 연봉버는 부동산 경매 마스터 클래스",
+          "title": "403 Forbidden",
           "date": "",
-          "link": "https://www.tpschool.co.kr/classes/315010",
+          "link": "https://www.tpschool.co.kr/p/webinar",
           "thumbnail": ""
-        },
-        {
-          "title": "[티나] 300만원으로 한번만 세팅하면 끝! 하루 10분 월 4000 만든 에어비앤비∙공간임대 수익화",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/classes/314439",
-          "thumbnail": "https://cdn.liveklass.com/course/01a02238a2887825a341ab7f9dc543ff.png.medium"
-        },
-        {
-          "title": "[집샘] 첫 낙찰될 때까지 무제한 피드백! 8주만에 연봉버는 부동산 경매 마스터클래스(12개월 무이자 지원)",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/classes/315010",
-          "thumbnail": "https://cdn.liveklass.com/course/01a014e0bc357b23b0708315bace0218.png.medium"
         }
       ],
       "error": null
@@ -647,70 +526,10 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "대량등록 무료특강",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/304200",
-          "thumbnail": "https://cdn.liveklass.com/course/019f8925a6bc733fbae5875e089ce7bc.jpeg.medium"
-        },
-        {
-          "title": "초보자도 월 500 버는 현금 자판기, 100% 자동화 위탁 판매 공유하기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/304200",
-          "thumbnail": "https://cdn.liveklass.com/course/019f8925a6bc733fbae5875e089ce7bc.jpeg.medium"
-        },
-        {
-          "title": "초보자도 월 500 버는 현금 자판기, 100% 자동화 위탁 판매 공유하기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/304200",
-          "thumbnail": ""
-        },
-        {
-          "title": "강의 돈버는형님들 강사 5.0 (28)",
+          "title": "403 Forbidden",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
-        },
-        {
-          "title": "돈버는형님들 강사",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "5.0 (28)",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "초보자도 월 500 버는 현금 자판기, 100% 자동화 위탁 판매",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/304200",
-          "thumbnail": ""
-        },
-        {
-          "title": "초보자도 월 500 버는 현금 자판기, 100% 자동화 위탁 판매",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "공유하기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "자세히 보기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰 H",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/306150",
-          "thumbnail": "https://cdn.liveklass.com/course/019fa16e1082728ca587536fe94d8d89.jpeg.medium"
         }
       ],
       "error": null
@@ -770,7 +589,7 @@
           "thumbnail": ""
         },
         {
-          "title": "AI 영상 드라마 제작",
+          "title": "2026년 하반기 AI 드라마로 5억 버는 법",
           "date": "",
           "link": "https://www.peterpanschool.co.kr/courses/free",
           "thumbnail": ""
@@ -811,69 +630,8 @@
     {
       "name": "프레스런",
       "url": "https://presslearn.co.kr/fc",
-      "courses": [
-        {
-          "title": "AI가 블로그 글 써주고 월급 만드는 부업 [8월 27일]",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "네이버 카페로 월 천만 원 달성한 수익화 비법[9월 17일]",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "매일 1시간 구글 부업으로 두 번째 월급 만들기 무료 강의",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "네이버로 누구나 만드는 두 번째 월급 만들기 무료 강의",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "일\t월\t화\t수\t목\t금\t토",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "26\t27\t28\t29\t30",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "2\t3\t4\t5\t6\t7\t8",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "9\t10\t11\t12\t13\t14\t15",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "16\t17\t18\t19\t20\t21\t22",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "23\t24\t25\t26\t27",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://presslearn.co.kr/fc\", waiting until \"networkidle\"\n"
     },
     {
       "name": "인사이트머니랩",
@@ -1062,25 +820,25 @@
           "thumbnail": ""
         },
         {
-          "title": "[홍아린] 퇴근 후 AI영상 1개로 건당 60만원 번 노하우 무료공개 홍아린 0.0 (0개) 무료",
+          "title": "[5기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
         },
         {
-          "title": "[홍아린] 퇴근 후 AI영상 1개로 건당 60만원 번 노하우 무료공개 홍아린 0.0 (0개) 무료",
+          "title": "[5기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
         },
         {
-          "title": "[홍아린] 퇴근 후 AI영상 1개로 건당 60만원 번 노하우 무료공개",
+          "title": "[5기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
         },
         {
-          "title": "홍아린 0.0 (0개)",
+          "title": "원성환 0.0 (0개)",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
