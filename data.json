@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25 10:14",
+  "updated_at": "2026-08-25 22:04",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1787620219-8ou0RURN8GZCtNoOg9BJYthsQReL1Zsl",
+          "title": "cle1::1787662849-inQIbcEERlJzsRefqD9SzlfJ4bH2hb5r",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1787620225-TycH8LlQH7wuO1P6yPbpuHQ7mzHGOshW",
+          "title": "cle1::1787662855-NcGdAL6vrY4WgsbSsQBEIu5Gp3FoIxUS",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1787620231-mwL84kdUcmEk4CYF8RxNiDlVUYgMxQra",
+          "title": "cle1::1787662861-tQABVfemLicycLYiuPjrd6ZQJEwK8dDm",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -80,12 +80,6 @@
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
       "courses": [
-        {
-          "title": "하루 10분, 클릭 1번으로 매달 100만원 자동수익! 음악 플레이리스트!",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
         {
           "title": "사주 하나도 몰라도 가능한 사주 자동화 부업",
           "date": "",
@@ -139,6 +133,12 @@
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
+        },
+        {
+          "title": "무자본, 무재고, 무광고! 산후조리원비 다 뽑고도 전문직 연봉 2배 번 비밀",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
         }
       ],
       "error": null
@@ -178,7 +178,7 @@
           "thumbnail": ""
         },
         {
-          "title": "Previous Next 1 2 3 4 5 6 7 8",
+          "title": "Previous Next 1 2 3 4 5 6 7",
           "date": "",
           "link": "https://www.millmus.com/lecture/detail/895",
           "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2Fdda2a47d-cbde-4890-9adc-0078611cdc47.png&w=3840&q=75"
@@ -189,8 +189,111 @@
     {
       "name": "시행착오",
       "url": "https://shco.co.kr/66",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://shco.co.kr/66\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "Alarm",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": "https://shco.co.kr/66/common/img/default_profile.png"
+        },
+        {
+          "title": "마이페이지 로그아웃",
+          "date": "",
+          "link": "https://shco.co.kr/login?back_url=L3Nob3BfbXlwYWdl&type=mypage",
+          "thumbnail": ""
+        },
+        {
+          "title": "시행착오란",
+          "date": "",
+          "link": "https://shco.co.kr/85",
+          "thumbnail": ""
+        },
+        {
+          "title": "무료특강",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": ""
+        },
+        {
+          "title": "프리미엄 강의 프리미엄 강의 VOD 기초강의",
+          "date": "",
+          "link": "https://shco.co.kr/21",
+          "thumbnail": ""
+        },
+        {
+          "title": "프리미엄 강의",
+          "date": "",
+          "link": "https://shco.co.kr/21",
+          "thumbnail": ""
+        },
+        {
+          "title": "VOD 기초강의",
+          "date": "",
+          "link": "https://shco.co.kr/89",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 라인업 강사 목록 강사 지원하기",
+          "date": "",
+          "link": "https://shco.co.kr/83",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 목록",
+          "date": "",
+          "link": "https://shco.co.kr/83",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 지원하기",
+          "date": "",
+          "link": "https://shco.co.kr/80",
+          "thumbnail": ""
+        },
+        {
+          "title": "성장 라운지 수강생 후기 수강생 성과",
+          "date": "",
+          "link": "https://shco.co.kr/76",
+          "thumbnail": ""
+        },
+        {
+          "title": "수강생 후기",
+          "date": "",
+          "link": "https://shco.co.kr/76",
+          "thumbnail": ""
+        },
+        {
+          "title": "수강생 성과",
+          "date": "",
+          "link": "https://shco.co.kr/91",
+          "thumbnail": ""
+        },
+        {
+          "title": "시행착오란",
+          "date": "",
+          "link": "https://shco.co.kr/85",
+          "thumbnail": ""
+        },
+        {
+          "title": "무료특강",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": ""
+        },
+        {
+          "title": "프리미엄 강의",
+          "date": "",
+          "link": "https://shco.co.kr/21",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 라인업",
+          "date": "",
+          "link": "https://shco.co.kr/83",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "엔잡연구소",
@@ -233,6 +336,12 @@
           "thumbnail": ""
         },
         {
+          "title": "[신예영] 백화점 구경하고 후기 한 줄로 월 500만 원 번 AI 글쓰기 부업 노하우",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
           "title": "무료특강 일정 알림을",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
@@ -246,12 +355,6 @@
         },
         {
           "title": "주식회사 티티에이컴퍼니",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "상호 : N잡연구소(엔잡연구소)",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -325,12 +428,6 @@
           "thumbnail": ""
         },
         {
-          "title": "[무료강의] 100% 자동화 위탁판매의 실체",
-          "date": "",
-          "link": "https://www.moneyupclass.com/free-courses",
-          "thumbnail": ""
-        },
-        {
           "title": "[무료강의] 마진 50% 독점 소싱 특강",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
@@ -349,7 +446,7 @@
           "thumbnail": ""
         },
         {
-          "title": "[무료강의] 월300 AI 미국 자동판매 시스템",
+          "title": "[무료강의] 월300 수입 연금 AI 신종 무역",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
           "thumbnail": ""
@@ -374,6 +471,12 @@
         },
         {
           "title": "개인정보관리책임자 : 김상원 | 대표번호 : 070-8057-9339 (전화상담 미운영/채널톡 문의)",
+          "date": "",
+          "link": "https://www.moneyupclass.com/free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "핏크닉은 통신판매중개자로서 중개하는 거래에 대하여 책임을 부담하지 않습니다.",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
           "thumbnail": ""
@@ -580,7 +683,7 @@
           "thumbnail": ""
         },
         {
-          "title": "[티나] 300만원으로 한번만 세팅하면 끝! 하루 10분 월 4000 만든 에어비앤비∙공간임대 수익화",
+          "title": "[티나] 예약 1건만 받아도 2,200만원! 하루 10분 월 300 버는 에어비앤비 수익화",
           "date": "",
           "link": "https://www.tpschool.co.kr/classes/314439",
           "thumbnail": "https://cdn.liveklass.com/course/01a032b58fe373f5b0ac2a69d8311fb6.png.medium"
