@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28 07:14",
+  "updated_at": "2026-08-28 18:45",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1787868644-5SppF10sJpeXpa0kaZfpxzoKjPTohyMH",
+          "title": "cle1::1787910077-K7MLFK6V8GHH1Q5tiLibqIyIoRkF2QqF",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1787868650-iGZxlInBwBQrgtvSOHcZH8VWMZunrIsq",
+          "title": "cle1::1787910083-UyZ6ZDIuapx9k6s8FlTzTuKbeWB1sUtL",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1787868656-MzUbJdXnc7lImczQB0AYyhEA7h9k9uEU",
+          "title": "cle1::1787910089-fZTUpI8QveasnjFcVgv45ap2bNGTWGFq",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -178,10 +178,10 @@
           "thumbnail": ""
         },
         {
-          "title": "Previous Next 1 2 3 4 5 6 7 8",
+          "title": "Previous Next 1 2 3 4 5 6 7 8 9",
           "date": "",
-          "link": "https://www.millmus.com/lecture/detail/895",
-          "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2Fdda2a47d-cbde-4890-9adc-0078611cdc47.png&w=3840&q=75"
+          "link": "https://www.millmus.com/lecture/detail/909",
+          "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2F1096fa6e-76d3-4c20-af39-5ac6bae4b031.png&w=3840&q=75"
         }
       ],
       "error": null
@@ -189,111 +189,8 @@
     {
       "name": "시행착오",
       "url": "https://shco.co.kr/66",
-      "courses": [
-        {
-          "title": "Alarm",
-          "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": "https://shco.co.kr/66/common/img/default_profile.png"
-        },
-        {
-          "title": "마이페이지 로그아웃",
-          "date": "",
-          "link": "https://shco.co.kr/login?back_url=L3Nob3BfbXlwYWdl&type=mypage",
-          "thumbnail": ""
-        },
-        {
-          "title": "시행착오란",
-          "date": "",
-          "link": "https://shco.co.kr/85",
-          "thumbnail": ""
-        },
-        {
-          "title": "무료특강",
-          "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": ""
-        },
-        {
-          "title": "프리미엄 강의 프리미엄 강의 VOD 기초강의",
-          "date": "",
-          "link": "https://shco.co.kr/21",
-          "thumbnail": ""
-        },
-        {
-          "title": "프리미엄 강의",
-          "date": "",
-          "link": "https://shco.co.kr/21",
-          "thumbnail": ""
-        },
-        {
-          "title": "VOD 기초강의",
-          "date": "",
-          "link": "https://shco.co.kr/89",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 라인업 강사 목록 강사 지원하기",
-          "date": "",
-          "link": "https://shco.co.kr/83",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 목록",
-          "date": "",
-          "link": "https://shco.co.kr/83",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 지원하기",
-          "date": "",
-          "link": "https://shco.co.kr/80",
-          "thumbnail": ""
-        },
-        {
-          "title": "성장 라운지 수강생 후기 수강생 성과",
-          "date": "",
-          "link": "https://shco.co.kr/76",
-          "thumbnail": ""
-        },
-        {
-          "title": "수강생 후기",
-          "date": "",
-          "link": "https://shco.co.kr/76",
-          "thumbnail": ""
-        },
-        {
-          "title": "수강생 성과",
-          "date": "",
-          "link": "https://shco.co.kr/91",
-          "thumbnail": ""
-        },
-        {
-          "title": "시행착오란",
-          "date": "",
-          "link": "https://shco.co.kr/85",
-          "thumbnail": ""
-        },
-        {
-          "title": "무료특강",
-          "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": ""
-        },
-        {
-          "title": "프리미엄 강의",
-          "date": "",
-          "link": "https://shco.co.kr/21",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 라인업",
-          "date": "",
-          "link": "https://shco.co.kr/83",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://shco.co.kr/66\", waiting until \"networkidle\"\n"
     },
     {
       "name": "엔잡연구소",
@@ -336,6 +233,12 @@
           "thumbnail": ""
         },
         {
+          "title": "[인피디]사진 한 장으로 월 천 번 인스타 캐러셀 수익화 노하우",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
           "title": "무료특강 일정 알림을",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
@@ -349,12 +252,6 @@
         },
         {
           "title": "주식회사 티티에이컴퍼니",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "상호 : N잡연구소(엔잡연구소)",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -922,7 +819,7 @@
           "thumbnail": ""
         },
         {
-          "title": "23\t24\t25\t26\t27",
+          "title": "23\t24\t25\t26\t27\t28\t29",
           "date": "",
           "link": "https://presslearn.co.kr/fc",
           "thumbnail": ""
