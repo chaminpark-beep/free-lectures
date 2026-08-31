@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31 01:37",
+  "updated_at": "2026-08-31 12:53",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1788107588-e8CwZQrJrtyD25w5lxhusJ0x1qYkWwi4",
+          "title": "iad1::1788148172-srCjylKSxTSTNqiN9yIq4J4GJkoSoXQj",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1788107594-1Ojx38iJVyZawyIwV840brYEo4e8fGSD",
+          "title": "iad1::1788148178-3tdLM0fgLc04kexIT5Hb8ts4lHWsboHu",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1788107600-s7PqV25kMbndBMzINdaptSYtbKkonpwO",
+          "title": "iad1::1788148184-n2XEBz68HqHLO0a5WsTh9ilfq7TmqgvT",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -80,12 +80,6 @@
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
       "courses": [
-        {
-          "title": "사주 하나도 몰라도 가능한 사주 자동화 부업",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
         {
           "title": "7천만원 프로그램 개발! 하루 100개 파는 Ai 자동화 커머스",
           "date": "",
@@ -136,6 +130,12 @@
         },
         {
           "title": "퇴근 후 10분! 방구석에서 AI로 글 써서 쉽게 돈 버는 \"광고 소개 부업\"",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "“엄마가 옆에 있었으면 좋겠어요” 대기업 연봉 포기하고 아이들 옆에서 순수익 500만원 버는 육아맘",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
