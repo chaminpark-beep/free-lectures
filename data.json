@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02 12:05",
+  "updated_at": "2026-09-03 01:31",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1788318052-UcGJOr4QBBLLKwaWlRpM7S4r7ZFlJZpw",
+          "title": "iad1::1788366431-JuAHxjfN5pHkZnuwUdFuJtdl8W1HikA1",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1788318058-Yrzvsstq3bwD8mtD2TqZlN3erENtKKOM",
+          "title": "iad1::1788366437-B2H2RPttndFW9ppCpVw3BBXYrhEcnnc9",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1788318064-yEabQfPRanPr9Zcjh7r8HTArzcWiMvul",
+          "title": "iad1::1788366442-M4w7DkfBqfvS43YkMD5gxpQ1cL29xVzs",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -128,13 +128,122 @@
     {
       "name": "시행착오",
       "url": "https://shco.co.kr/66",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://shco.co.kr/66\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "Alarm",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": "https://shco.co.kr/66/common/img/default_profile.png"
+        },
+        {
+          "title": "마이페이지 로그아웃",
+          "date": "",
+          "link": "https://shco.co.kr/login?back_url=L3Nob3BfbXlwYWdl&type=mypage",
+          "thumbnail": ""
+        },
+        {
+          "title": "시행착오란",
+          "date": "",
+          "link": "https://shco.co.kr/85",
+          "thumbnail": ""
+        },
+        {
+          "title": "무료특강",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": ""
+        },
+        {
+          "title": "프리미엄 강의 프리미엄 강의 VOD 기초강의",
+          "date": "",
+          "link": "https://shco.co.kr/21",
+          "thumbnail": ""
+        },
+        {
+          "title": "프리미엄 강의",
+          "date": "",
+          "link": "https://shco.co.kr/21",
+          "thumbnail": ""
+        },
+        {
+          "title": "VOD 기초강의",
+          "date": "",
+          "link": "https://shco.co.kr/89",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 라인업 강사 목록 강사 지원하기",
+          "date": "",
+          "link": "https://shco.co.kr/83",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 목록",
+          "date": "",
+          "link": "https://shco.co.kr/83",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 지원하기",
+          "date": "",
+          "link": "https://shco.co.kr/80",
+          "thumbnail": ""
+        },
+        {
+          "title": "성장 라운지 수강생 후기 수강생 성과",
+          "date": "",
+          "link": "https://shco.co.kr/76",
+          "thumbnail": ""
+        },
+        {
+          "title": "수강생 후기",
+          "date": "",
+          "link": "https://shco.co.kr/76",
+          "thumbnail": ""
+        },
+        {
+          "title": "수강생 성과",
+          "date": "",
+          "link": "https://shco.co.kr/91",
+          "thumbnail": ""
+        },
+        {
+          "title": "시행착오란",
+          "date": "",
+          "link": "https://shco.co.kr/85",
+          "thumbnail": ""
+        },
+        {
+          "title": "무료특강",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": ""
+        },
+        {
+          "title": "프리미엄 강의",
+          "date": "",
+          "link": "https://shco.co.kr/21",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 라인업",
+          "date": "",
+          "link": "https://shco.co.kr/83",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "엔잡연구소",
       "url": "https://www.nlab.kr/courses?categoryId=free-courses",
       "courses": [
+        {
+          "title": "➡️(라이브) 루시님의 원클릭 ai 쇼핑쇼츠 월 300 무료강의 입장하기⬅️",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
         {
           "title": "3초 카톡플친하면 매일 무료 강의 소식이 옵니다.",
           "date": "",
@@ -172,6 +281,12 @@
           "thumbnail": ""
         },
         {
+          "title": "[코끼리] 집에서 혼자서도 가능! AI로 왕초보도 가능한 초간단 1인 퍼스널 브랜드 숏폼대행",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
           "title": "무료특강 일정 알림을",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
@@ -179,18 +294,6 @@
         },
         {
           "title": "강사 신청 및 협업제안",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "주식회사 티티에이컴퍼니",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "상호 : N잡연구소(엔잡연구소)",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -556,7 +659,7 @@
           "thumbnail": ""
         },
         {
-          "title": "강의 돈버는형님들 강사 5.0 (16)",
+          "title": "강의 돈버는형님들 강사 5.0 (17)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
@@ -568,7 +671,7 @@
           "thumbnail": ""
         },
         {
-          "title": "5.0 (16)",
+          "title": "5.0 (17)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
@@ -630,22 +733,22 @@
       "url": "https://moneyroot.co.kr/lectures/free",
       "courses": [
         {
-          "title": "AI 숏폼 공장 수익화 무료강의",
+          "title": "AI 과일 위탁 부업 무료강의",
           "date": "",
-          "link": "https://moneyroot.co.kr/shop/product/view?product_id=68&event=6a61797f059d0",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_06_3_pg.png"
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=70&event=6a6842ed0278c",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_08_3_de.png"
         },
         {
-          "title": "AI 숏폼 공장 수익화 무료강의",
+          "title": "AI 과일 위탁 부업 무료강의",
           "date": "",
-          "link": "https://moneyroot.co.kr/shop/product/view?product_id=68&event=6a61797f059d0",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_06_3_pg.png"
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=70&event=6a6842ed0278c",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_08_3_de.png"
         },
         {
-          "title": "AI 숏폼 공장 수익화 무료강의",
+          "title": "AI 과일 위탁 부업 무료강의",
           "date": "",
-          "link": "https://moneyroot.co.kr/shop/product/view?product_id=68&event=6a61797f059d0",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_06_3_pg.png"
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=70&event=6a6842ed0278c",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_08_3_de.png"
         }
       ],
       "error": null
@@ -702,8 +805,69 @@
     {
       "name": "프레스런",
       "url": "https://presslearn.co.kr/fc",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://presslearn.co.kr/fc\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "네이버 카페로 월 천만 원 달성한 수익화 비법[9월 17일]",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "매일 1시간 구글 부업으로 두 번째 월급 만들기 무료 강의",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "네이버로 누구나 만드는 두 번째 월급 만들기 무료 강의",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "일\t월\t화\t수\t목\t금\t토",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "30\t31\t1\t2\t3\t4\t5",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "6\t7\t8\t9\t10\t11\t12",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "13\t14\t15\t16\t17",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "20\t21\t22\t23\t24\t25\t26",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "27\t28\t29\t30\t1\t2\t3",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "4\t5\t6\t7\t8\t9\t10",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "인사이트머니랩",
