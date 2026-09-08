@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08 02:45",
+  "updated_at": "2026-09-08 12:16",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1788802860-vmzV5VmaYJaOckx1buoRoNWIhWwvPMst",
+          "title": "cle1::1788837100-2WjQjRjJPVKKEGtwr14ig9VoWZ9TcR0c",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1788802866-3CV1Nvw86WUnkkFndzSH4QEBEsEAoi1G",
+          "title": "cle1::1788837106-dN9MLoZtItH3JrfFsmHwn6EUFDZUy9FD",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1788802873-9sFeaspFVVPZnmsaYVfXCQdq63zWC90t",
+          "title": "cle1::1788837112-6fUDVn3wss5F7MgOEjzgwW7LlCbEVExj",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -616,22 +616,10 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "똥손도 OK! 월 1억 찍은 AI 인스타툰 수익화",
+          "title": "403 Forbidden",
           "date": "",
-          "link": "https://www.tpschool.co.kr/classes/215059",
+          "link": "https://www.tpschool.co.kr/p/webinar",
           "thumbnail": ""
-        },
-        {
-          "title": "[미스멍디] 똥손도 월 1억 찍은 AI 인스타툰 수익화 노하우 무료특강",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/classes/215059",
-          "thumbnail": "https://cdn.liveklass.com/course/01a0228eb1197c8999f2badd90b0c515.png.medium"
-        },
-        {
-          "title": "[티나] 한번만 세팅하면 끝! 하루 10분 월 300 AI 공간임대 수익화 마스터 클래스 (12개월 무이자 지원)",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/classes/317045",
-          "thumbnail": "https://cdn.liveklass.com/course/01a0671352597a389411aa277193d975.png.medium"
         }
       ],
       "error": null
@@ -640,77 +628,17 @@
       "name": "아마겟돈클래스",
       "url": "https://amag-class.kr/Free-Class",
       "courses": [],
-      "error": "Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://amag-class.kr/Free-Class\nCall log:\n  - navigating to \"https://amag-class.kr/Free-Class\", waiting until \"networkidle\"\n"
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://amag-class.kr/Free-Class\", waiting until \"networkidle\"\n"
     },
     {
       "name": "돈버는클래스",
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "대량등록 무료특강",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/278395",
-          "thumbnail": "https://cdn.liveklass.com/course/01a055f633617a9198a03e853a1b7c92.jpeg.medium"
-        },
-        {
-          "title": "에어비앤비로 1개월만에 300만원 수익화한 노하우 공유하기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/278395",
-          "thumbnail": "https://cdn.liveklass.com/course/01a055f633617a9198a03e853a1b7c92.jpeg.medium"
-        },
-        {
-          "title": "에어비앤비로 1개월만에 300만원 수익화한 노하우 공유하기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/278395",
-          "thumbnail": ""
-        },
-        {
-          "title": "강의 돈버는형님들 강사 5.0 (25)",
+          "title": "403 Forbidden",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
-        },
-        {
-          "title": "돈버는형님들 강사",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "5.0 (25)",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "에어비앤비로 1개월만에 300만원 수익화한 노하우",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/278395",
-          "thumbnail": ""
-        },
-        {
-          "title": "에어비앤비로 1개월만에 300만원 수익화한 노하우",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "공유하기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "자세히 보기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "스마트스토어 쉽게 따라하기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/267529",
-          "thumbnail": "https://cdn.liveklass.com/course/1756351089923.png.medium"
         }
       ],
       "error": null
@@ -878,63 +806,8 @@
     {
       "name": "인사이트머니랩",
       "url": "https://insightmoneylab.com/course-category/free-class/",
-      "courses": [
-        {
-          "title": "[0원 강의] 다이소 상품 하나로 주부도 월 200 찍는 유튜브 쇼핑쇼츠 부업",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "[0원 강의] 누적 10억 전문가! 현대판 민담 주제로 AI 유튜브 수익화",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "[0원 강의] 단기간 돈이 꽂히는 아파트 경매 끝판왕 패키지",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "[0원 강의] 월 300 현금흐름 합법 에어비앤비 끝판왕",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "10:00 ~ 18:00",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "help@insightmoneylab",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "주식회사 인사이트머니랩 대표이사 : 배종주 사업자번호 : 885-88-03051 l 통신판매신고번호 : 제2025-서울강남-06757",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "사업장주소 : 서울특별시 강남구 논현로71길 23-6, 3층 (역삼동) 고객센터 : 02-6958-7342",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "ⓒ 2024 인사이트머니랩. All rights reserved.",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://insightmoneylab.com/course-category/free-class/\", waiting until \"networkidle\"\n"
     },
     {
       "name": "온부자",
