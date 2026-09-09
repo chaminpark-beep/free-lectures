@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09 01:34",
+  "updated_at": "2026-09-09 12:17",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1788885021-8pWyTLd2IpgmCkdkCQm8WCqhJj2aLiyI",
+          "title": "iad1::1788923625-t3pz22aAtLeShNQ6va5Rpdt0CHxyQ9sK",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1788885027-toDfvHhhyC0YQhNCBXrl5uyMsloajgsb",
+          "title": "iad1::1788923631-PShlhVA6Rwno7hOTOVUTitWrbCVTBRDk",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1788885032-C3lU66xknoqYKtYF8XUsPppYnCslFIRd",
+          "title": "iad1::1788923637-QUnYMdaJYCqXKUVvvBffzC5QT02hpb8w",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -189,111 +189,8 @@
     {
       "name": "시행착오",
       "url": "https://shco.co.kr/66",
-      "courses": [
-        {
-          "title": "Alarm",
-          "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": "https://shco.co.kr/66/common/img/default_profile.png"
-        },
-        {
-          "title": "마이페이지 로그아웃",
-          "date": "",
-          "link": "https://shco.co.kr/login?back_url=L3Nob3BfbXlwYWdl&type=mypage",
-          "thumbnail": ""
-        },
-        {
-          "title": "시행착오란",
-          "date": "",
-          "link": "https://shco.co.kr/85",
-          "thumbnail": ""
-        },
-        {
-          "title": "무료특강",
-          "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": ""
-        },
-        {
-          "title": "프리미엄 강의 프리미엄 강의 VOD 기초강의",
-          "date": "",
-          "link": "https://shco.co.kr/21",
-          "thumbnail": ""
-        },
-        {
-          "title": "프리미엄 강의",
-          "date": "",
-          "link": "https://shco.co.kr/21",
-          "thumbnail": ""
-        },
-        {
-          "title": "VOD 기초강의",
-          "date": "",
-          "link": "https://shco.co.kr/89",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 라인업 강사 목록 강사 지원하기",
-          "date": "",
-          "link": "https://shco.co.kr/83",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 목록",
-          "date": "",
-          "link": "https://shco.co.kr/83",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 지원하기",
-          "date": "",
-          "link": "https://shco.co.kr/80",
-          "thumbnail": ""
-        },
-        {
-          "title": "성장 라운지 수강생 후기 수강생 성과",
-          "date": "",
-          "link": "https://shco.co.kr/76",
-          "thumbnail": ""
-        },
-        {
-          "title": "수강생 후기",
-          "date": "",
-          "link": "https://shco.co.kr/76",
-          "thumbnail": ""
-        },
-        {
-          "title": "수강생 성과",
-          "date": "",
-          "link": "https://shco.co.kr/91",
-          "thumbnail": ""
-        },
-        {
-          "title": "시행착오란",
-          "date": "",
-          "link": "https://shco.co.kr/85",
-          "thumbnail": ""
-        },
-        {
-          "title": "무료특강",
-          "date": "",
-          "link": "https://shco.co.kr/66",
-          "thumbnail": ""
-        },
-        {
-          "title": "프리미엄 강의",
-          "date": "",
-          "link": "https://shco.co.kr/21",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 라인업",
-          "date": "",
-          "link": "https://shco.co.kr/83",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://shco.co.kr/66\", waiting until \"networkidle\"\n"
     },
     {
       "name": "엔잡연구소",
@@ -301,12 +198,6 @@
       "courses": [
         {
           "title": "3초 카톡플친하면 매일 무료 강의 소식이 옵니다.",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[준모닝] 글로벌 트렌드 조회수 터지는 중국 숏드라마로 월 1000 수익화 노하우",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -355,6 +246,12 @@
         },
         {
           "title": "상호 : N잡연구소(엔잡연구소)",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "대표이사 : 정준호 l 개인정보책임관리자 : 정준호",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
