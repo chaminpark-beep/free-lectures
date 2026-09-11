@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11 12:12",
+  "updated_at": "2026-09-12 01:24",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1789096132-vNMhfvdJshkUEFJyhabYWc7tb5BOFTxr",
+          "title": "iad1::1789143626-t92PY9RMfdJzIrBWSYhWbMWg6O0KfdXk",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1789096138-1mEUZajkG3p5jIm3JZBK4m19PkikZOW8",
+          "title": "iad1::1789143632-IiSsgF9HFAvX9oUyazqmoEbt66hhY5N5",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1789096144-Xhg4E7XNacOTdT1odgQAmiyfFb9lmEUn",
+          "title": "iad1::1789143638-grs1WEiv9pDRZNknp8xZ6BmTDL4LQxQK",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -330,6 +330,18 @@
           "thumbnail": ""
         },
         {
+          "title": "[셀팜]주제만 넣으면 터지는 영상이 뚝딱! 나만의 캐릭터로 월 300 유튜브 수익화",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "[주노정] 180억 미디어사업가 주노정의 콘텐츠 수익화 원데이 클래스",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
           "title": "무료특강 일정 알림을",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
@@ -343,18 +355,6 @@
         },
         {
           "title": "주식회사 티티에이컴퍼니",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "상호 : N잡연구소(엔잡연구소)",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "대표이사 : 정준호 l 개인정보책임관리자 : 정준호",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -687,12 +687,6 @@
           "date": "",
           "link": "https://www.tpschool.co.kr/classes/215059",
           "thumbnail": "https://cdn.liveklass.com/course/01a0228eb1197c8999f2badd90b0c515.png.medium"
-        },
-        {
-          "title": "[티나] 한번만 세팅하면 끝! 하루 10분 월 300 AI 공간임대 수익화 마스터 클래스 (12개월 무이자 지원)",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/classes/317045",
-          "thumbnail": "https://cdn.liveklass.com/course/01a0671352597a389411aa277193d975.png.medium"
         }
       ],
       "error": null
@@ -872,69 +866,8 @@
     {
       "name": "프레스런",
       "url": "https://presslearn.co.kr/fc",
-      "courses": [
-        {
-          "title": "네이버 카페로 월 천만 원 달성한 수익화 비법[9월 17일]",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "집에서 누구나 하루 1시간 수익 만드는 비밀[10월 8일]",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "매일 1시간 구글 부업으로 두 번째 월급 만들기 무료 강의",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "네이버로 누구나 만드는 두 번째 월급 만들기 무료 강의",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "일\t월\t화\t수\t목\t금\t토",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "30\t31\t1\t2\t3\t4\t5",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "6\t7\t8\t9\t10\t11\t12",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "13\t14\t15\t16\t17",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "20\t21\t22\t23\t24\t25\t26",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "27\t28\t29\t30\t1\t2\t3",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://presslearn.co.kr/fc\", waiting until \"networkidle\"\n"
     },
     {
       "name": "인사이트머니랩",
@@ -1061,129 +994,8 @@
     {
       "name": "클래스101",
       "url": "https://class101.net/ko/live",
-      "courses": [
-        {
-          "title": "오늘 11",
-          "date": "",
-          "link": "https://class101.net/ko/live",
-          "thumbnail": ""
-        },
-        {
-          "title": "토 12",
-          "date": "",
-          "link": "https://class101.net/ko/live",
-          "thumbnail": ""
-        },
-        {
-          "title": "일 13",
-          "date": "",
-          "link": "https://class101.net/ko/live",
-          "thumbnail": ""
-        },
-        {
-          "title": "월 14",
-          "date": "",
-          "link": "https://class101.net/ko/live",
-          "thumbnail": ""
-        },
-        {
-          "title": "화 15",
-          "date": "",
-          "link": "https://class101.net/ko/live",
-          "thumbnail": ""
-        },
-        {
-          "title": "수 16",
-          "date": "",
-          "link": "https://class101.net/ko/live",
-          "thumbnail": ""
-        },
-        {
-          "title": "목 17",
-          "date": "",
-          "link": "https://class101.net/ko/live",
-          "thumbnail": ""
-        },
-        {
-          "title": "금 18",
-          "date": "",
-          "link": "https://class101.net/ko/live",
-          "thumbnail": ""
-        },
-        {
-          "title": "토 19",
-          "date": "",
-          "link": "https://class101.net/ko/live",
-          "thumbnail": ""
-        },
-        {
-          "title": "일 20",
-          "date": "",
-          "link": "https://class101.net/ko/live",
-          "thumbnail": ""
-        },
-        {
-          "title": "월 21",
-          "date": "",
-          "link": "https://class101.net/ko/live",
-          "thumbnail": ""
-        },
-        {
-          "title": "화 22",
-          "date": "",
-          "link": "https://class101.net/ko/live",
-          "thumbnail": ""
-        },
-        {
-          "title": "수 23",
-          "date": "",
-          "link": "https://class101.net/ko/live",
-          "thumbnail": ""
-        },
-        {
-          "title": "목 24",
-          "date": "",
-          "link": "https://class101.net/ko/live",
-          "thumbnail": ""
-        },
-        {
-          "title": "금 25",
-          "date": "",
-          "link": "https://class101.net/ko/live",
-          "thumbnail": ""
-        },
-        {
-          "title": "토 26",
-          "date": "",
-          "link": "https://class101.net/ko/live",
-          "thumbnail": ""
-        },
-        {
-          "title": "일 27",
-          "date": "",
-          "link": "https://class101.net/ko/live",
-          "thumbnail": ""
-        },
-        {
-          "title": "월 28",
-          "date": "",
-          "link": "https://class101.net/ko/live",
-          "thumbnail": ""
-        },
-        {
-          "title": "화 29",
-          "date": "",
-          "link": "https://class101.net/ko/live",
-          "thumbnail": ""
-        },
-        {
-          "title": "수 30",
-          "date": "",
-          "link": "https://class101.net/ko/live",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://class101.net/ko/live\", waiting until \"networkidle\"\n"
     },
     {
       "name": "부자친구들",
