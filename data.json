@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12 12:19",
+  "updated_at": "2026-09-13 00:29",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1789182905-CSrbiUZAVVbj9iFG0pVdlgMhZWflbVop",
+          "title": "iad1::1789226738-pjHU8nkwQsovG6udlCarHuPexPLtx9ZV",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1789182911-yAeJwFm7ptLFs8mo8fzdacajnlTdNXPg",
+          "title": "iad1::1789226744-dwlhf16sug7Doi7evWG8GFn2goXV58rd",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1789182917-1KavHxv5g0rjBlHnvkcX18NzUV733tmv",
+          "title": "iad1::1789226750-ziMRrdYKZwsPeYc3XR2aPf9yh8lLC2RR",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -866,8 +866,69 @@
     {
       "name": "프레스런",
       "url": "https://presslearn.co.kr/fc",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://presslearn.co.kr/fc\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "네이버 카페로 월 천만 원 달성한 수익화 비법[9월 17일]",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "집에서 누구나 하루 1시간 수익 만드는 비밀[10월 8일]",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "매일 1시간 구글 부업으로 두 번째 월급 만들기 무료 강의",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "네이버로 누구나 만드는 두 번째 월급 만들기 무료 강의",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "일\t월\t화\t수\t목\t금\t토",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "30\t31\t1\t2\t3\t4\t5",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "6\t7\t8\t9\t10\t11\t12",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "13\t14\t15\t16\t17",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "20\t21\t22\t23\t24\t25\t26",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        },
+        {
+          "title": "27\t28\t29\t30\t1\t2\t3",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "인사이트머니랩",
