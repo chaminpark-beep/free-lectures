@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17 01:44",
+  "updated_at": "2026-09-17 12:37",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1789576846-bOzQlU7Ejq1ftK7XURaSwQ6i60NP4dSc",
+          "title": "cle1::1789616015-4BYCiWUW0kxjCqC1oBJRgEeKSi4Sd03l",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1789576852-VysSsuM93e17yLmc1W37Dov3SKs0JO7j",
+          "title": "cle1::1789616021-BvzBJGPqBCaPixE7mfoeFW2XhWKvf2vb",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1789576858-tNX8LiGJrTF8zN1bKokKCOhcKKzjtGlT",
+          "title": "cle1::1789616027-0EYRubCPhhH9AQEMKmvYdrdBasw7XT13",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -88,12 +88,6 @@
         },
         {
           "title": "무자본, 무재고, 무광고! 산후조리원비 다 뽑고도 전문직 연봉 2배 번 비밀",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "하루 40분으로 5일만에 순수익 200만원! 중국드라마 쇼츠 부업",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -139,6 +133,12 @@
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
+        },
+        {
+          "title": "카톡 하나로 월 1천만원 추가 자동수익 만든 방법",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
         }
       ],
       "error": null
@@ -178,10 +178,10 @@
           "thumbnail": ""
         },
         {
-          "title": "Previous Next 1 2 3 4 5 6 7",
+          "title": "Previous Next 1 2 3 4 5 6 7 8",
           "date": "",
-          "link": "https://www.millmus.com/lecture/detail/919",
-          "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2F1998e9fd-c543-44aa-a8fd-263912380e67.png&w=3840&q=75"
+          "link": "https://www.millmus.com/lecture/detail/931",
+          "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2F3d209d42-fb99-4174-9c0a-a5b0f88f98d2.png&w=3840&q=75"
         }
       ],
       "error": null
@@ -306,12 +306,6 @@
           "thumbnail": ""
         },
         {
-          "title": "[인피디]사진 한 장으로 월 천 번 인스타 캐러셀 수익화 노하우",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
           "title": "[코끼리] 집에서 혼자서도 가능! AI로 왕초보도 가능한 초간단 1인 퍼스널 브랜드 숏폼대행",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
@@ -355,6 +349,12 @@
         },
         {
           "title": "상호 : N잡연구소(엔잡연구소)",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "대표이사 : 정준호 l 개인정보책임관리자 : 정준호",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
