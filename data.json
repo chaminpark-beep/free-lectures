@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22 03:13",
+  "updated_at": "2026-09-22 12:30",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1790014173-V9Ci4EtG8zVyeQq1XgUfVWUoNgAPzk2B",
+          "title": "cle1::1790047609-fo5OVVXIRS4OJC85knVkeiANPBOFIk0D",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1790014179-E9P7AcOEaTWU3I71I8plipZODB9UWhKv",
+          "title": "cle1::1790047615-D1tfX2xL2LbwVpUPYNCIVBdQAvMnl2xp",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1790014185-TduPrE1zG5SgNTUg3CknG6YRBS2957a0",
+          "title": "cle1::1790047621-sruIvbr21SleSgcMrZO7ljHh2B02Va6K",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -123,6 +123,12 @@
           "thumbnail": ""
         },
         {
+          "title": "1달에 부업으로 2천만원?! 화장품 비밀창고 부업",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
           "title": "인베이더스쿨 주식회사",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
@@ -130,12 +136,6 @@
         },
         {
           "title": "주소: 서울특별시 서초구 강남대로 631, 1514호(잠원동, 크레신타워1차)",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "사업자등록번호 : 478-86-03709",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -440,6 +440,12 @@
           "thumbnail": ""
         },
         {
+          "title": "[무료강의] AI 버티컬 커머스",
+          "date": "",
+          "link": "https://www.moneyupclass.com/free-courses",
+          "thumbnail": ""
+        },
+        {
           "title": "머니업클래스 채용공고",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
@@ -471,12 +477,6 @@
         },
         {
           "title": "핏크닉은 통신판매중개자로서 중개하는 거래에 대하여 책임을 부담하지 않습니다.",
-          "date": "",
-          "link": "https://www.moneyupclass.com/free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "고객센터 채널톡 바로가기",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
           "thumbnail": ""
@@ -677,10 +677,22 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "403 Forbidden",
+          "title": "퇴사 성공! 내가 좋아하는 취미로 월 300 소모임 수익화",
           "date": "",
-          "link": "https://www.tpschool.co.kr/p/webinar",
+          "link": "https://www.tpschool.co.kr/classes/318660",
           "thumbnail": ""
+        },
+        {
+          "title": "[미스멍디] 똥손도 월 1억 찍은 AI 인스타툰 수익화 노하우 무료특강",
+          "date": "",
+          "link": "https://www.tpschool.co.kr/classes/215059",
+          "thumbnail": "https://cdn.liveklass.com/course/01a0228eb1197c8999f2badd90b0c515.png.medium"
+        },
+        {
+          "title": "[미스멍디] 똥손도 월 300이상 버는 AI 인스타툰 수익화 마스터 클래스 (12개월 무이자 지원)",
+          "date": "",
+          "link": "https://www.tpschool.co.kr/classes/317237",
+          "thumbnail": "https://cdn.liveklass.com/course/01a0aaae1e2270c2a33e6dab4a169bd6.png.medium"
         }
       ],
       "error": null
@@ -696,10 +708,70 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "403 Forbidden",
+          "title": "무재고 유통 무료특강",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/306150",
+          "thumbnail": "https://cdn.liveklass.com/course/01a08e45b53474bb9304ebad5be4e268.jpeg.medium"
+        },
+        {
+          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰 H 공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/306150",
+          "thumbnail": "https://cdn.liveklass.com/course/01a08e45b53474bb9304ebad5be4e268.jpeg.medium"
+        },
+        {
+          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰 H 공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/306150",
+          "thumbnail": ""
+        },
+        {
+          "title": "강의 돈버는형님들 강사 5.0 (503)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
+        },
+        {
+          "title": "돈버는형님들 강사",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "5.0 (503)",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰 H",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/306150",
+          "thumbnail": ""
+        },
+        {
+          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰 H",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "자세히 보기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "초보자도 월 500 목표 현금 자판기, AI 자동화 위탁 판매",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/304200",
+          "thumbnail": "https://cdn.liveklass.com/course/01a0b2117b757a15b7b0b1955f9f86b4.jpeg.medium"
         }
       ],
       "error": null
@@ -759,7 +831,7 @@
           "thumbnail": ""
         },
         {
-          "title": "AI로 영상 만들어 2년 10억 매출 낸 틱톡쇼핑!",
+          "title": "AI 영상으로 시작하는 틱톡쇼핑 무료 특강",
           "date": "",
           "link": "https://www.peterpanschool.co.kr/courses/free",
           "thumbnail": ""
