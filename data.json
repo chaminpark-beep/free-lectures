@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22 12:30",
+  "updated_at": "2026-09-23 01:50",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1790047609-fo5OVVXIRS4OJC85knVkeiANPBOFIk0D",
+          "title": "sfo1::1790095582-asMttVyQbOuwou3EYKP2hZiALqQNR7dk",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1790047615-D1tfX2xL2LbwVpUPYNCIVBdQAvMnl2xp",
+          "title": "sfo1::1790095588-lYSQ7rjhLBDnjv192F6erIQdo45Fj6Af",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1790047621-sruIvbr21SleSgcMrZO7ljHh2B02Va6K",
+          "title": "sfo1::1790095594-Baeu7a4pJXarOd3I7o2W6YvkH2FyZ7DH",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -178,7 +178,7 @@
           "thumbnail": ""
         },
         {
-          "title": "Previous Next 1 2 3 4 5 6 7",
+          "title": "Previous Next 1 2 3 4 5 6",
           "date": "",
           "link": "https://www.millmus.com/lecture/detail/931",
           "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2F3d209d42-fb99-4174-9c0a-a5b0f88f98d2.png&w=3840&q=75"
@@ -306,12 +306,6 @@
           "thumbnail": ""
         },
         {
-          "title": "[에어]50대도 월 300! AI 콘텐츠 연결 부업",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
           "title": "[셀팜]주제만 넣으면 터지는 영상이 뚝딱! 나만의 캐릭터로 월 300 유튜브 수익화",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
@@ -319,6 +313,12 @@
         },
         {
           "title": "[현우] 사주 몰라도 OK! 글 2줄로 복채 받기 AI사주로 월 300번 노하우",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "[설아] 하루 20분이면 가능! 초간단 AI 플레이리스트 월 100만원 프로젝트",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -726,7 +726,7 @@
           "thumbnail": ""
         },
         {
-          "title": "강의 돈버는형님들 강사 5.0 (503)",
+          "title": "강의 돈버는형님들 강사 5.0 (504)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
@@ -738,7 +738,7 @@
           "thumbnail": ""
         },
         {
-          "title": "5.0 (503)",
+          "title": "5.0 (504)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
@@ -1008,7 +1008,55 @@
       "url": "https://buchinclass.com/class?mainCategory=5",
       "courses": [
         {
-          "title": "[정우석] 방 하나로 월 1,000 나만의 독점상권에서 혼자 돈 버는 호스텔 올인원 정우석 0.0 (0개) 무료 [원성환] 썩은 빌라로 소액 경",
+          "title": "[우르] 구매없이 월 4천만 원 버는 쉬운 부업 바이마 역직구 노하우 무료공개 우르 0.0 (0개) 무료 [사전대기] 3천으로 20억 만든 소액",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[우르] 구매없이 월 4천만 원 버는 쉬운 부업 바이마 역직구 노하우 무료공개 우르 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[우르] 구매없이 월 4천만 원 버는 쉬운 부업 바이마 역직구 노하우 무료공개 우르 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[우르] 구매없이 월 4천만 원 버는 쉬운 부업 바이마 역직구 노하우 무료공개",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "우르 0.0 (0개)",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[사전대기] 3천으로 20억 만든 소액 노후빌라 재개발 투자 끝판왕 손가네 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[사전대기] 3천으로 20억 만든 소액 노후빌라 재개발 투자 끝판왕 손가네 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[사전대기] 3천으로 20억 만든 소액 노후빌라 재개발 투자 끝판왕",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "손가네 0.0 (0개)",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
@@ -1027,60 +1075,6 @@
         },
         {
           "title": "[정우석] 방 하나로 월 1,000 나만의 독점상권에서 혼자 돈 버는 호스텔 올인원",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "정우석 0.0 (0개)",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[원성환] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[원성환] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[원성환] 썩은 빌라로 소액 경매 단타 부수기 끝판왕",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "원성환 0.0 (0개)",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[5기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[5기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[5기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "원성환 0.0 (0개)",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
