@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27 01:18",
+  "updated_at": "2026-09-27 12:53",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1790439297-yIpG0IsZGaZSOq60PAioy18VuuWDxpbG",
+          "title": "iad1::1790480960-1YrRRz9bZIGhN9b0SeSj984aqKYAOvPu",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1790439303-i2wh0PtOo43lsSIbkFAUg86vMI2gQEeD",
+          "title": "iad1::1790480966-8if9soF6RVUEyKB0MXkFJjERr3ykLcUq",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1790439309-eNZUrW4yLOTVwAfjSFTO3Qu0obXpHBgw",
+          "title": "iad1::1790480972-50c3WntnENMJBqWTexSlhTFLVy0esB1V",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -677,10 +677,16 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "403 Forbidden",
+          "title": "퇴사 성공! 내가 좋아하는 취미로 월 300 소모임 수익화",
           "date": "",
-          "link": "https://www.tpschool.co.kr/p/webinar",
+          "link": "https://www.tpschool.co.kr/classes/318660",
           "thumbnail": ""
+        },
+        {
+          "title": "[줄리아] 업종불문! 연매출 100억 만든 고단가 세일즈 18단계 공식 무료특강",
+          "date": "",
+          "link": "https://www.tpschool.co.kr/classes/268696",
+          "thumbnail": "https://cdn.liveklass.com/course/01a084f81b057858822c1fde1269e83c.png.medium"
         }
       ],
       "error": null
@@ -696,10 +702,70 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "403 Forbidden",
+          "title": "무재고 유통 무료특강",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/306150",
+          "thumbnail": "https://cdn.liveklass.com/course/01a08e45b53474bb9304ebad5be4e268.jpeg.medium"
+        },
+        {
+          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰 H 공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/306150",
+          "thumbnail": "https://cdn.liveklass.com/course/01a08e45b53474bb9304ebad5be4e268.jpeg.medium"
+        },
+        {
+          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰 H 공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/306150",
+          "thumbnail": ""
+        },
+        {
+          "title": "강의 돈버는형님들 강사 5.0 (520)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
+        },
+        {
+          "title": "돈버는형님들 강사",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "5.0 (520)",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰 H",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/306150",
+          "thumbnail": ""
+        },
+        {
+          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰 H",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "자세히 보기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "초보자도 월 500 목표 현금 자판기, AI 자동화 위탁 판매",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/304200",
+          "thumbnail": "https://cdn.liveklass.com/course/01a0b2117b757a15b7b0b1955f9f86b4.jpeg.medium"
         }
       ],
       "error": null
