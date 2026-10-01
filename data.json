@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01 03:00",
+  "updated_at": "2026-10-01 13:23",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1790790961-qDVwgTG3sjv9Q2eKp1vEfsnykke3ex5l",
+          "title": "iad1::1790828346-wsZEzvowKon0AB0hQrP9jjuPIfj5E3cV",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1790790967-eeoTQhsWaCU56LFWKgH1UJqZlUadvjgO",
+          "title": "iad1::1790828352-x7UahXnUVlJv3A8IIXqsg9nxtEMJJ5l8",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1790790973-XV5zIPv1m4dukLBxFohGIX5fh0SXXDsf",
+          "title": "iad1::1790828358-09i8TiW0dmBMEwOhfwAZwQH4qsWEQfrh",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -616,22 +616,10 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "퇴사 성공! 내가 좋아하는 취미로 월 300 소모임 수익화",
+          "title": "403 Forbidden",
           "date": "",
-          "link": "https://www.tpschool.co.kr/classes/318660",
+          "link": "https://www.tpschool.co.kr/p/webinar",
           "thumbnail": ""
-        },
-        {
-          "title": "[줄리아] 업종불문! 연매출 100억 만든 고단가 세일즈 18단계 공식 무료특강",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/classes/268696",
-          "thumbnail": "https://cdn.liveklass.com/course/01a084f81b057858822c1fde1269e83c.png.medium"
-        },
-        {
-          "title": "[줄리아] 업종불문! 연매출 100억 거절 당하지 않는 마그네틱 세일즈 18종 마스터 클래스 (12개월 무이자 지원)",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/classes/320051",
-          "thumbnail": "https://cdn.liveklass.com/course/1782818984202.png.medium"
         }
       ],
       "error": null
@@ -647,70 +635,10 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "무재고 유통 무료특강",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/306150",
-          "thumbnail": "https://cdn.liveklass.com/course/01a08e45b53474bb9304ebad5be4e268.jpeg.medium"
-        },
-        {
-          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰 공유하기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/306150",
-          "thumbnail": "https://cdn.liveklass.com/course/01a08e45b53474bb9304ebad5be4e268.jpeg.medium"
-        },
-        {
-          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰 공유하기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/306150",
-          "thumbnail": ""
-        },
-        {
-          "title": "강의 돈버는형님들 강사 5.0 (539)",
+          "title": "403 Forbidden",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
-        },
-        {
-          "title": "돈버는형님들 강사",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "5.0 (539)",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/306150",
-          "thumbnail": ""
-        },
-        {
-          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "공유하기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "자세히 보기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "초보자도 월 500 목표 현금 자판기, AI 자동화 위탁 판매",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/304200",
-          "thumbnail": "https://cdn.liveklass.com/course/01a0b2117b757a15b7b0b1955f9f86b4.jpeg.medium"
         }
       ],
       "error": null
@@ -811,69 +739,8 @@
     {
       "name": "프레스런",
       "url": "https://presslearn.co.kr/fc",
-      "courses": [
-        {
-          "title": "집에서 누구나 하루 1시간 수익 만드는 비밀[10월 8일]",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "매일 1시간 구글 부업으로 두 번째 월급 만들기 무료 강의",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "네이버로 누구나 만드는 두 번째 월급 만들기 무료 강의",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "일\t월\t화\t수\t목\t금\t토",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "27\t28\t29\t30\t1\t2\t3",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "13\t14\t15\t16\t17",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "18\t19\t20\t21\t22\t23\t24",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "25\t26\t27\t28\t29\t30\t31",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "1\t2\t3\t4\t5\t6\t7",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "10월 08일(목) 19시 30분",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://presslearn.co.kr/fc\", waiting until \"networkidle\"\n"
     },
     {
       "name": "인사이트머니랩",
@@ -1008,31 +875,31 @@
       "url": "https://buchinclass.com/class?mainCategory=5",
       "courses": [
         {
-          "title": "[우르] 구매없이 월 4천만 원 만든 쉬운 부업 바이마 역직구 노하우 무료공개 우르 0.0 (0개) 무료 [사전대기] 3천으로 20억 만든 소액",
+          "title": "[현명환] 구매없이 월 4천만 원 만든 쉬운 부업 바이마 역직구 노하우 무료공개 현명환 0.0 (0개) 무료 [사전대기] 3천으로 20억 만든 ",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
         },
         {
-          "title": "[우르] 구매없이 월 4천만 원 만든 쉬운 부업 바이마 역직구 노하우 무료공개 우르 0.0 (0개) 무료",
+          "title": "[현명환] 구매없이 월 4천만 원 만든 쉬운 부업 바이마 역직구 노하우 무료공개 현명환 0.0 (0개) 무료",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
         },
         {
-          "title": "[우르] 구매없이 월 4천만 원 만든 쉬운 부업 바이마 역직구 노하우 무료공개 우르 0.0 (0개) 무료",
+          "title": "[현명환] 구매없이 월 4천만 원 만든 쉬운 부업 바이마 역직구 노하우 무료공개 현명환 0.0 (0개) 무료",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
         },
         {
-          "title": "[우르] 구매없이 월 4천만 원 만든 쉬운 부업 바이마 역직구 노하우 무료공개",
+          "title": "[현명환] 구매없이 월 4천만 원 만든 쉬운 부업 바이마 역직구 노하우 무료공개",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
         },
         {
-          "title": "우르 0.0 (0개)",
+          "title": "현명환 0.0 (0개)",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
