@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03 12:58",
+  "updated_at": "2026-10-04 01:10",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1790999680-Ra28gy0StmnAo3QpGTDRA2tQvG1hXKXN",
+          "title": "iad1::1791043601-gGLA8noQjsf9LBwu9PJnsKHumjSTj0j5",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1790999686-GpYv6DG3FLTPkDDJsP9KGMysgC0fjsXG",
+          "title": "iad1::1791043607-1AhaeoTFgX5zciiVCBYySGLG9V54OBu6",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1790999692-6QUuMuGvTSaTJuWFmy8lNPKkxyESsrgk",
+          "title": "iad1::1791043613-tHeyLGUA6PC9tsXZnD1z9igmu24I2jSC",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -80,12 +80,6 @@
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
       "courses": [
-        {
-          "title": "[일본예능쇼츠] 일본인은 못하는 일본 예능쇼츠부업",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
         {
           "title": "광고비 단돈 3천원으로, 쿠팡에서 월 6,000만원! 영양제 수익화 종합특강",
           "date": "",
@@ -136,6 +130,12 @@
         },
         {
           "title": "내향인도 가능한 9달 쉬고 3달만 일해서 남들 연봉 벌기!",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "인스타 계정만 있으면 할 수 있는 출퇴근길 30분 강추 부업",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -872,69 +872,8 @@
     {
       "name": "프레스런",
       "url": "https://presslearn.co.kr/fc",
-      "courses": [
-        {
-          "title": "집에서 누구나 하루 1시간 수익 만드는 비밀[10월 8일]",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "매일 1시간 구글 부업으로 두 번째 월급 만들기 무료 강의",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "네이버로 누구나 만드는 두 번째 월급 만들기 무료 강의",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "일\t월\t화\t수\t목\t금\t토",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "27\t28\t29\t30\t1\t2\t3",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "13\t14\t15\t16\t17",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "18\t19\t20\t21\t22\t23\t24",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "25\t26\t27\t28\t29\t30\t31",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "1\t2\t3\t4\t5\t6\t7",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        },
-        {
-          "title": "10월 08일(목) 19시 30분",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://presslearn.co.kr/fc\", waiting until \"networkidle\"\n"
     },
     {
       "name": "인사이트머니랩",
@@ -1049,8 +988,87 @@
     {
       "name": "부자친구들",
       "url": "https://buchinclass.com/class?mainCategory=5",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://buchinclass.com/class?mainCategory=5\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "[조이] 규제없이 무한확장 가능한 엔코스테이로 4억 6천 번 노하우 무료공개 사전신청 열정 조이 0.0 (0개) 무료 [온과장] 하루 2시간으로",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[조이] 규제없이 무한확장 가능한 엔코스테이로 4억 6천 번 노하우 무료공개 사전신청 열정 조이 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[조이] 규제없이 무한확장 가능한 엔코스테이로 4억 6천 번 노하우 무료공개 사전신청 열정 조이 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[조이] 규제없이 무한확장 가능한 엔코스테이로 4억 6천 번 노하우 무료공개 사전신청",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "열정 조이 0.0 (0개)",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[온과장] 하루 2시간으로 월 300만든 재고 없이 시작하는 온라인 과일장사 올인원 온과장 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[온과장] 하루 2시간으로 월 300만든 재고 없이 시작하는 온라인 과일장사 올인원 온과장 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[온과장] 하루 2시간으로 월 300만든 재고 없이 시작하는 온라인 과일장사 올인원",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "온과장 0.0 (0개)",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[현명환] 구매없이 월 4천만 원 만든 쉬운 부업 바이마 역직구 노하우 무료공개 현명환 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[현명환] 구매없이 월 4천만 원 만든 쉬운 부업 바이마 역직구 노하우 무료공개 현명환 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[현명환] 구매없이 월 4천만 원 만든 쉬운 부업 바이마 역직구 노하우 무료공개",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "현명환 0.0 (0개)",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     }
   ]
 }
