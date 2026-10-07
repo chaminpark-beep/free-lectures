@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07 13:31",
+  "updated_at": "2026-10-08 03:52",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1791347281-CSBg2Kvg3kkbxq2ph7Y8Z9JmtqW3mCO6",
+          "title": "cle1::1791398915-JGEcyYPZUYExaLqYnoC4QfGcIgko9sRU",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1791347287-eqV8NWoeVv9LDAz6lGbYt8RP2bclC3qH",
+          "title": "cle1::1791398921-wlRjQM2ffcgrG5o2JZUhHsx93BoINol8",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1791347293-oVLgf6yeL6n2ClvsHfOzBByrtxfTkRvk",
+          "title": "cle1::1791398927-Pd5Fz85apO3EXpbe4d2gDaQylJCmoipo",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -117,7 +117,7 @@
           "thumbnail": ""
         },
         {
-          "title": "하루 40분으로 5일만에 순수익 200만원! 중국드라마 쇼츠 부업",
+          "title": "300개 채널 운영! 유튜브 9년차가 선택한 쇼핑쇼츠 부업",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -330,7 +330,13 @@
           "thumbnail": ""
         },
         {
-          "title": "[김해준] 부업으로 시작하는 AI 콘텐츠 대행 노하우",
+          "title": "[디노] 광고비 0원! 백억디노의 AI 해외구매대행 실전 클래스",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "[김해준] 노트북 한 대로 시작하는 AI 콘텐츠 대행 노하우",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -349,12 +355,6 @@
         },
         {
           "title": "강사 신청 및 협업제안",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "주식회사 티티에이컴퍼니",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -677,7 +677,7 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "얼굴 노출 안해도 OK! 무자본으로 월 1억 만든 공동구매 중개 수익화",
+          "title": "인스타 계정 키우기 없이 무자본 인스타로 월 1억 만든 공동구매 소개 수익화",
           "date": "",
           "link": "https://www.tpschool.co.kr/classes/319916",
           "thumbnail": ""
@@ -687,6 +687,12 @@
           "date": "",
           "link": "https://www.tpschool.co.kr/classes/318660",
           "thumbnail": "https://cdn.liveklass.com/course/01a0b3655eeb7e8eab546d85066f9ab9.png.medium"
+        },
+        {
+          "title": "[조창오] 무자본으로 시작해 월 3000! 커뮤니티 수익화 마스터 클래스 (12개월 무이자 지원)",
+          "date": "",
+          "link": "https://www.tpschool.co.kr/classes/321062",
+          "thumbnail": "https://cdn.liveklass.com/course/01a1158a57e47e83a7fba3e25cce723d.png.medium"
         }
       ],
       "error": null
