@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14 12:43",
+  "updated_at": "2026-10-15 02:04",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1791949150-tWPn7h4DQWEZn3GMeqasXjz7e5uP70uq",
+          "title": "sfo1::1791997216-YdJEcoVCKQlfX2QzEmjJauwjpqinbbfy",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1791949156-wQMzEPfiirbJ5hSzxUaPVlIHPkKh9lb6",
+          "title": "sfo1::1791997222-fnf1R3KXK0KxLn6ROKSHLgFhnOyaKrEU",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1791949163-F6IEVLy0aDDgHAZ6YitXluNdfIfzTbKZ",
+          "title": "sfo1::1791997228-ewjW6AIN6El58WC9WzbsFlqoroLL5NYN",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -239,19 +239,13 @@
       "url": "https://www.nlab.kr/courses?categoryId=free-courses",
       "courses": [
         {
-          "title": "👨‍👩‍👧‍👦 60대 엄마 아빠도 가능한 쿠팡 판매 비법 자료(PDF) 무료 나눔",
+          "title": "컴맹, 육아맘, 직장인도 가능한 쇼핑 쇼츠  노하우 자료(PDF) 무료 나눔",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
         },
         {
           "title": "3초 카톡플친하면 매일 무료 강의 소식이 옵니다.",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[배우는윤쇼]쿠팡으로 건강식품 판매 시작하는 법",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -294,6 +288,12 @@
         },
         {
           "title": "강사 신청 및 협업제안",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "주식회사 티티에이컴퍼니",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -735,20 +735,20 @@
         {
           "title": "AI 숏폼 공장 수익화 무료강의",
           "date": "",
-          "link": "https://moneyroot.co.kr/shop/product/view?product_id=68",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_06_4.png"
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=68&event=6a61797f059d0",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_06_4_de.png"
         },
         {
           "title": "AI 숏폼 공장 수익화 무료강의",
           "date": "",
-          "link": "https://moneyroot.co.kr/shop/product/view?product_id=68",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_06_4.png"
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=68&event=6a61797f059d0",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_06_4_de.png"
         },
         {
           "title": "AI 숏폼 공장 수익화 무료강의",
           "date": "",
-          "link": "https://moneyroot.co.kr/shop/product/view?product_id=68",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_06_4.png"
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=68&event=6a61797f059d0",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_06_4_de.png"
         }
       ],
       "error": null
