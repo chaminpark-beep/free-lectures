@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19 00:49",
+  "updated_at": "2026-10-19 12:26",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1792338311-RFGl10kFqFF4rJGTo6pnbYrDf90QIQz4",
+          "title": "iad1::1792380147-dzurbLUnx4FmA7zRIJoQ1lnoRId6pNeZ",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1792338318-sd4wSozgrgrPHjGgCiuI8xY7zxeyVKv9",
+          "title": "iad1::1792380153-T5845eILxWJIRn47LcX31IhUapBJCCUI",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1792338324-tVHy8QPUi51bQLBAs5V5mftCjQ21DsbY",
+          "title": "iad1::1792380159-i5pfePFPa09PscLE3ErAgdncSDLfsHTj",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -80,12 +80,6 @@
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
       "courses": [
-        {
-          "title": "영상 촬영/편집 없이 연결 만으로 2달만에 720만 원 번 부업",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
         {
           "title": "1달에 부업으로 2천만원?! 화장품 비밀창고 부업",
           "date": "",
@@ -136,6 +130,12 @@
         },
         {
           "title": "내 집 없이 시작하는 해외 숙박업으로 돈 버는 법",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "돈 되는 자리만 골라 시작하는 자판남의 자판기 부업 A to Z",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -452,6 +452,12 @@
           "thumbnail": ""
         },
         {
+          "title": "[무료강의] AI 유튜브 쇼핑 숏폼",
+          "date": "",
+          "link": "https://www.moneyupclass.com/free-courses",
+          "thumbnail": ""
+        },
+        {
           "title": "머니업클래스 채용공고",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
@@ -471,12 +477,6 @@
         },
         {
           "title": "환불접수 : help1@moneyupclass.com | 협업제휴문의 : contact@fitchnic.com",
-          "date": "",
-          "link": "https://www.moneyupclass.com/free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "개인정보관리책임자 : 김상원 | 대표번호 : 070-8057-9339 (전화상담 미운영/채널톡 문의)",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
           "thumbnail": ""
@@ -885,8 +885,51 @@
     {
       "name": "인사이트머니랩",
       "url": "https://insightmoneylab.com/course-category/free-class/",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://insightmoneylab.com/course-category/free-class/\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "[0원 강의] 억대 매출 찍어내는 콘텐츠 수익화 5단계",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        },
+        {
+          "title": "[0원 강의] 단기간 돈이 꽂히는 아파트 경매 끝판왕 패키지",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        },
+        {
+          "title": "10:00 ~ 18:00",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        },
+        {
+          "title": "help@insightmoneylab",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        },
+        {
+          "title": "주식회사 인사이트머니랩 대표이사 : 배종주 사업자번호 : 885-88-03051 l 통신판매신고번호 : 제2025-서울강남-06757",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        },
+        {
+          "title": "사업장주소 : 서울특별시 강남구 논현로71길 23-6, 3층 (역삼동) 고객센터 : 02-6958-7342",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        },
+        {
+          "title": "ⓒ 2024 인사이트머니랩. All rights reserved.",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "온부자",
