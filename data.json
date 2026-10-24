@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24 12:29",
+  "updated_at": "2026-10-25 00:50",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1792812272-BKrXdMoqwc6Ms9hy0L00j3m9465p3QGb",
+          "title": "sfo1::1792856822-cltt4HQa9nZ3vdUnfkuJFia6kWQGakXG",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1792812278-lwOrH19DYkTHsVgMXwzJYWGbK0LS3Feg",
+          "title": "sfo1::1792856828-Lnhgm0NUWN1jVWvvwAs4sPa2HUdmzdjX",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1792812284-xYMDwXCar7ly0TclAQZqaQ6VhHSukZKC",
+          "title": "sfo1::1792856835-AB3Ige3Twv7HI0o7QES1qiDTDHadRf7m",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -811,8 +811,21 @@
     {
       "name": "프레스런",
       "url": "https://presslearn.co.kr/fc",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://presslearn.co.kr/fc\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "프레스런",
+          "date": "",
+          "link": "https://presslearn.co.kr/",
+          "thumbnail": ""
+        },
+        {
+          "title": "무료 강의",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "인사이트머니랩",
@@ -941,7 +954,31 @@
       "url": "https://buchinclass.com/class?mainCategory=5",
       "courses": [
         {
-          "title": "[조이] 규제없이 무한확장 가능한 엔코스테이로 4억 6천 번 노하우 무료공개 사전신청 열정 조이 0.0 (0개) 무료 [온과장] 복숭아만 하루 ",
+          "title": "[홍아린] 퇴근 후 AI영상 1개로 건당 60만원 번 노하우 무료공개_만드는중 홍아린 0.0 (0개) 무료 [조이] 규제없이 무한확장 가능한 엔",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[홍아린] 퇴근 후 AI영상 1개로 건당 60만원 번 노하우 무료공개_만드는중 홍아린 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[홍아린] 퇴근 후 AI영상 1개로 건당 60만원 번 노하우 무료공개_만드는중 홍아린 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[홍아린] 퇴근 후 AI영상 1개로 건당 60만원 번 노하우 무료공개_만드는중",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "홍아린 0.0 (0개)",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
@@ -984,36 +1021,6 @@
         },
         {
           "title": "[온과장] 복숭아만 하루 1,200박스! 왕초보가 테무로 온라인 과일장수 되는 법",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "온과장 0.0 (0개)",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[6기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[6기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[6기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "원성환 0.0 (0개)",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
