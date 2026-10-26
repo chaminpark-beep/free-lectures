@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26 12:29",
+  "updated_at": "2026-10-27 03:40",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1792985149-McddPTyRdzyt6bbTJBMFBRBdLZQQfMQL",
+          "title": "cle1::1793039792-yW2nvP5nUsnpuFeRVUn21YytqZYrvpKx",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1792985155-kmRWDAKDqb2LyjP6NCDG03jmYzXAhNWA",
+          "title": "cle1::1793039798-sRNvnPgOyL7TdYJA7zfuyIXzfLjUI6KF",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1792985161-GIzEEgiEMYhMpzz5zzuZ1d1380UzTq9q",
+          "title": "cle1::1793039804-J096sSBUlgmMrPek4EHTEiLRvVxj86t7",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -82,6 +82,12 @@
       "courses": [
         {
           "title": "[초보] 98%가 월매출 1천만원 달성한 미쳐버린 부업",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "50대 주부가 하루에 500만원 어치 장보고 돈 벌었던 비밀",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -130,12 +136,6 @@
         },
         {
           "title": "레전드가 돌아왔다! 메이커 신발 완판신화",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "하루 10분, 클릭 1번으로 매달 100만원 자동수익! 음악 플레이리스트!",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -300,19 +300,19 @@
       "url": "https://www.nlab.kr/courses?categoryId=free-courses",
       "courses": [
         {
-          "title": "왕초보 MZ들이 수익 쓸어담고 있는 구매 대행 풀패키지 노하우 자료(PDF) 무료 제공",
+          "title": "🔥선착순 300명🔥(278명 신청 완료!)",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "60대 엄마 아빠도 가능한 로또 부업 비법서(PDF) 무료 제공",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
         },
         {
           "title": "3초 카톡플친하면 매일 무료 강의 소식이 옵니다.",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[디노] 광고비 0원! 백억디노의 AI 해외구매대행 실전 클래스",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -428,18 +428,6 @@
           "thumbnail": ""
         },
         {
-          "title": "[무료강의] 연예인 유튜브 쇼핑쇼츠",
-          "date": "",
-          "link": "https://www.moneyupclass.com/free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[무료강의] 비밀링크 수익화 3단계",
-          "date": "",
-          "link": "https://www.moneyupclass.com/free-courses",
-          "thumbnail": ""
-        },
-        {
           "title": "[무료강의] 상품 기획, 상위 노출 건강식품 특강",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
@@ -477,6 +465,18 @@
         },
         {
           "title": "개인정보관리책임자 : 김상원 | 대표번호 : 070-8057-9339 (전화상담 미운영/채널톡 문의)",
+          "date": "",
+          "link": "https://www.moneyupclass.com/free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "핏크닉은 통신판매중개자로서 중개하는 거래에 대하여 책임을 부담하지 않습니다.",
+          "date": "",
+          "link": "https://www.moneyupclass.com/free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "고객센터 채널톡 바로가기",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
           "thumbnail": ""
@@ -708,25 +708,25 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "브랜드 화장품 유통",
+          "title": "에어비앤비로 한달만에 500만원 수익화",
           "date": "",
-          "link": "https://donclass.liveklass.com/classes/301945",
-          "thumbnail": "https://cdn.liveklass.com/course/01a1341afc417ebe8d48f560f3733774.jpeg.medium"
+          "link": "https://donclass.liveklass.com/classes/278395",
+          "thumbnail": "https://cdn.liveklass.com/course/01a1341e12ee7357bea653355151ee04.jpeg.medium"
         },
         {
-          "title": "브랜드 화장품 유통으로 월 300 목표 핵심 노하우 공유하기",
+          "title": "에어비앤비로 1개월만에 300만원 수익화한 노하우 공유하기",
           "date": "",
-          "link": "https://donclass.liveklass.com/classes/301945",
-          "thumbnail": "https://cdn.liveklass.com/course/01a1341afc417ebe8d48f560f3733774.jpeg.medium"
+          "link": "https://donclass.liveklass.com/classes/278395",
+          "thumbnail": "https://cdn.liveklass.com/course/01a1341e12ee7357bea653355151ee04.jpeg.medium"
         },
         {
-          "title": "브랜드 화장품 유통으로 월 300 목표 핵심 노하우 공유하기",
+          "title": "에어비앤비로 1개월만에 300만원 수익화한 노하우 공유하기",
           "date": "",
-          "link": "https://donclass.liveklass.com/classes/301945",
+          "link": "https://donclass.liveklass.com/classes/278395",
           "thumbnail": ""
         },
         {
-          "title": "강의 돈버는형님들 강사 5.0 (58)",
+          "title": "강의 돈버는형님들 강사 5.0 (29)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
@@ -738,19 +738,19 @@
           "thumbnail": ""
         },
         {
-          "title": "5.0 (58)",
+          "title": "5.0 (29)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
         },
         {
-          "title": "브랜드 화장품 유통으로 월 300 목표 핵심 노하우",
+          "title": "에어비앤비로 1개월만에 300만원 수익화한 노하우",
           "date": "",
-          "link": "https://donclass.liveklass.com/classes/301945",
+          "link": "https://donclass.liveklass.com/classes/278395",
           "thumbnail": ""
         },
         {
-          "title": "브랜드 화장품 유통으로 월 300 목표 핵심 노하우",
+          "title": "에어비앤비로 1개월만에 300만원 수익화한 노하우",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
@@ -768,10 +768,10 @@
           "thumbnail": ""
         },
         {
-          "title": "에어비앤비로 1개월만에 300만원 수익화한 노하우",
+          "title": "초보자도 목돈없이 현금 3,000만원 만드는 부동산 경매",
           "date": "",
-          "link": "https://donclass.liveklass.com/classes/278395",
-          "thumbnail": "https://cdn.liveklass.com/course/01a1341e12ee7357bea653355151ee04.jpeg.medium"
+          "link": "https://donclass.liveklass.com/classes/285794",
+          "thumbnail": "https://cdn.liveklass.com/course/01a142603ded7e2eb3ecac983d33fbc3.jpeg.medium"
         }
       ],
       "error": null
@@ -1015,7 +1015,31 @@
       "url": "https://buchinclass.com/class?mainCategory=5",
       "courses": [
         {
-          "title": "[조이] 규제없이 무한확장 가능한 엔코스테이로 4억 6천 번 노하우 무료공개 사전신청 열정 조이 0.0 (0개) 무료 [온과장] 복숭아만 하루 ",
+          "title": "[홍아린] 퇴근 후 AI영상 1개로 건당 60만원 번 노하우 무료공개 홍아린 0.0 (0개) 무료 [조이] 규제없이 무한확장 가능한 엔코스테이로",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[홍아린] 퇴근 후 AI영상 1개로 건당 60만원 번 노하우 무료공개 홍아린 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[홍아린] 퇴근 후 AI영상 1개로 건당 60만원 번 노하우 무료공개 홍아린 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[홍아린] 퇴근 후 AI영상 1개로 건당 60만원 번 노하우 무료공개",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "홍아린 0.0 (0개)",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
@@ -1058,36 +1082,6 @@
         },
         {
           "title": "[온과장] 복숭아만 하루 1,200박스! 왕초보가 테무로 온라인 과일장수 되는 법",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "온과장 0.0 (0개)",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[6기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[6기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "[6기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕",
-          "date": "",
-          "link": "https://buchinclass.com/class?mainCategory=5",
-          "thumbnail": ""
-        },
-        {
-          "title": "원성환 0.0 (0개)",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
