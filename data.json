@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 12:53",
+  "updated_at": "2026-10-28 02:56",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1793072960-9pLMsFJyfY1xhqXTuk8kmX6xL07oNTDm",
+          "title": "cle1::1793123515-ZKFAMPtVNWGbRmG0tnQdmoO7bK9DGQbp",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1793072966-f39t9WZYZbi7hRIKHXmFxavs2mQmDLWG",
+          "title": "sfo1::1793123521-B75Lo63EMw5Kq8dY2f1daTDjWQ8u6nLt",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1793072973-GP9mcpq0aLOTbgj7HgbQhfRtYYpP2n8a",
+          "title": "cle1::1793123527-LH6hOlusexa0vEMWQliExwVlSLTPGWsa",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -300,25 +300,19 @@
       "url": "https://www.nlab.kr/courses?categoryId=free-courses",
       "courses": [
         {
-          "title": "🔥선착순 300명🔥(278명 신청 완료!)",
+          "title": "🔥선착순 300명🔥(292명 신청 완료!)",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
         },
         {
-          "title": "60대 엄마 아빠도 가능한 로또 부업 비법서(PDF) 무료 제공",
+          "title": "왕초보도 바로 가능한 AI 플레이리스트 비법서(PDF) 무료 제공",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
         },
         {
           "title": "3초 카톡플친하면 매일 무료 강의 소식이 옵니다.",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[김해준] 노트북 한 대로 시작하는 AI 콘텐츠 대행 노하우",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -355,6 +349,12 @@
         },
         {
           "title": "상호 : N잡연구소(엔잡연구소)",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "대표이사 : 정준호 l 개인정보책임관리자 : 정준호",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -677,10 +677,16 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "403 Forbidden",
+          "title": "그림 못 그리는 똥손도 월 1억 찍은 AI 인스타툰 수익화 노하우",
           "date": "",
-          "link": "https://www.tpschool.co.kr/p/webinar",
-          "thumbnail": ""
+          "link": "https://www.tpschool.co.kr/classes/215059",
+          "thumbnail": "https://cdn.liveklass.com/course/01a17baf0dcd74a6974f1dbec76d8c6e.png.medium"
+        },
+        {
+          "title": "그림 못 그리는 똥손도 월 1억 찍은 AI 인스타툰 수익화 노하우",
+          "date": "",
+          "link": "https://www.tpschool.co.kr/classes/215059",
+          "thumbnail": "https://cdn.liveklass.com/course/01a17baf0dcd74a6974f1dbec76d8c6e.png.medium"
         }
       ],
       "error": null
@@ -696,10 +702,70 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "403 Forbidden",
+          "title": "에어비앤비로 한달만에 500만원 수익화",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/278395",
+          "thumbnail": "https://cdn.liveklass.com/course/01a1341e12ee7357bea653355151ee04.jpeg.medium"
+        },
+        {
+          "title": "에어비앤비로 1개월만에 300만원 수익화한 노하우 공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/278395",
+          "thumbnail": "https://cdn.liveklass.com/course/01a1341e12ee7357bea653355151ee04.jpeg.medium"
+        },
+        {
+          "title": "에어비앤비로 1개월만에 300만원 수익화한 노하우 공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/278395",
+          "thumbnail": ""
+        },
+        {
+          "title": "강의 돈버는형님들 강사 5.0 (29)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
+        },
+        {
+          "title": "돈버는형님들 강사",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "5.0 (29)",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "에어비앤비로 1개월만에 300만원 수익화한 노하우",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/278395",
+          "thumbnail": ""
+        },
+        {
+          "title": "에어비앤비로 1개월만에 300만원 수익화한 노하우",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "공유하기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "자세히 보기",
+          "date": "",
+          "link": "https://donclass.liveklass.com/p/donbropage",
+          "thumbnail": ""
+        },
+        {
+          "title": "강의비 1억 쓰고 깨달은 최고의 부업 - 무재고 쇼핑몰",
+          "date": "",
+          "link": "https://donclass.liveklass.com/classes/306150",
+          "thumbnail": "https://cdn.liveklass.com/course/01a17b079e98708ca17b8d0a9424ac89.jpeg.medium"
         }
       ],
       "error": null
@@ -707,30 +773,43 @@
     {
       "name": "래피드클래스",
       "url": "https://rapidclass.co.kr/search?categoryId=qrm00hkmg69hyp8jbdyqa579&searchTitle=%EB%AC%B4%EB%A3%8C%EA%B0%95%EC%9D%98",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://rapidclass.co.kr/search?categoryId=qrm00hkmg69hyp8jbdyqa579&searchTitle=%EB%AC%B4%EB%A3%8C%EA%B0%95%EC%9D%98\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "무료강의",
+          "date": "",
+          "link": "https://rapidclass.co.kr/search?categoryId=qrm00hkmg69hyp8jbdyqa579&searchTitle=무료강의",
+          "thumbnail": ""
+        },
+        {
+          "title": "정규강의",
+          "date": "",
+          "link": "https://rapidclass.co.kr/search?categoryId=h3couirnyuy5ao3bza6p4jbz&searchTitle=정규강의",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "머니루트",
       "url": "https://moneyroot.co.kr/lectures/free",
       "courses": [
         {
-          "title": "AI 숏폼 공장 자동화 무료강의",
+          "title": "AI 코스트코 자동화 무료강의",
           "date": "",
-          "link": "https://moneyroot.co.kr/shop/product/view?product_id=76&event=6a8e479b3cada",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_06_4_de_3.png"
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=77&event=6a953e894e251",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_04_02.png"
         },
         {
-          "title": "AI 숏폼 공장 자동화 무료강의",
+          "title": "AI 코스트코 자동화 무료강의",
           "date": "",
-          "link": "https://moneyroot.co.kr/shop/product/view?product_id=76&event=6a8e479b3cada",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_06_4_de_3.png"
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=77&event=6a953e894e251",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_04_02.png"
         },
         {
-          "title": "AI 숏폼 공장 자동화 무료강의",
+          "title": "AI 코스트코 자동화 무료강의",
           "date": "",
-          "link": "https://moneyroot.co.kr/shop/product/view?product_id=76&event=6a8e479b3cada",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_06_4_de_3.png"
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=77&event=6a953e894e251",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_04_02.png"
         }
       ],
       "error": null
@@ -935,19 +1014,19 @@
           "thumbnail": ""
         },
         {
-          "title": "[온과장] 복숭아만 하루 1,200박스! 왕초보가 테무로 온라인 과일장수 되는 법 온과장 0.0 (0개) 무료",
+          "title": "[6기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
         },
         {
-          "title": "[온과장] 복숭아만 하루 1,200박스! 왕초보가 테무로 온라인 과일장수 되는 법 온과장 0.0 (0개) 무료",
+          "title": "[6기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕 원성환 0.0 (0개) 무료",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
         },
         {
-          "title": "[온과장] 복숭아만 하루 1,200박스! 왕초보가 테무로 온라인 과일장수 되는 법",
+          "title": "[6기 알림신청] 썩은 빌라로 소액 경매 단타 부수기 끝판왕",
           "date": "",
           "link": "https://buchinclass.com/class?mainCategory=5",
           "thumbnail": ""
