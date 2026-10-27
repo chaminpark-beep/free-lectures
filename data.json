@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 03:40",
+  "updated_at": "2026-10-27 12:53",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1793039792-yW2nvP5nUsnpuFeRVUn21YytqZYrvpKx",
+          "title": "iad1::1793072960-9pLMsFJyfY1xhqXTuk8kmX6xL07oNTDm",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1793039798-sRNvnPgOyL7TdYJA7zfuyIXzfLjUI6KF",
+          "title": "iad1::1793072966-f39t9WZYZbi7hRIKHXmFxavs2mQmDLWG",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1793039804-J096sSBUlgmMrPek4EHTEiLRvVxj86t7",
+          "title": "iad1::1793072973-GP9mcpq0aLOTbgj7HgbQhfRtYYpP2n8a",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -93,19 +93,7 @@
           "thumbnail": ""
         },
         {
-          "title": "50대 주부가 하루에 500만원 어치 장보고 돈 벌었던 비밀",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
           "title": "AI한테 쇼핑시켜서 \"순수익 월 2천만원\" 벌었던 방법",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "300개 채널 운영! 유튜브 9년차가 선택한 쇼핑쇼츠 부업",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -118,6 +106,12 @@
         },
         {
           "title": "인스타 계정만 있으면 할 수 있는 출퇴근길 30분 강추 부업",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "300개 채널 운영! 유튜브 9년차가 선택한 쇼핑쇼츠 부업",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -136,6 +130,12 @@
         },
         {
           "title": "레전드가 돌아왔다! 메이커 신발 완판신화",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "하루 10분, 클릭 1번으로 매달 100만원 자동수익! 음악 플레이리스트!",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -640,12 +640,6 @@
           "thumbnail": ""
         },
         {
-          "title": "타로 특강 혜택",
-          "date": "",
-          "link": "https://www.goldpepper.kr/270",
-          "thumbnail": ""
-        },
-        {
           "title": "강의실",
           "date": "",
           "link": "https://www.goldpepper.kr/136",
@@ -668,6 +662,12 @@
           "date": "",
           "link": "https://www.goldpepper.kr/130",
           "thumbnail": ""
+        },
+        {
+          "title": "수강 후기",
+          "date": "",
+          "link": "https://www.goldpepper.kr/review",
+          "thumbnail": ""
         }
       ],
       "error": null
@@ -677,22 +677,10 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "매물찾기부터 운영까지 한번에 끝! 놀면서 월 4000 만든 AI 월세 세팅법",
+          "title": "403 Forbidden",
           "date": "",
-          "link": "https://www.tpschool.co.kr/classes/314439",
+          "link": "https://www.tpschool.co.kr/p/webinar",
           "thumbnail": ""
-        },
-        {
-          "title": "[오프리] 인스타 계정 없어도 OK! 무자본으로 월 1억 만든 공동구매 소개 부업 무료특강",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/classes/319916",
-          "thumbnail": "https://cdn.liveklass.com/course/01a11a8af98479bfac73bbfe7dfbb299.png.medium"
-        },
-        {
-          "title": "[오프리] 무자본으로 15억 만든 공동구매 소개 부업 8주 마스터 클래스 (12개월 무이자 지원)",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/classes/322721",
-          "thumbnail": "https://cdn.liveklass.com/course/01a154d2390c7d349d4ebc0f79da7ff7.png.medium"
         }
       ],
       "error": null
@@ -708,70 +696,10 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "에어비앤비로 한달만에 500만원 수익화",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/278395",
-          "thumbnail": "https://cdn.liveklass.com/course/01a1341e12ee7357bea653355151ee04.jpeg.medium"
-        },
-        {
-          "title": "에어비앤비로 1개월만에 300만원 수익화한 노하우 공유하기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/278395",
-          "thumbnail": "https://cdn.liveklass.com/course/01a1341e12ee7357bea653355151ee04.jpeg.medium"
-        },
-        {
-          "title": "에어비앤비로 1개월만에 300만원 수익화한 노하우 공유하기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/278395",
-          "thumbnail": ""
-        },
-        {
-          "title": "강의 돈버는형님들 강사 5.0 (29)",
+          "title": "403 Forbidden",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
-        },
-        {
-          "title": "돈버는형님들 강사",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "5.0 (29)",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "에어비앤비로 1개월만에 300만원 수익화한 노하우",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/278395",
-          "thumbnail": ""
-        },
-        {
-          "title": "에어비앤비로 1개월만에 300만원 수익화한 노하우",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "공유하기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "자세히 보기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "초보자도 목돈없이 현금 3,000만원 만드는 부동산 경매",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/285794",
-          "thumbnail": "https://cdn.liveklass.com/course/01a142603ded7e2eb3ecac983d33fbc3.jpeg.medium"
         }
       ],
       "error": null
@@ -779,21 +707,8 @@
     {
       "name": "래피드클래스",
       "url": "https://rapidclass.co.kr/search?categoryId=qrm00hkmg69hyp8jbdyqa579&searchTitle=%EB%AC%B4%EB%A3%8C%EA%B0%95%EC%9D%98",
-      "courses": [
-        {
-          "title": "무료강의",
-          "date": "",
-          "link": "https://rapidclass.co.kr/search?categoryId=qrm00hkmg69hyp8jbdyqa579&searchTitle=무료강의",
-          "thumbnail": ""
-        },
-        {
-          "title": "정규강의",
-          "date": "",
-          "link": "https://rapidclass.co.kr/search?categoryId=h3couirnyuy5ao3bza6p4jbz&searchTitle=정규강의",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://rapidclass.co.kr/search?categoryId=qrm00hkmg69hyp8jbdyqa579&searchTitle=%EB%AC%B4%EB%A3%8C%EA%B0%95%EC%9D%98\", waiting until \"networkidle\"\n"
     },
     {
       "name": "머니루트",
@@ -891,57 +806,8 @@
     {
       "name": "인사이트머니랩",
       "url": "https://insightmoneylab.com/course-category/free-class/",
-      "courses": [
-        {
-          "title": "[0원 강의] 강남 부자들의 투자법! 부자되는 법인투자 공식",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "[0원 강의] 억대 매출 찍어내는 콘텐츠 수익화 5단계",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "[0원 강의] 단기간 돈이 꽂히는 아파트 경매 끝판왕 패키지",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "10:00 ~ 18:00",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "help@insightmoneylab",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "주식회사 인사이트머니랩 대표이사 : 배종주 사업자번호 : 885-88-03051 l 통신판매신고번호 : 제2025-서울강남-06757",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "사업장주소 : 서울특별시 강남구 논현로71길 23-6, 3층 (역삼동) 고객센터 : 02-6958-7342",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "ⓒ 2024 인사이트머니랩. All rights reserved.",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://insightmoneylab.com/course-category/free-class/\", waiting until \"networkidle\"\n"
     },
     {
       "name": "온부자",
