@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 02:56",
+  "updated_at": "2026-10-28 13:11",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1793123515-ZKFAMPtVNWGbRmG0tnQdmoO7bK9DGQbp",
+          "title": "sfo1::1793160482-GDPFjmdapZU1DqmnJSsNKZRCD1aH5q3t",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1793123521-B75Lo63EMw5Kq8dY2f1daTDjWQ8u6nLt",
+          "title": "sfo1::1793160489-Y0h2FbFRvbB7yUUiGCw1UPWgQzS6w4Xm",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "cle1::1793123527-LH6hOlusexa0vEMWQliExwVlSLTPGWsa",
+          "title": "sfo1::1793160495-L2dYHKeJR3mtLvPb8JEKR1u3AbWVugMm",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -866,27 +866,63 @@
     {
       "name": "프레스런",
       "url": "https://presslearn.co.kr/fc",
-      "courses": [
-        {
-          "title": "프레스런",
-          "date": "",
-          "link": "https://presslearn.co.kr/",
-          "thumbnail": ""
-        },
-        {
-          "title": "무료 강의",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://presslearn.co.kr/fc\", waiting until \"networkidle\"\n"
     },
     {
       "name": "인사이트머니랩",
       "url": "https://insightmoneylab.com/course-category/free-class/",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://insightmoneylab.com/course-category/free-class/\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "[0원 강의] 강남 부자들의 투자법! 부자되는 법인투자 공식",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        },
+        {
+          "title": "[0원 강의] 억대 매출 찍어내는 콘텐츠 수익화 5단계",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        },
+        {
+          "title": "[0원 강의] 단기간 돈이 꽂히는 아파트 경매 끝판왕 패키지",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        },
+        {
+          "title": "10:00 ~ 18:00",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        },
+        {
+          "title": "help@insightmoneylab",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        },
+        {
+          "title": "주식회사 인사이트머니랩 대표이사 : 배종주 사업자번호 : 885-88-03051 l 통신판매신고번호 : 제2025-서울강남-06757",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        },
+        {
+          "title": "사업장주소 : 서울특별시 강남구 논현로71길 23-6, 3층 (역삼동) 고객센터 : 02-6958-7342",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        },
+        {
+          "title": "ⓒ 2024 인사이트머니랩. All rights reserved.",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "온부자",
