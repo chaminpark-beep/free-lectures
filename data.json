@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01 02:13",
+  "updated_at": "2026-11-01 13:36",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1793466562-fEpI8qYsY8O1ncgR4EELHpDAKBr5b9RW",
+          "title": "sfo1::1793507526-hpwVOABsq68GatWQ99Fl6W8D8ys3ecmH",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1793466568-hRxHvauehhcj2VstcqwMAmp0CzCb1dKX",
+          "title": "sfo1::1793507532-wVpvUdCOkD0Wyl17QZBMrjzEMIXxwKwq",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1793466574-JVFvsriDZFxzen9pXhhlJP2i6qUA4b9W",
+          "title": "sfo1::1793507538-seW7FyD3QsqMwte5YiHJXG1m4r4I6iJF",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -426,8 +426,75 @@
     {
       "name": "사이클해커스",
       "url": "https://cyclehackers.com/",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://cyclehackers.com/\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "무료강의",
+          "date": "",
+          "link": "https://cyclehackers.com/product-category/free/",
+          "thumbnail": ""
+        },
+        {
+          "title": "프리미엄 강의",
+          "date": "",
+          "link": "https://cyclehackers.com/product-category/course/",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 지원",
+          "date": "",
+          "link": "https://forms.gle/wALTiMomhrwhPwb16",
+          "thumbnail": ""
+        },
+        {
+          "title": "문의하기",
+          "date": "",
+          "link": "http://pf.kakao.com/_GAGxnxj/chat",
+          "thumbnail": ""
+        },
+        {
+          "title": "로그인",
+          "date": "",
+          "link": "https://cyclehackers.com/login/",
+          "thumbnail": ""
+        },
+        {
+          "title": "회원가입",
+          "date": "",
+          "link": "https://cyclehackers.com/register/",
+          "thumbnail": ""
+        },
+        {
+          "title": "회원가입",
+          "date": "",
+          "link": "https://cyclehackers.com/register/",
+          "thumbnail": ""
+        },
+        {
+          "title": "로그인",
+          "date": "",
+          "link": "https://cyclehackers.com/login/",
+          "thumbnail": ""
+        },
+        {
+          "title": "서비스이용약관",
+          "date": "",
+          "link": "https://cyclehackers.com/terms-of-service/",
+          "thumbnail": ""
+        },
+        {
+          "title": "개인정보처리방침",
+          "date": "",
+          "link": "https://cyclehackers.com/privacy/",
+          "thumbnail": ""
+        },
+        {
+          "title": "환불규정",
+          "date": "",
+          "link": "https://cyclehackers.com/refund-policy/",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "황금후추",
