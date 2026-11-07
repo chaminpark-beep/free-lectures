@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 13:51",
+  "updated_at": "2026-11-08 02:46",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1794026763-Vba3jpFL9kL6IoIfJbtnyQTyDubnMbSa",
+          "title": "iad1::1794073310-F5wygNG98T5VLPwvHEeo08s5EYc0jo6S",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1794026769-QxsYY0ZIZZouQpPSo8r6odI8XcPoxgnI",
+          "title": "iad1::1794073316-DOiHTaJ5Y4OV1xYdIzv9GJN2JuB2pluL",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1794026775-CNBvk3frHqmGxsNn6s80TzNELVSw5Ozd",
+          "title": "iad1::1794073322-JyToRtkpq1yuF12T3VaXwzZvEedj0zuv",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -804,8 +804,33 @@
     {
       "name": "피터팬스쿨",
       "url": "https://www.peterpanschool.co.kr/courses/free",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.peterpanschool.co.kr/courses/free\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "무료로 배울 수 있는 고퀄리티 강의들을 만나보세요",
+          "date": "",
+          "link": "https://www.peterpanschool.co.kr/courses/free",
+          "thumbnail": ""
+        },
+        {
+          "title": "등록된 무료 강의가 없습니다.",
+          "date": "",
+          "link": "https://www.peterpanschool.co.kr/courses/free",
+          "thumbnail": ""
+        },
+        {
+          "title": "피터팬스쿨 (주)씨너지나노 사업자등록번호 : 299-86-03770ㅣ대표자 : 권오룡",
+          "date": "",
+          "link": "https://www.peterpanschool.co.kr/courses/free",
+          "thumbnail": ""
+        },
+        {
+          "title": "세종특별자치시 갈매로 363, 405호(어진동, 세종파이낸스센터)ㅣ대표 전화번호 : 010-5384-5058",
+          "date": "",
+          "link": "https://www.peterpanschool.co.kr/courses/free",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "프레스런",
