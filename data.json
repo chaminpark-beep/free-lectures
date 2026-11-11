@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 13:53",
+  "updated_at": "2026-11-12 04:33",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "pdx1::1794372592-PH77JkOCud9YLQzdjSp2X4tjfTXvfJKS",
+          "title": "iad1::1794425363-20cCfKaSU4nPuVV2dmuHYpCqD7Q01Ar0",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "pdx1::1794372598-1GhAC9sLBAOhIUYK6dHmAZG3fllYJ6AR",
+          "title": "iad1::1794425369-WQoECOIDgTFBc8c2O2mMDnjnRyjaFe2U",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "pdx1::1794372604-SfuTJzOb4wGxMgiMqzkbTr9oMBKry5BD",
+          "title": "iad1::1794425375-z5zbuKRurC3nNc3UxT2It0n0PVjMrV51",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -111,12 +111,6 @@
           "thumbnail": ""
         },
         {
-          "title": "무자본, 무재고, 무광고! 산후조리원비 다 뽑고도 전문직 연봉 2배 번 비밀",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
           "title": "인베이더스쿨 주식회사",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
@@ -136,6 +130,12 @@
         },
         {
           "title": "통신판매업신고번호: 제2025-서울강남-02732호",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "(유선상담은 지원되지 않습니다.)",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -487,8 +487,75 @@
     {
       "name": "사이클해커스",
       "url": "https://cyclehackers.com/",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://cyclehackers.com/\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "무료강의",
+          "date": "",
+          "link": "https://cyclehackers.com/product-category/free/",
+          "thumbnail": ""
+        },
+        {
+          "title": "프리미엄 강의",
+          "date": "",
+          "link": "https://cyclehackers.com/product-category/course/",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 지원",
+          "date": "",
+          "link": "https://forms.gle/wALTiMomhrwhPwb16",
+          "thumbnail": ""
+        },
+        {
+          "title": "문의하기",
+          "date": "",
+          "link": "http://pf.kakao.com/_GAGxnxj/chat",
+          "thumbnail": ""
+        },
+        {
+          "title": "로그인",
+          "date": "",
+          "link": "https://cyclehackers.com/login/",
+          "thumbnail": ""
+        },
+        {
+          "title": "회원가입",
+          "date": "",
+          "link": "https://cyclehackers.com/register/",
+          "thumbnail": ""
+        },
+        {
+          "title": "회원가입",
+          "date": "",
+          "link": "https://cyclehackers.com/register/",
+          "thumbnail": ""
+        },
+        {
+          "title": "로그인",
+          "date": "",
+          "link": "https://cyclehackers.com/login/",
+          "thumbnail": ""
+        },
+        {
+          "title": "서비스이용약관",
+          "date": "",
+          "link": "https://cyclehackers.com/terms-of-service/",
+          "thumbnail": ""
+        },
+        {
+          "title": "개인정보처리방침",
+          "date": "",
+          "link": "https://cyclehackers.com/privacy/",
+          "thumbnail": ""
+        },
+        {
+          "title": "환불규정",
+          "date": "",
+          "link": "https://cyclehackers.com/refund-policy/",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "황금후추",
@@ -610,16 +677,10 @@
       "url": "https://www.tpschool.co.kr/p/webinar",
       "courses": [
         {
-          "title": "그림 못 그리는 똥손도 월 1억 찍은 AI 인스타툰 수익화 노하우",
+          "title": "403 Forbidden",
           "date": "",
-          "link": "https://www.tpschool.co.kr/classes/215059",
+          "link": "https://www.tpschool.co.kr/p/webinar",
           "thumbnail": ""
-        },
-        {
-          "title": "[서영] 촬영·편집 1도 몰라도 OK! 방구석에서 AI로 월 300 30초짜리 영상 대행 부업 무료특강",
-          "date": "",
-          "link": "https://www.tpschool.co.kr/classes/324099",
-          "thumbnail": "https://cdn.liveklass.com/course/01a1afe5aa9476218b21887be1ab8b1d.png.medium"
         }
       ],
       "error": null
@@ -635,70 +696,10 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "부동산 경매 무료특강",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/285794",
-          "thumbnail": "https://cdn.liveklass.com/course/01a142603ded7e2eb3ecac983d33fbc3.jpeg.medium"
-        },
-        {
-          "title": "초보자도 목돈없이 현금 3,000만원 만드는 부동산 경매 공유하기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/285794",
-          "thumbnail": "https://cdn.liveklass.com/course/01a142603ded7e2eb3ecac983d33fbc3.jpeg.medium"
-        },
-        {
-          "title": "초보자도 목돈없이 현금 3,000만원 만드는 부동산 경매 공유하기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/285794",
-          "thumbnail": ""
-        },
-        {
-          "title": "강의 돈버는형님들 강사 5.0 (59)",
+          "title": "403 Forbidden",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
-        },
-        {
-          "title": "돈버는형님들 강사",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "5.0 (59)",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "초보자도 목돈없이 현금 3,000만원 만드는 부동산 경매",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/285794",
-          "thumbnail": ""
-        },
-        {
-          "title": "초보자도 목돈없이 현금 3,000만원 만드는 부동산 경매",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "공유하기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "자세히 보기",
-          "date": "",
-          "link": "https://donclass.liveklass.com/p/donbropage",
-          "thumbnail": ""
-        },
-        {
-          "title": "초보자도 월 500 목표 현금 자판기, AI 자동화 위탁 판매",
-          "date": "",
-          "link": "https://donclass.liveklass.com/classes/304200",
-          "thumbnail": "https://cdn.liveklass.com/course/01a19b4099ab7963aba04701f7fb0f94.jpeg.medium"
         }
       ],
       "error": null
@@ -727,22 +728,22 @@
       "url": "https://moneyroot.co.kr/lectures/free",
       "courses": [
         {
-          "title": "AI 캐릭터 상품 커머스 무료강의",
+          "title": "AI 농산물 판매중개 자동화 무료강의",
           "date": "",
-          "link": "https://moneyroot.co.kr/shop/product/view?product_id=78&event=6a5db0340192f",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_07_04.png"
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=79&event=6aa9f3daaff02",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_08_04.png"
         },
         {
-          "title": "AI 캐릭터 상품 커머스 무료강의",
+          "title": "AI 농산물 판매중개 자동화 무료강의",
           "date": "",
-          "link": "https://moneyroot.co.kr/shop/product/view?product_id=78&event=6a5db0340192f",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_07_04.png"
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=79&event=6aa9f3daaff02",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_08_04.png"
         },
         {
-          "title": "AI 캐릭터 상품 커머스 무료강의",
+          "title": "AI 농산물 판매중개 자동화 무료강의",
           "date": "",
-          "link": "https://moneyroot.co.kr/shop/product/view?product_id=78&event=6a5db0340192f",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_07_04.png"
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=79&event=6aa9f3daaff02",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_08_04.png"
         }
       ],
       "error": null
@@ -781,76 +782,14 @@
     {
       "name": "프레스런",
       "url": "https://presslearn.co.kr/fc",
-      "courses": [
-        {
-          "title": "프레스런",
-          "date": "",
-          "link": "https://presslearn.co.kr/",
-          "thumbnail": ""
-        },
-        {
-          "title": "무료 강의",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://presslearn.co.kr/fc\", waiting until \"networkidle\"\n"
     },
     {
       "name": "인사이트머니랩",
       "url": "https://insightmoneylab.com/course-category/free-class/",
-      "courses": [
-        {
-          "title": "[0원 강의] 강남 부자들의 투자법! 부자되는 법인투자 공식",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "[0원 강의] 억대 매출 찍어내는 콘텐츠 수익화 5단계",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "[0원 강의] 단기간 돈이 꽂히는 아파트 경매 끝판왕 패키지",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "10:00 ~ 18:00",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "help@insightmoneylab",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "주식회사 인사이트머니랩 대표이사 : 배종주 사업자번호 : 885-88-03051 l 통신판매신고번호 : 제2025-서울강남-06757",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "사업장주소 : 서울특별시 강남구 논현로71길 23-6, 3층 (역삼동) 고객센터 : 02-6958-7342",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "ⓒ 2024 인사이트머니랩. All rights reserved.",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://insightmoneylab.com/course-category/free-class/\", waiting until \"networkidle\"\n"
     },
     {
       "name": "온부자",
