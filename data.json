@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 14:57",
+  "updated_at": "2026-11-13 04:53",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1794462707-vtE2QDYoGL3v1rnsEuPsU8yfLxxvH53n",
+          "title": "sfo1::1794512869-bE4j9xZSizJABepu5iQoY1BBVPjfrrCh",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1794462714-FptUpOWwbJp7hAjrKha9S5WE8DjAf1Rl",
+          "title": "sfo1::1794512875-2JNTv637zvR6o9HybfjH3QqFlMWmnjw3",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1794462720-mSqJeuWXZbMSeRINFZD8JEcxJ2B8WhU7",
+          "title": "sfo1::1794512881-Xm62iHEhIZmXYapvB0ECkAMTo3eNiwb0",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -645,8 +645,21 @@
     {
       "name": "래피드클래스",
       "url": "https://rapidclass.co.kr/search?categoryId=qrm00hkmg69hyp8jbdyqa579&searchTitle=%EB%AC%B4%EB%A3%8C%EA%B0%95%EC%9D%98",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://rapidclass.co.kr/search?categoryId=qrm00hkmg69hyp8jbdyqa579&searchTitle=%EB%AC%B4%EB%A3%8C%EA%B0%95%EC%9D%98\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "무료강의",
+          "date": "",
+          "link": "https://rapidclass.co.kr/search?categoryId=qrm00hkmg69hyp8jbdyqa579&searchTitle=무료강의",
+          "thumbnail": ""
+        },
+        {
+          "title": "정규강의",
+          "date": "",
+          "link": "https://rapidclass.co.kr/search?categoryId=h3couirnyuy5ao3bza6p4jbz&searchTitle=정규강의",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "머니루트",
@@ -676,33 +689,8 @@
     {
       "name": "피터팬스쿨",
       "url": "https://www.peterpanschool.co.kr/courses/free",
-      "courses": [
-        {
-          "title": "무료로 배울 수 있는 고퀄리티 강의들을 만나보세요",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "등록된 무료 강의가 없습니다.",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "피터팬스쿨 (주)씨너지나노 사업자등록번호 : 299-86-03770ㅣ대표자 : 권오룡",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "세종특별자치시 갈매로 363, 405호(어진동, 세종파이낸스센터)ㅣ대표 전화번호 : 010-5384-5058",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.peterpanschool.co.kr/courses/free\", waiting until \"networkidle\"\n"
     },
     {
       "name": "프레스런",
