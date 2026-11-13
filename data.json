@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 04:53",
+  "updated_at": "2026-11-13 14:18",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1794512869-bE4j9xZSizJABepu5iQoY1BBVPjfrrCh",
+          "title": "iad1::1794546777-KnKMNlT7ILTreznqPPSxGbKmROzZPfcT",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1794512875-2JNTv637zvR6o9HybfjH3QqFlMWmnjw3",
+          "title": "iad1::1794546784-jyWk6fImDD35Phdo2PBmcM3y9SS2R5YL",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1794512881-Xm62iHEhIZmXYapvB0ECkAMTo3eNiwb0",
+          "title": "iad1::1794546790-Zyj3nid6LGlXcn43szdTWW8sIr7Vzfk3",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -645,21 +645,8 @@
     {
       "name": "래피드클래스",
       "url": "https://rapidclass.co.kr/search?categoryId=qrm00hkmg69hyp8jbdyqa579&searchTitle=%EB%AC%B4%EB%A3%8C%EA%B0%95%EC%9D%98",
-      "courses": [
-        {
-          "title": "무료강의",
-          "date": "",
-          "link": "https://rapidclass.co.kr/search?categoryId=qrm00hkmg69hyp8jbdyqa579&searchTitle=무료강의",
-          "thumbnail": ""
-        },
-        {
-          "title": "정규강의",
-          "date": "",
-          "link": "https://rapidclass.co.kr/search?categoryId=h3couirnyuy5ao3bza6p4jbz&searchTitle=정규강의",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://rapidclass.co.kr/search?categoryId=qrm00hkmg69hyp8jbdyqa579&searchTitle=%EB%AC%B4%EB%A3%8C%EA%B0%95%EC%9D%98\", waiting until \"networkidle\"\n"
     },
     {
       "name": "머니루트",
@@ -695,8 +682,21 @@
     {
       "name": "프레스런",
       "url": "https://presslearn.co.kr/fc",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://presslearn.co.kr/fc\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "프레스런",
+          "date": "",
+          "link": "https://presslearn.co.kr/",
+          "thumbnail": ""
+        },
+        {
+          "title": "무료 강의",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "인사이트머니랩",
@@ -774,8 +774,81 @@
     {
       "name": "부자친구들",
       "url": "https://buchinclass.com/class?mainCategory=5",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://buchinclass.com/class?mainCategory=5\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "[2기 사전/현명환] 구매없이 월 4천만 원 만든 쉬운 부업 바이마 역직구 노하우 무료공개 현명환 0.0 (0개) 무료 [3기 사전/영영] 똥손",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[2기 사전/현명환] 구매없이 월 4천만 원 만든 쉬운 부업 바이마 역직구 노하우 무료공개 현명환 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[2기 사전/현명환] 구매없이 월 4천만 원 만든 쉬운 부업 바이마 역직구 노하우 무료공개 현명환 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[2기 사전/현명환] 구매없이 월 4천만 원 만든 쉬운 부업 바이마 역직구 노하우 무료공개",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "현명환 0.0 (0개)",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[3기 사전/영영] 똥손도 AI 인스타툰 대행으로 월 300 번 노하우 무료공개 영영 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[3기 사전/영영] 똥손도 AI 인스타툰 대행으로 월 300 번 노하우 무료공개 영영 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[3기 사전/영영] 똥손도 AI 인스타툰 대행으로 월 300 번 노하우 무료공개",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "영영 0.0 (0개)",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[홍아린] 퇴근 후 AI영상 1개로 건당 60만원 번 노하우 무료공개 홍아린 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[홍아린] 퇴근 후 AI영상 1개로 건당 60만원 번 노하우 무료공개 홍아린 0.0 (0개) 무료",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        },
+        {
+          "title": "[홍아린] 퇴근 후 AI영상 1개로 건당 60만원 번 노하우 무료공개",
+          "date": "",
+          "link": "https://buchinclass.com/class?mainCategory=5",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     }
   ]
 }
