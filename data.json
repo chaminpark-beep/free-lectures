@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 06:59",
+  "updated_at": "2026-11-17 15:44",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1794866100-isdnCSp6O1Ui8jL9uduTmEhsZqPxNU7k",
+          "title": "iad1::1794897632-K9zyrd8p6lE7GuX4Ft3cHZFxgm6RPEgg",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1794866106-PuVj5vBIaV0GJdhFr7OZJvWHhzYadpWE",
+          "title": "iad1::1794897638-qgNhbGywl4U7nqOHNB2L6Mk6zz3vPDeS",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1794866112-Fu8PqtdXI8JjB0lCdxjxNojcaJWpWXAu",
+          "title": "iad1::1794897644-ZeoXTLNbnKg27YBLke5PmqUEOEwCrJlv",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -300,12 +300,6 @@
       "url": "https://www.nlab.kr/courses?categoryId=free-courses",
       "courses": [
         {
-          "title": "왕초보도 신선식품 위탁판매로 매출 폭발하는 강의 바로 입장하기!👈",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
           "title": "(🔥역대급 마감 속도🔥)",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
@@ -313,6 +307,12 @@
         },
         {
           "title": "컴맹, 육아맘도 카톡 전달만 하고 월급 30배 번 무자본 부업 비법서 (PDF) 무료 제공",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "(한정 수량 무료 배포🤫)",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -354,7 +354,7 @@
           "thumbnail": ""
         },
         {
-          "title": "[홍박사] 제철과일로 시작하는 신선식품 위탁판매 첫걸음 🍎",
+          "title": "[제이그릿] 문자 한 통으로 월급 버는 AI 공동구매중개 특강 📦",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -487,8 +487,75 @@
     {
       "name": "사이클해커스",
       "url": "https://cyclehackers.com/",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://cyclehackers.com/\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "무료강의",
+          "date": "",
+          "link": "https://cyclehackers.com/product-category/free/",
+          "thumbnail": ""
+        },
+        {
+          "title": "프리미엄 강의",
+          "date": "",
+          "link": "https://cyclehackers.com/product-category/course/",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 지원",
+          "date": "",
+          "link": "https://forms.gle/wALTiMomhrwhPwb16",
+          "thumbnail": ""
+        },
+        {
+          "title": "문의하기",
+          "date": "",
+          "link": "http://pf.kakao.com/_GAGxnxj/chat",
+          "thumbnail": ""
+        },
+        {
+          "title": "로그인",
+          "date": "",
+          "link": "https://cyclehackers.com/login/",
+          "thumbnail": ""
+        },
+        {
+          "title": "회원가입",
+          "date": "",
+          "link": "https://cyclehackers.com/register/",
+          "thumbnail": ""
+        },
+        {
+          "title": "회원가입",
+          "date": "",
+          "link": "https://cyclehackers.com/register/",
+          "thumbnail": ""
+        },
+        {
+          "title": "로그인",
+          "date": "",
+          "link": "https://cyclehackers.com/login/",
+          "thumbnail": ""
+        },
+        {
+          "title": "서비스이용약관",
+          "date": "",
+          "link": "https://cyclehackers.com/terms-of-service/",
+          "thumbnail": ""
+        },
+        {
+          "title": "개인정보처리방침",
+          "date": "",
+          "link": "https://cyclehackers.com/privacy/",
+          "thumbnail": ""
+        },
+        {
+          "title": "환불규정",
+          "date": "",
+          "link": "https://cyclehackers.com/refund-policy/",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "황금후추",
@@ -616,10 +683,10 @@
           "thumbnail": ""
         },
         {
-          "title": "[서영] 촬영·편집 1도 몰라도 OK! 방구석에서 AI로 월 300 30초짜리 영상 대행 부업 무료특강",
+          "title": "[서영] 비전공자도, 육아맘도 OK! AI로 월 300 버는 30초짜리 영상 대행 부업 무료특강",
           "date": "",
           "link": "https://www.tpschool.co.kr/classes/324099",
-          "thumbnail": "https://cdn.liveklass.com/course/01a1afe5aa9476218b21887be1ab8b1d.png.medium"
+          "thumbnail": "https://cdn.liveklass.com/course/01a1e74c41fa7274956c354ab9d8d0fb.png.medium"
         }
       ],
       "error": null
@@ -768,27 +835,51 @@
     {
       "name": "프레스런",
       "url": "https://presslearn.co.kr/fc",
-      "courses": [
-        {
-          "title": "프레스런",
-          "date": "",
-          "link": "https://presslearn.co.kr/",
-          "thumbnail": ""
-        },
-        {
-          "title": "무료 강의",
-          "date": "",
-          "link": "https://presslearn.co.kr/fc",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://presslearn.co.kr/fc\", waiting until \"networkidle\"\n"
     },
     {
       "name": "인사이트머니랩",
       "url": "https://insightmoneylab.com/course-category/free-class/",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://insightmoneylab.com/course-category/free-class/\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "[0원 강의] 소액 숙박업으로 월 3000 현금흐름 5가지 방법 공개",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        },
+        {
+          "title": "10:00 ~ 18:00",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        },
+        {
+          "title": "help@insightmoneylab",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        },
+        {
+          "title": "주식회사 인사이트머니랩 대표이사 : 배종주 사업자번호 : 885-88-03051 l 통신판매신고번호 : 제2025-서울강남-06757",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        },
+        {
+          "title": "사업장주소 : 서울특별시 강남구 논현로71길 23-6, 3층 (역삼동) 고객센터 : 02-6958-7342",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        },
+        {
+          "title": "ⓒ 2024 인사이트머니랩. All rights reserved.",
+          "date": "",
+          "link": "https://insightmoneylab.com/course-category/free-class/",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "온부자",
