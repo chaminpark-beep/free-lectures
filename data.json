@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 15:44",
+  "updated_at": "2026-11-18 05:50",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1794897632-K9zyrd8p6lE7GuX4Ft3cHZFxgm6RPEgg",
+          "title": "iad1::1794948310-YE2WPjiPmpennFBnrjRC8TnJrDVKwebR",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1794897638-qgNhbGywl4U7nqOHNB2L6Mk6zz3vPDeS",
+          "title": "iad1::1794948316-A4VDMyvyQUJ3DHVSWUqy50eMD9kXuPzK",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1794897644-ZeoXTLNbnKg27YBLke5PmqUEOEwCrJlv",
+          "title": "iad1::1794948323-zXioAjnEe3Ch5kg3Edksz8K2mvyciViQ",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -487,75 +487,8 @@
     {
       "name": "사이클해커스",
       "url": "https://cyclehackers.com/",
-      "courses": [
-        {
-          "title": "무료강의",
-          "date": "",
-          "link": "https://cyclehackers.com/product-category/free/",
-          "thumbnail": ""
-        },
-        {
-          "title": "프리미엄 강의",
-          "date": "",
-          "link": "https://cyclehackers.com/product-category/course/",
-          "thumbnail": ""
-        },
-        {
-          "title": "강사 지원",
-          "date": "",
-          "link": "https://forms.gle/wALTiMomhrwhPwb16",
-          "thumbnail": ""
-        },
-        {
-          "title": "문의하기",
-          "date": "",
-          "link": "http://pf.kakao.com/_GAGxnxj/chat",
-          "thumbnail": ""
-        },
-        {
-          "title": "로그인",
-          "date": "",
-          "link": "https://cyclehackers.com/login/",
-          "thumbnail": ""
-        },
-        {
-          "title": "회원가입",
-          "date": "",
-          "link": "https://cyclehackers.com/register/",
-          "thumbnail": ""
-        },
-        {
-          "title": "회원가입",
-          "date": "",
-          "link": "https://cyclehackers.com/register/",
-          "thumbnail": ""
-        },
-        {
-          "title": "로그인",
-          "date": "",
-          "link": "https://cyclehackers.com/login/",
-          "thumbnail": ""
-        },
-        {
-          "title": "서비스이용약관",
-          "date": "",
-          "link": "https://cyclehackers.com/terms-of-service/",
-          "thumbnail": ""
-        },
-        {
-          "title": "개인정보처리방침",
-          "date": "",
-          "link": "https://cyclehackers.com/privacy/",
-          "thumbnail": ""
-        },
-        {
-          "title": "환불규정",
-          "date": "",
-          "link": "https://cyclehackers.com/refund-policy/",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://cyclehackers.com/\", waiting until \"networkidle\"\n"
     },
     {
       "name": "황금후추",
@@ -804,33 +737,8 @@
     {
       "name": "피터팬스쿨",
       "url": "https://www.peterpanschool.co.kr/courses/free",
-      "courses": [
-        {
-          "title": "무료로 배울 수 있는 고퀄리티 강의들을 만나보세요",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "등록된 무료 강의가 없습니다.",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "피터팬스쿨 (주)씨너지나노 사업자등록번호 : 299-86-03770ㅣ대표자 : 권오룡",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        },
-        {
-          "title": "세종특별자치시 갈매로 363, 405호(어진동, 세종파이낸스센터)ㅣ대표 전화번호 : 010-5384-5058",
-          "date": "",
-          "link": "https://www.peterpanschool.co.kr/courses/free",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.peterpanschool.co.kr/courses/free\", waiting until \"networkidle\"\n"
     },
     {
       "name": "프레스런",
@@ -841,45 +749,8 @@
     {
       "name": "인사이트머니랩",
       "url": "https://insightmoneylab.com/course-category/free-class/",
-      "courses": [
-        {
-          "title": "[0원 강의] 소액 숙박업으로 월 3000 현금흐름 5가지 방법 공개",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "10:00 ~ 18:00",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "help@insightmoneylab",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "주식회사 인사이트머니랩 대표이사 : 배종주 사업자번호 : 885-88-03051 l 통신판매신고번호 : 제2025-서울강남-06757",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "사업장주소 : 서울특별시 강남구 논현로71길 23-6, 3층 (역삼동) 고객센터 : 02-6958-7342",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        },
-        {
-          "title": "ⓒ 2024 인사이트머니랩. All rights reserved.",
-          "date": "",
-          "link": "https://insightmoneylab.com/course-category/free-class/",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://insightmoneylab.com/course-category/free-class/\", waiting until \"networkidle\"\n"
     },
     {
       "name": "온부자",
