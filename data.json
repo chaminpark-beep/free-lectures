@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 05:25",
+  "updated_at": "2026-11-19 15:05",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1795033209-sJMKxEd74FGVxo5XxztKQnO3rkHy8sVm",
+          "title": "cle1::1795067991-TCxVZKRg1Nowjp9hzwfpmJL3id60xvkb",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1795033215-M8rXLmNvKm5mL1wl302Rt6RpXgxzic1G",
+          "title": "cle1::1795067997-m3zQV9o2VQwHqiMR8Aa9c56EX6VgG38t",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "iad1::1795033221-YT06FpyHMEBMGmpMdFKmnTRgeQLutZtd",
+          "title": "cle1::1795068004-TlapepCECv2RMF4oHVTxEmhrbDD68gZs",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -79,69 +79,8 @@
     {
       "name": "인베이더스쿨",
       "url": "https://www.invader.co.kr/courses",
-      "courses": [
-        {
-          "title": "돈 되는 자리만 골라 시작하는 자판남의 자판기 부업 A to Z",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "레전드가 돌아왔다! 메이커 신발 완판신화",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "하루 10분, 클릭 1번으로 매달 100만원 자동수익! 음악 플레이리스트!",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "인베이더스쿨 주식회사",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "주소: 서울특별시 서초구 강남대로 631, 1514호(잠원동, 크레신타워1차)",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "사업자등록번호 : 478-86-03709",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "통신판매업신고번호: 제2025-서울강남-02732호",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "(유선상담은 지원되지 않습니다.)",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "평일 10:00~19:00  채널톡 운영",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "토요일 10:00 - 13:00  채널톡 운영",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        }
-      ],
-      "error": null
+      "courses": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.invader.co.kr/courses\", waiting until \"networkidle\"\n"
     },
     {
       "name": "밀레니얼머니스쿨",
