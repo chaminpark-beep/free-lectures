@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 04:31",
+  "updated_at": "2026-11-23 14:58",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1795375540-nX414dMtR0x9vw43D0yd3FUNNaWLmd7G",
+          "title": "sfo1::1795413205-xz7JVeU7Kom3ZiW1glUSVCxT8TMbbYrF",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1795375546-vebA9EZr4owLeDbD06rGfgSjAwMYuf42",
+          "title": "sfo1::1795413211-9vNblb4U7sZDQSAE0F8n82b21wgTv6wW",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1795375552-m2jQ9IXyBzb8r6mAKqKJRjFNpKV9WItG",
+          "title": "sfo1::1795413217-g73w9tNmrsNj8FQ1ZP6I9tz9CkSJntQY",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -178,7 +178,7 @@
           "thumbnail": ""
         },
         {
-          "title": "Previous Next 1 2 3 4 5 6 7 8",
+          "title": "Previous Next 1 2 3 4 5 6",
           "date": "",
           "link": "https://www.millmus.com/lecture/detail/983",
           "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2F582f2148-5868-4da3-a640-6139a30e3890.png&w=3840&q=75"
@@ -446,6 +446,12 @@
           "thumbnail": ""
         },
         {
+          "title": "[무료강의] AI 쇼핑 숏폼",
+          "date": "",
+          "link": "https://www.moneyupclass.com/free-courses",
+          "thumbnail": ""
+        },
+        {
           "title": "머니업클래스 채용공고",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
@@ -471,12 +477,6 @@
         },
         {
           "title": "개인정보관리책임자 : 김상원 | 대표번호 : 070-8057-9339 (전화상담 미운영/채널톡 문의)",
-          "date": "",
-          "link": "https://www.moneyupclass.com/free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "핏크닉은 통신판매중개자로서 중개하는 거래에 대하여 책임을 부담하지 않습니다.",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
           "thumbnail": ""
@@ -714,22 +714,22 @@
       "url": "https://moneyroot.co.kr/lectures/free",
       "courses": [
         {
-          "title": "AI 신선식품 위탁 자동화 무료강의",
+          "title": "AI 온라인 과일 자판기 무료강의",
           "date": "",
           "link": "https://moneyroot.co.kr/shop/product/view?product_id=79&event=6aa9f3daaff02",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_08_04_3.png"
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_08_04_4.png"
         },
         {
-          "title": "AI 신선식품 위탁 자동화 무료강의",
+          "title": "AI 온라인 과일 자판기 무료강의",
           "date": "",
           "link": "https://moneyroot.co.kr/shop/product/view?product_id=79&event=6aa9f3daaff02",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_08_04_3.png"
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_08_04_4.png"
         },
         {
-          "title": "AI 신선식품 위탁 자동화 무료강의",
+          "title": "AI 온라인 과일 자판기 무료강의",
           "date": "",
           "link": "https://moneyroot.co.kr/shop/product/view?product_id=79&event=6aa9f3daaff02",
-          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_08_04_3.png"
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_08_04_4.png"
         }
       ],
       "error": null
