@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 14:58",
+  "updated_at": "2026-11-24 08:51",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1795413205-xz7JVeU7Kom3ZiW1glUSVCxT8TMbbYrF",
+          "title": "pdx1::1795477589-blppzBp5qWJVxbfltrGzVz8Qwc0kO8WN",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1795413211-9vNblb4U7sZDQSAE0F8n82b21wgTv6wW",
+          "title": "pdx1::1795477595-jl1nqi9lg0iZuOrYej3uuEsablWvuEOH",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1795413217-g73w9tNmrsNj8FQ1ZP6I9tz9CkSJntQY",
+          "title": "pdx1::1795477601-dSRqa9pAHrFDgAs81OMNRLeHiptbqLny",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -82,12 +82,6 @@
       "courses": [
         {
           "title": "돈 되는 자리만 골라 시작하는 자판남의 자판기 부업 A to Z",
-          "date": "",
-          "link": "https://www.invader.co.kr/courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "레전드가 돌아왔다! 메이커 신발 완판신화",
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
@@ -139,6 +133,12 @@
           "date": "",
           "link": "https://www.invader.co.kr/courses",
           "thumbnail": ""
+        },
+        {
+          "title": "일요일 17:00 - 24:00  채널톡 운영",
+          "date": "",
+          "link": "https://www.invader.co.kr/courses",
+          "thumbnail": ""
         }
       ],
       "error": null
@@ -178,10 +178,10 @@
           "thumbnail": ""
         },
         {
-          "title": "Previous Next 1 2 3 4 5 6",
+          "title": "Previous Next 1 2 3 4 5 6 7",
           "date": "",
-          "link": "https://www.millmus.com/lecture/detail/983",
-          "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2F582f2148-5868-4da3-a640-6139a30e3890.png&w=3840&q=75"
+          "link": "https://www.millmus.com/lecture/detail/992",
+          "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2Fa9034317-ccfe-431b-a7f0-b6fce9b478e5.png&w=3840&q=75"
         }
       ],
       "error": null
@@ -300,6 +300,12 @@
       "url": "https://www.nlab.kr/courses?categoryId=free-courses",
       "courses": [
         {
+          "title": "자본, 재고, 광고비, 배송, CS 모두 NO!! 문자 한 통으로 월급 버는 공동구매 중개 특강 지금 진행 중!",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
           "title": "(🔥역대급 마감 속도🔥)",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
@@ -349,12 +355,6 @@
         },
         {
           "title": "(🔥9차 배포 마감🔥)",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "휴대폰 하나로 당근에서 월급 50배 버는 비법서(PDF) 무료 제공",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -635,25 +635,25 @@
       "url": "https://donclass.liveklass.com/p/donbropage",
       "courses": [
         {
-          "title": "뮤트 현금 자판기 무료특강",
+          "title": "무재고 유통 무료특강",
           "date": "",
-          "link": "https://donclass.liveklass.com/classes/304200",
-          "thumbnail": "https://cdn.liveklass.com/course/01a19b4099ab7963aba04701f7fb0f94.jpeg.medium"
+          "link": "https://donclass.liveklass.com/classes/263561",
+          "thumbnail": "https://cdn.liveklass.com/course/01a1bf0455b975f8b90d3e5033735a41.jpeg.medium"
         },
         {
-          "title": "초보자도 월 500 목표 현금 자판기, AI 자동화 위탁 판매 공유하기",
+          "title": "무재고, 리스크없이 월 300버는 노하우 공유하기",
           "date": "",
-          "link": "https://donclass.liveklass.com/classes/304200",
-          "thumbnail": "https://cdn.liveklass.com/course/01a19b4099ab7963aba04701f7fb0f94.jpeg.medium"
+          "link": "https://donclass.liveklass.com/classes/263561",
+          "thumbnail": "https://cdn.liveklass.com/course/01a1bf0455b975f8b90d3e5033735a41.jpeg.medium"
         },
         {
-          "title": "초보자도 월 500 목표 현금 자판기, AI 자동화 위탁 판매 공유하기",
+          "title": "무재고, 리스크없이 월 300버는 노하우 공유하기",
           "date": "",
-          "link": "https://donclass.liveklass.com/classes/304200",
+          "link": "https://donclass.liveklass.com/classes/263561",
           "thumbnail": ""
         },
         {
-          "title": "강의 돈버는형님들 강사 5.0 (31)",
+          "title": "강의 돈버는형님들 강사 5.0 (238)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
@@ -665,19 +665,19 @@
           "thumbnail": ""
         },
         {
-          "title": "5.0 (31)",
+          "title": "5.0 (238)",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
         },
         {
-          "title": "초보자도 월 500 목표 현금 자판기, AI 자동화 위탁 판매",
+          "title": "무재고, 리스크없이 월 300버는 노하우",
           "date": "",
-          "link": "https://donclass.liveklass.com/classes/304200",
+          "link": "https://donclass.liveklass.com/classes/263561",
           "thumbnail": ""
         },
         {
-          "title": "초보자도 월 500 목표 현금 자판기, AI 자동화 위탁 판매",
+          "title": "무재고, 리스크없이 월 300버는 노하우",
           "date": "",
           "link": "https://donclass.liveklass.com/p/donbropage",
           "thumbnail": ""
