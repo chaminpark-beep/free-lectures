@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 16:05",
+  "updated_at": "2026-11-27 06:25",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "pdx1::1795676278-6cD0zJeAtXmUNbUXzCuaso1yoNcR8kGg-e13849e2eef6",
+          "title": "iad1::1795727996-FfHehuJeH0Q3o7sPJ2iTPugiRcAlZY3Q-802b17beb7d7",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "pdx1::1795676284-M1vPkMB6x178GEd4kntdPWFfFtR1Tghi-3b0165d6570a",
+          "title": "iad1::1795728002-EutDn3LIxA2WTi5xqxYR6kB9G1wsjSxH-518011d8e1b1",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "pdx1::1795676291-E7dWsi1lvCXyfGfimO7moNlWQWvFNuTC-0d8884c31018",
+          "title": "iad1::1795728008-8JEIZ1WR12tU0sKM3gt4SDfD0I4oCnkE-148256d225c5",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -146,31 +146,159 @@
     {
       "name": "밀레니얼머니스쿨",
       "url": "https://millmus.com/lecture/coin/1",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://millmus.com/lecture/coin/1\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "오늘 하루 보지 않기",
+          "date": "",
+          "link": "https://millmus.com/lecture/coin/1",
+          "thumbnail": ""
+        },
+        {
+          "title": "홈 무료LIVE 프리미엄클래스 수강생 성과후기 & 이벤트",
+          "date": "",
+          "link": "https://millmus.com/",
+          "thumbnail": ""
+        },
+        {
+          "title": "홈 무료LIVE 프리미엄클래스 수강생 성과후기 & 이벤트",
+          "date": "",
+          "link": "https://millmus.com/",
+          "thumbnail": ""
+        },
+        {
+          "title": "로그인",
+          "date": "",
+          "link": "https://millmus.com/lecture/coin/1",
+          "thumbnail": ""
+        },
+        {
+          "title": "회원가입",
+          "date": "",
+          "link": "https://millmus.com/lecture/coin/1",
+          "thumbnail": ""
+        },
+        {
+          "title": "Previous Next 1 2 3 4 5 6 7",
+          "date": "",
+          "link": "https://www.millmus.com/lecture/detail/997",
+          "thumbnail": "https://millmus.com/lecture/coin/1/_next/image?url=https%3A%2F%2Fsingle-fire.s3.ap-northeast-2.amazonaws.com%2Fuploads%2Fbanner%2Ffb14bc87-067e-4379-93d9-50f63fa6b283.png&w=3840&q=75"
+        }
+      ],
+      "error": null
     },
     {
       "name": "시행착오",
       "url": "https://shco.co.kr/66",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://shco.co.kr/66\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "Alarm",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": "https://shco.co.kr/66/common/img/default_profile.png"
+        },
+        {
+          "title": "마이페이지 로그아웃",
+          "date": "",
+          "link": "https://shco.co.kr/login?back_url=L3Nob3BfbXlwYWdl&type=mypage",
+          "thumbnail": ""
+        },
+        {
+          "title": "시행착오란",
+          "date": "",
+          "link": "https://shco.co.kr/85",
+          "thumbnail": ""
+        },
+        {
+          "title": "무료특강",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": ""
+        },
+        {
+          "title": "프리미엄 강의 프리미엄 강의 VOD 강의",
+          "date": "",
+          "link": "https://shco.co.kr/21",
+          "thumbnail": ""
+        },
+        {
+          "title": "프리미엄 강의",
+          "date": "",
+          "link": "https://shco.co.kr/21",
+          "thumbnail": ""
+        },
+        {
+          "title": "VOD 강의",
+          "date": "",
+          "link": "https://shco.co.kr/89",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 라인업 강사 목록 강사 지원하기",
+          "date": "",
+          "link": "https://shco.co.kr/83",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 목록",
+          "date": "",
+          "link": "https://shco.co.kr/83",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 지원하기",
+          "date": "",
+          "link": "https://shco.co.kr/80",
+          "thumbnail": ""
+        },
+        {
+          "title": "성장 라운지 수강생 후기 수강생 성과",
+          "date": "",
+          "link": "https://shco.co.kr/76",
+          "thumbnail": ""
+        },
+        {
+          "title": "수강생 후기",
+          "date": "",
+          "link": "https://shco.co.kr/76",
+          "thumbnail": ""
+        },
+        {
+          "title": "수강생 성과",
+          "date": "",
+          "link": "https://shco.co.kr/91",
+          "thumbnail": ""
+        },
+        {
+          "title": "시행착오란",
+          "date": "",
+          "link": "https://shco.co.kr/85",
+          "thumbnail": ""
+        },
+        {
+          "title": "무료특강",
+          "date": "",
+          "link": "https://shco.co.kr/66",
+          "thumbnail": ""
+        },
+        {
+          "title": "프리미엄 강의",
+          "date": "",
+          "link": "https://shco.co.kr/21",
+          "thumbnail": ""
+        },
+        {
+          "title": "강사 라인업",
+          "date": "",
+          "link": "https://shco.co.kr/83",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "엔잡연구소",
       "url": "https://www.nlab.kr/courses?categoryId=free-courses",
       "courses": [
-        {
-          "title": "(🔥16차 배포 마감🔥)",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "'남이 만든 영상'으로 월급 3배 번 비법서(PDF) 받으러 가기",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
         {
           "title": "(🔥역대급 마감 속도🔥)",
           "date": "",
@@ -196,6 +324,30 @@
           "thumbnail": ""
         },
         {
+          "title": "🔥선착순 배포 시작🔥",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "중국 드라마 + 한글 자막으로 조회수 터지는 비법서(PDF) 무료 제공",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "🔥선착순 배포 시작🔥",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
+          "title": "중국어 몰라도 가능한 중국판 인스타+블로그 수익화 비법서(PDF) 무료 제공",
+          "date": "",
+          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
+          "thumbnail": ""
+        },
+        {
           "title": "3초 카톡플친하면 매일 무료 강의 소식이 옵니다.",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
@@ -203,18 +355,6 @@
         },
         {
           "title": "[코끼리] 집에서 혼자서도 가능! AI로 왕초보도 가능한 초간단 1인 퍼스널 브랜드 숏폼대행",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[배우는윤쇼]쿠팡으로 건강식품 판매 시작하는 법",
-          "date": "",
-          "link": "https://www.nlab.kr/courses?categoryId=free-courses",
-          "thumbnail": ""
-        },
-        {
-          "title": "[에어]당근에 전단지 뿌려 연금 벌기 실전 클래스",
           "date": "",
           "link": "https://www.nlab.kr/courses?categoryId=free-courses",
           "thumbnail": ""
@@ -288,12 +428,6 @@
           "thumbnail": ""
         },
         {
-          "title": "[무료강의] 월 300 AI 신종 부업",
-          "date": "",
-          "link": "https://www.moneyupclass.com/free-courses",
-          "thumbnail": ""
-        },
-        {
           "title": "[무료강의] 비밀링크 수익화 3단계",
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
@@ -340,6 +474,12 @@
           "date": "",
           "link": "https://www.moneyupclass.com/free-courses",
           "thumbnail": ""
+        },
+        {
+          "title": "핏크닉은 통신판매중개자로서 중개하는 거래에 대하여 책임을 부담하지 않습니다.",
+          "date": "",
+          "link": "https://www.moneyupclass.com/free-courses",
+          "thumbnail": ""
         }
       ],
       "error": null
@@ -353,14 +493,142 @@
     {
       "name": "황금후추",
       "url": "https://www.goldpepper.kr/103/",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.goldpepper.kr/103/\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "Alarm",
+          "date": "",
+          "link": "https://www.goldpepper.kr/103/",
+          "thumbnail": "https://www.goldpepper.kr/103//common/img/default_profile.png"
+        },
+        {
+          "title": "마이페이지 로그아웃",
+          "date": "",
+          "link": "https://www.goldpepper.kr/login?back_url=L3Nob3BfbXlwYWdl&type=mypage",
+          "thumbnail": ""
+        },
+        {
+          "title": "황금후추 회사소개 황금후추 소개 상담안내",
+          "date": "",
+          "link": "https://www.goldpepper.kr/120",
+          "thumbnail": ""
+        },
+        {
+          "title": "회사소개",
+          "date": "",
+          "link": "https://www.goldpepper.kr/conpany",
+          "thumbnail": ""
+        },
+        {
+          "title": "황금후추 소개",
+          "date": "",
+          "link": "https://www.goldpepper.kr/about",
+          "thumbnail": ""
+        },
+        {
+          "title": "상담안내",
+          "date": "",
+          "link": "https://www.goldpepper.kr/124",
+          "thumbnail": ""
+        },
+        {
+          "title": "클래스 무료강의 부동산 사주 타로 전자책",
+          "date": "",
+          "link": "https://www.goldpepper.kr/125",
+          "thumbnail": ""
+        },
+        {
+          "title": "무료강의",
+          "date": "",
+          "link": "https://www.goldpepper.kr/103",
+          "thumbnail": ""
+        },
+        {
+          "title": "부동산",
+          "date": "",
+          "link": "https://www.goldpepper.kr/class4",
+          "thumbnail": ""
+        },
+        {
+          "title": "전자책",
+          "date": "",
+          "link": "https://www.goldpepper.kr/class5",
+          "thumbnail": ""
+        },
+        {
+          "title": "커뮤니티 1:1 문의",
+          "date": "",
+          "link": "https://www.goldpepper.kr/130",
+          "thumbnail": ""
+        },
+        {
+          "title": "1:1 문의",
+          "date": "",
+          "link": "http://pf.kakao.com/_hDACG",
+          "thumbnail": ""
+        },
+        {
+          "title": "수강 후기",
+          "date": "",
+          "link": "https://www.goldpepper.kr/review",
+          "thumbnail": ""
+        },
+        {
+          "title": "사주 특강 혜택",
+          "date": "",
+          "link": "https://www.goldpepper.kr/270",
+          "thumbnail": ""
+        },
+        {
+          "title": "강의실",
+          "date": "",
+          "link": "https://www.goldpepper.kr/136",
+          "thumbnail": ""
+        },
+        {
+          "title": "황금후추",
+          "date": "",
+          "link": "https://www.goldpepper.kr/120",
+          "thumbnail": ""
+        },
+        {
+          "title": "클래스",
+          "date": "",
+          "link": "https://www.goldpepper.kr/125",
+          "thumbnail": ""
+        },
+        {
+          "title": "커뮤니티",
+          "date": "",
+          "link": "https://www.goldpepper.kr/130",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "터닝포인트스쿨",
       "url": "https://www.tpschool.co.kr/p/webinar",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.tpschool.co.kr/p/webinar\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "일본어 몰라도 OK! 하루 2시간으로 월 1,800만 원 만든 AI 일본 구매대행",
+          "date": "",
+          "link": "https://www.tpschool.co.kr/cu/mUMkVp9u",
+          "thumbnail": ""
+        },
+        {
+          "title": "[미스멍디] 똥손도 월 1억 찍은 AI 인스타툰 수익화 노하우 무료특강",
+          "date": "",
+          "link": "https://www.tpschool.co.kr/classes/215059",
+          "thumbnail": "https://cdn.liveklass.com/course/01a17baf0dcd74a6974f1dbec76d8c6e.png.medium"
+        },
+        {
+          "title": "[미스멍디] 똥손도 월 300으로 시작하는 AI 인스타툰 수익화 마스터 클래스 (12개월 무이자 지원)",
+          "date": "",
+          "link": "https://www.tpschool.co.kr/classes/326211",
+          "thumbnail": "https://cdn.liveklass.com/course/01a212eb2bda7bd084d799651caabf67.png.medium"
+        }
+      ],
+      "error": null
     },
     {
       "name": "아마겟돈클래스",
@@ -450,8 +718,27 @@
     {
       "name": "머니루트",
       "url": "https://moneyroot.co.kr/lectures/free",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://moneyroot.co.kr/lectures/free\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "AI 온라인 과일 자판기 무료강의",
+          "date": "",
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=79&event=6aa9f3daaff02",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_08_04_4.png"
+        },
+        {
+          "title": "AI 온라인 과일 자판기 무료강의",
+          "date": "",
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=79&event=6aa9f3daaff02",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_08_04_4.png"
+        },
+        {
+          "title": "AI 온라인 과일 자판기 무료강의",
+          "date": "",
+          "link": "https://moneyroot.co.kr/shop/product/view?product_id=79&event=6aa9f3daaff02",
+          "thumbnail": "https://moneyroot.co.kr/lectures/free/static/front/images/toesayeonguso/free_thumbnail_08_04_4.png"
+        }
+      ],
+      "error": null
     },
     {
       "name": "피터팬스쿨",
