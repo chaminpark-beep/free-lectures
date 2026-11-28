@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 06:06",
+  "updated_at": "2026-11-28 15:31",
   "sites": [
     {
       "name": "타이탄클래스",
@@ -18,7 +18,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1795813237-WKlax2Ja0KPVC1k1gKjLazwNLMmk2hf7-9870d55296b1",
+          "title": "iad1::1795847109-tto8FtND5ZFLqnkaAiW88YyCpCNnuqZQ-92c408447352",
           "date": "",
           "link": "https://www.titanclass.co.kr/free-courses",
           "thumbnail": ""
@@ -43,7 +43,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1795813243-yrkXezS09ckTo7heGx937AWySxhbtPCr-b85e17f54eb4",
+          "title": "iad1::1795847116-0ZD2xCP5E4looUfdBgq3yKr88oyU9oZq-c931838db284",
           "date": "",
           "link": "https://www.cojooboo.co.kr/courses?courseType=FREE",
           "thumbnail": ""
@@ -68,7 +68,7 @@
           "thumbnail": ""
         },
         {
-          "title": "sfo1::1795813249-gNdlh9NFr93Bl0tgn9rfr14lMMiRwziX-0c69efdc05e3",
+          "title": "iad1::1795847122-7yICHEA8zl6ti928Wyr59vt9yTz8qyTf-815ef60c7b49",
           "date": "",
           "link": "https://www.ivyclass.co.kr/courses",
           "thumbnail": ""
@@ -688,8 +688,21 @@
     {
       "name": "프레스런",
       "url": "https://presslearn.co.kr/fc",
-      "courses": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://presslearn.co.kr/fc\", waiting until \"networkidle\"\n"
+      "courses": [
+        {
+          "title": "프레스런",
+          "date": "",
+          "link": "https://presslearn.co.kr/",
+          "thumbnail": ""
+        },
+        {
+          "title": "무료 강의",
+          "date": "",
+          "link": "https://presslearn.co.kr/fc",
+          "thumbnail": ""
+        }
+      ],
+      "error": null
     },
     {
       "name": "인사이트머니랩",
